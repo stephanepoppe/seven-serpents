@@ -1,4 +1,4 @@
-import { useEffect, useRef, useMemo, useCallback } from 'react';
+import { useEffect, useRef, useMemo, useCallback, useState } from 'react';
 import ferryData from '../data/ferries.json';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -82,6 +82,11 @@ export default function MapView({ segments, visibleSegments, pois, ferries, elev
   const ferryLayerRef = useRef<L.LayerGroup | null>(null);
   const distLayerRef = useRef<L.LayerGroup | null>(null);
   const hoverMarkerRef = useRef<L.CircleMarker | null>(null);
+  const locationMarkerRef = useRef<L.Marker | null>(null);
+  const locationAccCircleRef = useRef<L.Circle | null>(null);
+  const watchIdRef = useRef<number | null>(null);
+  const [locating, setLocating] = useState(false);
+  const [locationError, setLocationError] = useState<string | null>(null);
 
   // Init map once
   useEffect(() => {
@@ -144,6 +149,71 @@ export default function MapView({ segments, visibleSegments, pois, ferries, elev
       mapRef.current = null;
     };
   }, []);
+
+  // Geolocation
+  const locIcon = useMemo(() => L.divIcon({
+    html: `<div style="
+      width:16px;height:16px;border-radius:50%;
+      background:#4a90d9;border:3px solid white;
+      box-shadow:0 0 0 2px #4a90d9;
+      animation:loc-pulse 2s ease-out infinite;
+    "></div>`,
+    className: '',
+    iconSize: [16, 16],
+    iconAnchor: [8, 8],
+  }), []);
+
+  function startLocating() {
+    if (!navigator.geolocation) {
+      setLocationError('Geolocation not supported');
+      return;
+    }
+    setLocating(true);
+    setLocationError(null);
+
+    if (watchIdRef.current !== null) navigator.geolocation.clearWatch(watchIdRef.current);
+
+    watchIdRef.current = navigator.geolocation.watchPosition(
+      pos => {
+        const { latitude: lat, longitude: lng, accuracy } = pos.coords;
+        const map = mapRef.current;
+        if (!map) return;
+
+        if (locationMarkerRef.current) {
+          locationMarkerRef.current.setLatLng([lat, lng]);
+          locationAccCircleRef.current?.setLatLng([lat, lng]).setRadius(accuracy);
+        } else {
+          locationAccCircleRef.current = L.circle([lat, lng], {
+            radius: accuracy, color: '#4a90d9', fillColor: '#4a90d9',
+            fillOpacity: 0.08, weight: 1, interactive: false,
+          }).addTo(map);
+          locationMarkerRef.current = L.marker([lat, lng], { icon: locIcon, interactive: false, zIndexOffset: 1000 }).addTo(map);
+          map.setView([lat, lng], Math.max(map.getZoom(), 12));
+        }
+      },
+      err => {
+        setLocating(false);
+        setLocationError(err.code === 1 ? 'Location access denied' : 'Could not get location');
+      },
+      { enableHighAccuracy: true, maximumAge: 5000 },
+    );
+  }
+
+  function stopLocating() {
+    if (watchIdRef.current !== null) {
+      navigator.geolocation.clearWatch(watchIdRef.current);
+      watchIdRef.current = null;
+    }
+    locationMarkerRef.current?.remove(); locationMarkerRef.current = null;
+    locationAccCircleRef.current?.remove(); locationAccCircleRef.current = null;
+    setLocating(false);
+    setLocationError(null);
+  }
+
+  function centerOnLocation() {
+    const marker = locationMarkerRef.current;
+    if (marker && mapRef.current) mapRef.current.setView(marker.getLatLng(), Math.max(mapRef.current.getZoom(), 14));
+  }
 
   // Update route lines
   useEffect(() => {
@@ -340,8 +410,40 @@ export default function MapView({ segments, visibleSegments, pois, ferries, elev
   // Satisfy exhaustive-deps for useMemo (not used but listed to avoid lint)
   useMemo(() => null, []);
 
+  const btnStyle = (color: string): React.CSSProperties => ({
+    width: 36, height: 36, borderRadius: '50%',
+    background: 'rgba(20,20,20,0.85)', border: `2px solid ${color}`,
+    color, fontSize: 20, lineHeight: '1', cursor: 'pointer',
+    display: 'flex', alignItems: 'center', justifyContent: 'center',
+    boxShadow: '0 2px 8px rgba(0,0,0,0.4)',
+  });
+
   // Suppress unused import warning
   void useCallback;
 
-  return <div ref={containerRef} className="map-container" />;
+  return (
+    <div style={{ position: 'relative', flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
+      <style>{`@keyframes loc-pulse{0%{box-shadow:0 0 0 0 rgba(74,144,217,0.6)}70%{box-shadow:0 0 0 10px rgba(74,144,217,0)}100%{box-shadow:0 0 0 0 rgba(74,144,217,0)}}`}</style>
+      <div ref={containerRef} className="map-container" />
+      <div style={{ position: 'absolute', bottom: 90, left: 12, zIndex: 1000, display: 'flex', flexDirection: 'column', gap: 6 }}>
+        {locationError && (
+          <div style={{ background: 'rgba(30,30,30,0.9)', color: '#f85149', fontSize: 11, padding: '4px 8px', borderRadius: 6, maxWidth: 180 }}>
+            {locationError}
+          </div>
+        )}
+        {locating && (
+          <button onClick={centerOnLocation} title="Center on my location" style={btnStyle('#4a90d9')}>
+            ◎
+          </button>
+        )}
+        <button
+          onClick={locating ? stopLocating : startLocating}
+          title={locating ? 'Stop tracking' : 'Show my location'}
+          style={btnStyle(locating ? '#f85149' : '#ffffff')}
+        >
+          {locating ? '✕' : '⊕'}
+        </button>
+      </div>
+    </div>
+  );
 }
