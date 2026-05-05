@@ -46,7 +46,7 @@ export default function App() {
   useEffect(() => {
     Promise.all(
       GPX_SOURCES.map(async src => {
-        const resp = await fetch(`/gpx/${src.filename}`);
+        const resp = await fetch(`${import.meta.env.BASE_URL}gpx/${src.filename}`);
         const xml = await resp.text();
         const { points, waypoints } = parseGPX(xml);
         return {
