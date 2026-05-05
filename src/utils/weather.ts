@@ -3,7 +3,7 @@ import type { SegmentWeather, WeatherDay } from '../types';
 const FORECAST_URL = 'https://api.open-meteo.com/v1/forecast';
 const ARCHIVE_URL = 'https://archive-api.open-meteo.com/v1/archive';
 
-const DAILY_VARS = 'temperature_2m_max,temperature_2m_min,precipitation_sum,windspeed_10m_max,weathercode';
+const DAILY_VARS = 'temperature_2m_max,temperature_2m_min,precipitation_sum,windspeed_10m_max,winddirection_10m_dominant,weathercode';
 
 function addDays(dateStr: string, n: number): string {
   const d = new Date(dateStr);
@@ -37,6 +37,7 @@ async function fetchDailyWeather(
     tempMin: json.daily.temperature_2m_min[i],
     precipitation: json.daily.precipitation_sum[i] ?? 0,
     windspeedMax: json.daily.windspeed_10m_max[i] ?? 0,
+    windDirection: json.daily.winddirection_10m_dominant[i] ?? 0,
     weatherCode: json.daily.weathercode[i] ?? 0,
   }));
 }

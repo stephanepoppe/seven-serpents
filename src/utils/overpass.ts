@@ -50,18 +50,20 @@ function detectCategory(tags: Record<string, string>): POICategory | null {
   if (tags.tourism === 'camp_site') return 'camping';
   if (tags.tourism === 'hostel') return 'hostel';
   if (tags.tourism === 'hotel' || tags.tourism === 'motel') return 'hotel';
+  if (['alpine_hut', 'wilderness_hut', 'lean_to', 'shelter'].includes(tags.tourism)) return 'hut';
   if (['restaurant', 'fast_food', 'cafe', 'bar'].includes(tags.amenity)) return 'restaurant';
   if (['supermarket', 'convenience', 'grocery'].includes(tags.shop)) return 'supermarket';
   if (tags.amenity === 'drinking_water' || tags.natural === 'spring') return 'water';
+  if (tags.amenity === 'shelter') return 'hut';
   return null;
 }
 
 function buildQuery(bbox: string): string {
   return `[out:json][timeout:25];
 (
-  node["tourism"~"^(camp_site|hostel|hotel|motel)$"](${bbox});
-  way["tourism"~"^(camp_site|hostel|hotel|motel)$"](${bbox});
-  node["amenity"~"^(restaurant|fast_food|cafe|bar|drinking_water)$"](${bbox});
+  node["tourism"~"^(camp_site|hostel|hotel|motel|alpine_hut|wilderness_hut|lean_to|shelter)$"](${bbox});
+  way["tourism"~"^(camp_site|hostel|hotel|motel|alpine_hut|wilderness_hut|lean_to|shelter)$"](${bbox});
+  node["amenity"~"^(restaurant|fast_food|cafe|bar|drinking_water|shelter)$"](${bbox});
   node["shop"~"^(supermarket|convenience|grocery)$"](${bbox});
   node["natural"="spring"]["drinking_water"!="no"](${bbox});
 );

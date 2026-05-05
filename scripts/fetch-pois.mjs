@@ -98,6 +98,69 @@ function isDuplicate(poi, existing) {
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
+// ── Overpass (mountain huts) ──────────────────────────────────────────────
+// Covers: alpine_hut, wilderness_hut, lean_to, shelter
+// Data source: OpenStreetMap via public Overpass mirrors
+
+const OVERPASS_ENDPOINTS = [
+  'https://overpass-api.de/api/interpreter',
+  'https://overpass.kumi.systems/api/interpreter',
+];
+
+function overpassBbox(points) {
+  const lats = points.map(p => p.lat), lons = points.map(p => p.lon);
+  const buf = BBOX_BUFFER_DEG;
+  return `${Math.min(...lats) - buf},${Math.min(...lons) - buf},${Math.max(...lats) + buf},${Math.max(...lons) + buf}`;
+}
+
+async function fetchOverpassHuts(points) {
+  const bbox = overpassBbox(points);
+  const query = `[out:json][timeout:30];
+(
+  node["tourism"~"^(alpine_hut|wilderness_hut|lean_to|shelter)$"](${bbox});
+  way["tourism"~"^(alpine_hut|wilderness_hut|lean_to|shelter)$"](${bbox});
+  node["amenity"="shelter"](${bbox});
+);
+out center;`;
+
+  for (const url of OVERPASS_ENDPOINTS) {
+    try {
+      const resp = await fetch(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'User-Agent': 'seven-serpents-route-planner/1.0 (bikepacking route app)',
+        },
+        body: `data=${encodeURIComponent(query)}`,
+      });
+      if (!resp.ok) continue;
+      const json = await resp.json();
+      if (json.remark?.includes('timed out') || json.remark?.includes('quota')) continue;
+
+      const pois = [];
+      for (const el of json.elements ?? []) {
+        const lat = el.lat ?? el.center?.lat;
+        const lon = el.lon ?? el.center?.lon;
+        if (lat == null || lon == null) continue;
+        const tags = el.tags ?? {};
+        const name = tags.name ?? tags['name:en'] ?? tags['name:hr'] ?? tags['name:sl'] ?? 'Mountain hut';
+        pois.push({
+          id: `osm-${el.type}-${el.id}`,
+          lat, lon, name,
+          category: 'hut',
+          source: 'overpass',
+          ...(tags.website   ? { website: tags.website }           : {}),
+          ...(tags.phone     ? { phone: tags.phone }               : {}),
+          ...(tags['contact:phone'] ? { phone: tags['contact:phone'] } : {}),
+        });
+      }
+      return pois;
+    } catch { /* try next mirror */ }
+  }
+  console.warn('  Overpass: all mirrors failed, skipping huts');
+  return [];
+}
+
 // ── Geoapify ──────────────────────────────────────────────────────────────
 // Covers: camping, hostel, supermarket, drinking water
 // Data source: OpenStreetMap (best for rural / outdoor categories)
@@ -128,34 +191,47 @@ function geoapifyCategory(cats) {
   return null;
 }
 
+// Query in 20 km chunks so the 500-result limit is applied locally, not globally.
+// A single bbox over a 300 km route fills the limit with city POIs and misses rural areas.
+const GEOAPIFY_CHUNK_KM = 20;
+const GEOAPIFY_CHUNK_BUFFER_DEG = 0.18; // ~20 km buffer around each chunk centre
+
 async function fetchGeoapify(points) {
-  const { minLat, maxLat, minLon, maxLon } = getBbox(points);
-  // Geoapify rect filter: lon_min,lat_min,lon_max,lat_max
-  const filter = `rect:${minLon},${minLat},${maxLon},${maxLat}`;
-  const url = `https://api.geoapify.com/v2/places?categories=${GEOAPIFY_CATEGORIES}&filter=${filter}&limit=500&apiKey=${GEOAPIFY_KEY}`;
-
-  const resp = await fetch(url);
-  if (!resp.ok) throw new Error(`Geoapify HTTP ${resp.status}: ${await resp.text()}`);
-  const json = await resp.json();
-
+  const chunkCentres = samplePoints(points, GEOAPIFY_CHUNK_KM);
   const pois = [];
-  for (const f of json.features ?? []) {
-    const [lon, lat] = f.geometry.coordinates;
-    const p = f.properties;
-    const category = geoapifyCategory(p.categories);
-    if (!category) continue;
+  const seenIds = new Set();
 
-    const poi = {
-      id:       `geo-${p.place_id}`,
-      lat, lon,
-      name:     p.name || category,
-      category,
-      source:   'geoapify',
-    };
-    if (p.website)                poi.website      = p.website;
-    if (p.contact?.phone)         poi.phone        = p.contact.phone;
-    if (p.opening_hours)          poi.openingHours = p.opening_hours;
-    pois.push(poi);
+  for (const centre of chunkCentres) {
+    const buf = GEOAPIFY_CHUNK_BUFFER_DEG;
+    const filter = `rect:${centre.lon - buf},${centre.lat - buf},${centre.lon + buf},${centre.lat + buf}`;
+    const url = `https://api.geoapify.com/v2/places?categories=${GEOAPIFY_CATEGORIES}&filter=${filter}&limit=500&apiKey=${GEOAPIFY_KEY}`;
+
+    const resp = await fetch(url);
+    if (!resp.ok) throw new Error(`Geoapify HTTP ${resp.status}: ${await resp.text()}`);
+    const json = await resp.json();
+
+    for (const f of json.features ?? []) {
+      const [lon, lat] = f.geometry.coordinates;
+      const p = f.properties;
+      if (seenIds.has(p.place_id)) continue;
+      seenIds.add(p.place_id);
+      const category = geoapifyCategory(p.categories);
+      if (!category) continue;
+
+      const poi = {
+        id:       `geo-${p.place_id}`,
+        lat, lon,
+        name:     p.name || category,
+        category,
+        source:   'geoapify',
+      };
+      if (p.website)                poi.website      = p.website;
+      if (p.contact?.phone)         poi.phone        = p.contact.phone;
+      if (p.opening_hours)          poi.openingHours = p.opening_hours;
+      pois.push(poi);
+    }
+
+    await sleep(200);
   }
   return pois;
 }
@@ -248,6 +324,15 @@ for (const src of GPX_FILES) {
   const points = parseGPXPoints(xml);
   const samples = samplePoints(points, SAMPLE_KM_FINE);
   console.log(`  ${points.length} track points, ${samples.length} radius-check samples`);
+
+  // Overpass — mountain huts
+  process.stdout.write('  Overpass (alpine huts/shelters)… ');
+  const hutPOIs = await fetchOverpassHuts(points);
+  let hutsAdded = 0;
+  for (const poi of hutPOIs) { const before = all.length; addPOI(poi, samples); if (all.length > before) hutsAdded++; }
+  console.log(`${hutsAdded} added`);
+
+  await sleep(1000);
 
   // Geoapify
   process.stdout.write('  Geoapify (camping/hostel/supermarket/water)… ');

@@ -577,11 +577,1031 @@
     "openingHours": "Tu-Su 11:30-22:30"
   },
   {
+    "id": "geo-512901d64fa4102d4059d8d9eb38d9034740f00103f9015164d7cd0200000092030a426f692042726173696c",
+    "lat": 46.0300666,
+    "lon": 14.5325036,
+    "name": "Boi Brasil",
+    "category": "restaurant",
+    "phone": "+386 40 589 446"
+  },
+  {
+    "id": "geo-51255415bfce122d4059161f550383034740f00103f901c937478802000000920322426f692042726173696c2c204272617a696c736b6120726573746172766163696a61",
+    "lat": 46.0274357,
+    "lon": 14.5367336,
+    "name": "Boi Brasil, Brazilska restarvacija",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5101bad4ad43022d405902db1c42f0054740f00103f901b8918f4a000000009203085368616d62616c61",
+    "lat": 46.0463946,
+    "lon": 14.5044226,
+    "name": "Shambala",
+    "category": "restaurant",
+    "website": "https://shambala.si",
+    "phone": "+386 31 843833",
+    "openingHours": "Mo-Fr 12:00-22:30; Sa 22:30; Su,PH off"
+  },
+  {
+    "id": "geo-51b728ab832d022d4059a84d4917a7054740f00102f9017ca1da0a0000000092030a50726920c5a06b6f6675",
+    "lat": 46.044161711495065,
+    "lon": 14.504253496783674,
+    "name": "Pri Škofu",
+    "category": "restaurant",
+    "phone": "+386 1 426 45 08",
+    "openingHours": "We-Sa 18:00-23:00; Su 12:00-16:00"
+  },
+  {
+    "id": "geo-514858af7d5c022d4059049abe8d83054740f00103f901e7d48a360100000092030a53415820686f7374656c",
+    "lat": 46.0430772,
+    "lon": 14.5046119,
+    "name": "SAX hostel",
+    "category": "hostel",
+    "phone": "+386 51804450"
+  },
+  {
+    "id": "geo-511053b44eac022d40590bb8857181054740f00102f901dcefd10a000000009203084d65726361746f72",
+    "lat": 46.04301280049557,
+    "lon": 14.505220851433052,
+    "name": "Mercator",
+    "category": "supermarket",
+    "website": "https://www.mercator.si/prodajna-mesta/market-trnovski-pristan-ljubljana/",
+    "phone": "+386 51 285 489",
+    "openingHours": "Mo-Sa 07:00-21:00"
+  },
+  {
+    "id": "geo-5120b2704f56052d4059ec027dacbc054740f00102f901026ece0c0000000092031e5469666c69732c206772757a696a736b6120726573746176726163696a61",
+    "lat": 46.04482036689828,
+    "lon": 14.510424120432674,
+    "name": "Tiflis, gruzijska restavracija",
+    "category": "restaurant",
+    "website": "https://tiflis.si/"
+  },
+  {
+    "id": "geo-514b06802a6e042d4059efeab01de7054740f00103f901e4d8392001000000920312466f6e74616e6120476f726e6a6920747267",
+    "lat": 46.0461156,
+    "lon": 14.508653,
+    "name": "Fontana Gornji trg",
+    "category": "water"
+  },
+  {
+    "id": "geo-51ff0cca8f53072d405914ae47e17a054740f00103f9019dc6057c0200000092030c426f6d626179204672657368",
+    "lat": 46.0428125,
+    "lon": 14.5143094,
+    "name": "Bombay Fresh",
+    "category": "restaurant",
+    "phone": "+386 1 601 20 00"
+  },
+  {
+    "id": "geo-517446b4d8c9052d4059724edfa423054740f00102f901600e2d19000000009203104b617661726e69636120c5a070696361",
+    "lat": 46.04015026954302,
+    "lon": 14.511305591589213,
+    "name": "Kavarnica Špica",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a70293c08b072d4059f6acb54137054740f00103f9017800445d01000000920310c48c616a6e696361205072696d756c61",
+    "lat": 46.0407488,
+    "lon": 14.5147381,
+    "name": "Čajnica Primula",
+    "category": "restaurant",
+    "website": "https://www.cajnica-primula.si",
+    "openingHours": "Mo-Su 09:00-19:00"
+  },
+  {
+    "id": "geo-519875b5cb6d152d40592ca688c21d064740f00103f901afa35d1f0000000092030f4d6573746f20486f6e67204b6f6e67",
+    "lat": 46.0477832,
+    "lon": 14.5418533,
+    "name": "Mesto Hong Kong",
+    "category": "restaurant",
+    "website": "https://lakomlacen.si/halo-hong-kong/menus",
+    "phone": "+38616207718",
+    "openingHours": "Mo-Fr 10:00-22:00; Sa-Su 11:00-22:00"
+  },
+  {
+    "id": "geo-51c5f13279b9162d4059e72219cd25064740f00103f90194a65d1f0000000092030b4465736574207620706f6c",
+    "lat": 46.0480286,
+    "lon": 14.5443838,
+    "name": "Deset v pol",
+    "category": "restaurant",
+    "website": "https://10vpol.si/",
+    "phone": "+38615421299",
+    "openingHours": "Mo-Fr 10:00-22:00; Sa 11:00-22:00; Su 11:00-20:00"
+  },
+  {
+    "id": "geo-51e856be1d97072d4059a070766b99064740f00103f901879614100300000092030c47726173686b612044656c69",
+    "lat": 46.051557,
+    "lon": 14.5148248,
+    "name": "Grashka Deli",
+    "category": "restaurant",
+    "openingHours": "Mo-Tu 09:00-18:00; We-Fr 09:00-21:00; Sa 09:00-18:00"
+  },
+  {
+    "id": "geo-5100338408dd062d4059bc26ffee78064740f00103f9013eb410c900000000920309486f7374656c203234",
+    "lat": 46.0505656,
+    "lon": 14.5134051,
+    "name": "Hostel 24",
+    "category": "hostel",
+    "website": "https://hostel24.si/",
+    "phone": "+386 40 780 036"
+  },
+  {
+    "id": "geo-51027bf1eac1052d4059523937b753064740f00103f901ad2d561c010000009203104869c5a16120506f6420477261646f6d",
+    "lat": 46.0494298,
+    "lon": 14.5112451,
+    "name": "Hiša Pod Gradom",
+    "category": "restaurant",
+    "website": "https://www.hisapodgradom.si/",
+    "phone": "+38631484369",
+    "openingHours": "Mo-Fr 10:00-22:00; Sa 12:00-22:00"
+  },
+  {
+    "id": "geo-51ecc616ddd56e2c40596ac2514da4e34640f00103f90111bc91280200000092030442726e65",
+    "lat": 45.7784516,
+    "lon": 14.2164754,
+    "name": "Brne",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-518449f1f1096d2c405938a1100187e34640f00103f901f2ded63101000000",
+    "lat": 45.7775575,
+    "lon": 14.2129665,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5113735a01cf6b2c40590f14d3e011e34640f00103f9019517642c010000009203054d616b616f",
+    "lat": 45.7739831,
+    "lon": 14.2105637,
+    "name": "Makao",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-512cdce8af0d6c2c4059dac6d0ea18e34640f00102f90129bc7b1f000000009203084d65726361746f72",
+    "lat": 45.77419791406801,
+    "lon": 14.211041924643801,
+    "name": "Mercator",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51a89f81a2c36d2c40592c442c071fe34640f00103f9015147cc570000000092030e42697374726f20c5a0746f726a61",
+    "lat": 45.7743844,
+    "lon": 14.2143832,
+    "name": "Bistro Štorja",
+    "category": "restaurant",
+    "website": "https://bistrostorja.si/",
+    "phone": "+386 0 59 92 78 98",
+    "openingHours": "Mo-Sa 12:00-21:00"
+  },
+  {
+    "id": "geo-519e51a9c8d76c2c40597305251642e34640f00103f90118ca866500000000920328506f73746f6a6e61204361766520526f6f6d7320262041706172746d656e74732050726f74657573",
+    "lat": 45.7754543,
+    "lon": 14.2125838,
+    "name": "Postojna Cave Rooms & Apartments Proteus",
+    "category": "hotel",
+    "website": "https://www.postojnska-jama.eu/",
+    "phone": "+386 81 610300"
+  },
+  {
+    "id": "geo-514f029b73f06c2c405938256ab3fbe24640f00103f90195facd9f0100000092031f4b415641524e41205349455354412c205065747261204772616820732e702e",
+    "lat": 45.7733063,
+    "lon": 14.212772,
+    "name": "KAVARNA SIESTA, Petra Grah s.p.",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5167bd6ba7c86e2c40594dead0a989e34640f00102f901e0731c2400000000",
+    "lat": 45.7776386518568,
+    "lon": 14.216374618436658,
+    "name": "hostel",
+    "category": "hostel"
+  },
+  {
+    "id": "geo-517f1d9320b76e2c405972c7f6b589e34640f00103f901443c6a100000000092030643656e746572",
+    "lat": 45.7776401,
+    "lon": 14.2162409,
+    "name": "Center",
+    "category": "hotel",
+    "website": "http://www.sport-hotel.si/",
+    "phone": "+386 5 7202244"
+  },
+  {
+    "id": "geo-516c64b213b96f2c4059a43f8fac57e24640f00103f901d13119360100000092031259656c6c6f7720447265616d20486f757365",
+    "lat": 45.7683006,
+    "lon": 14.2182089,
+    "name": "Yellow Dream House",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5171a47dbd0c682c40596e217eb4eee34640f00103f9017de329f502000000",
+    "lat": 45.7807222,
+    "lon": 14.2032222,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51b7fc049947682c4059b54e662ee5e34640f00102f901706df92900000000",
+    "lat": 45.78043155665856,
+    "lon": 14.203671247347627,
+    "name": "camping",
+    "category": "camping"
+  },
+  {
+    "id": "geo-5177238cc606692c4059a4648b5ce9e24640f00102f901d429db1600000000",
+    "lat": 45.77274662786775,
+    "lon": 14.205129818541293,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51154e7743bf672c40596e57433dd8e24640f00103f9013196db20020000009203084d65726361746f72",
+    "lat": 45.7722241,
+    "lon": 14.2026311,
+    "name": "Mercator",
+    "category": "supermarket",
+    "website": "https://www.mercator.si/prodajna-mesta/mercator-center-postojna/",
+    "phone": "05 721 47 08",
+    "openingHours": "Mo-Sa 08:00-21:00"
+  },
+  {
+    "id": "geo-51d9380774cb672c4059fcbdb964c1e24640f00103f90114a5543501000000920307546f7220426172",
+    "lat": 45.7715269,
+    "lon": 14.2027241,
+    "name": "Tor Bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b84082e2c76c2c4059e7902ffc3be34640f00103f90197facd9f01000000920316536c61c5a1c48d69c48d61726e61204d616a6c6f6e74",
+    "lat": 45.7752681,
+    "lon": 14.2124625,
+    "name": "Slaščičarna Majlont",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51881ee7ec536c2c40596b2112cf23e34640f00103f9015adffa2a020000009203074d6c65c48d6e61",
+    "lat": 45.7745303,
+    "lon": 14.2115778,
+    "name": "Mlečna",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51819ebc7e776d2c405967576b7242e34640f00103f901677571330100000092030fc5bd7570616e6f7661204d69636b61",
+    "lat": 45.7754653,
+    "lon": 14.2138023,
+    "name": "Županova Micka",
+    "category": "restaurant",
+    "openingHours": "Mo-Fr 06:00-14:00,18:00-20:30; Sa 08:00-14:00"
+  },
+  {
+    "id": "geo-5193fc2da63e692c4059949ff94102e44640f00103f90133626db300000000920315526573746176726163696a61204272696c6a616e74",
+    "lat": 45.7813189,
+    "lon": 14.2055561,
+    "name": "Restavracija Briljant",
+    "category": "restaurant",
+    "openingHours": "Mo-Su,PH 11:00-17:00"
+  },
+  {
+    "id": "geo-5144de72f5635b2c40599b632fca22e64640f00103f9018fdd29d2020000009203094c69706120506c6163",
+    "lat": 45.7979367,
+    "lon": 14.178497,
+    "name": "Lipa Plac",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 06:30-22:00"
+  },
+  {
+    "id": "geo-5164e025dd3b672c405942846ee5dbe24640f00103f9011fa554350100000092030943697469204b617661",
+    "lat": 45.7723357,
+    "lon": 14.2016286,
+    "name": "Citi Kava",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51811776ec7d682c405953dd9ae82fe44640f00102f9011bd5c6070000000092030d4a616d736b692064766f726563",
+    "lat": 45.782712054841475,
+    "lon": 14.204085721412186,
+    "name": "Jamski dvorec",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51644b451960692c4059e22e0ca2ffe34640f00103f901746ada0a0100000092030a486f74656c204a616d61",
+    "lat": 45.7812388,
+    "lon": 14.2058113,
+    "name": "Hotel Jama",
+    "category": "hotel",
+    "website": "https://www.postojnska-jama.eu/hotel-jama/",
+    "phone": "+386 05 700 02 00"
+  },
+  {
+    "id": "geo-518ab744eff7712c405945dba9c97ee44640f00102f9017133ac100000000092031e4d61726368c3a9205261766261726b6f6d616e64612049202d2057657374",
+    "lat": 45.785119255006556,
+    "lon": 14.222594716203975,
+    "name": "Marché Ravbarkomanda I - West",
+    "category": "restaurant",
+    "phone": "+386 5 720 00 10",
+    "openingHours": "06:00-21:00"
+  },
+  {
+    "id": "geo-51429a11258d5b2c40599ff4a40520e64640f00102f901007b4717000000009203094c69706120506c6163",
+    "lat": 45.79785223535986,
+    "lon": 14.178811224364043,
+    "name": "Lipa Plac",
+    "category": "camping"
+  },
+  {
+    "id": "geo-51dcd20f8f69e62c40595c85de2c6ff64640f00103f901ddddc8b50100000092030d42696f20686c6164696c6e696b",
+    "lat": 45.9252678,
+    "lon": 14.4500241,
+    "name": "Bio hladilnik",
+    "category": "water"
+  },
+  {
+    "id": "geo-51177321a00cc32c40597ce8274124f34640f00103f90179d1029702000000",
+    "lat": 45.8995439,
+    "lon": 14.3809557,
+    "name": "Pred Peklom",
+    "category": "camping"
+  },
+  {
+    "id": "geo-515578e11813c42c40599bb0581effe84640f00103f901ae95cf9c020000009203084d65726361746f72",
+    "lat": 45.8202856,
+    "lon": 14.3829582,
+    "name": "Mercator",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51afa6fcb506c42c405939a2d68fa8e84640f00103f9014bc9c94702000000",
+    "lat": 45.8176441,
+    "lon": 14.3828637,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51dbcf7355eab72c4059ed2c7aa702ed4640f00103f901aa3ee1b400000000",
+    "lat": 45.8516435,
+    "lon": 14.3592097,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5106a59e8537b82c4059739184a1b4e54640f00102f901589a8a1b0000000092030a446562656c6920426172",
+    "lat": 45.79457491848998,
+    "lon": 14.359798598876761,
+    "name": "Debeli Bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5119f90670c4b82c4059473767e9afe54640f00103f901e3350ba8010000009203084d65726361746f72",
+    "lat": 45.7944309,
+    "lon": 14.3608737,
+    "name": "Mercator",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51e6caa0dae0b82c405925fc9ccc89e54640f00103f901c6d1a43d0200000092030742757320426172",
+    "lat": 45.7932678,
+    "lon": 14.3610905,
+    "name": "Bus Bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51e5e70ce71eba2c40596e93838b7ce54640f00102f90151635f3e000000009203124b617661726e61204e61205472c5be6e2763",
+    "lat": 45.79286331104855,
+    "lon": 14.363517017674846,
+    "name": "Kavarna Na Tržn'c",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51f7fac4ac68bc2c4059477d3dae12e54640f00102f901664b471100000000",
+    "lat": 45.78963258745585,
+    "lon": 14.36798610596223,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51c22bf336e4942c4059feaf4cb16be54640f00102f90139a4a1190000000092030d43c5a04f4420646f6d2052616b",
+    "lat": 45.79234901661401,
+    "lon": 14.290803639587356,
+    "name": "CŠOD dom Rak",
+    "category": "hostel",
+    "website": "https://www.csod.si/dom/rakov-skocjan",
+    "phone": "+386 1 7093461"
+  },
+  {
+    "id": "geo-51e8af462c18b72c405963377d87ece24640f00103f901b9a7a08e02000000",
+    "lat": 45.7728433,
+    "lon": 14.3576063,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-516b68bf082ab82c405903a19ec75ee34640f00102f901a757d2240000000092030d4b6d6574696a61204c65766172",
+    "lat": 45.77632994885973,
+    "lon": 14.359695695271702,
+    "name": "Kmetija Levar",
+    "category": "restaurant",
+    "phone": "+386 1 7091 914"
+  },
+  {
+    "id": "geo-518e40bcae5f982c4059aa9ecc3ffae44640f00103f901e6b1b2d402000000",
+    "lat": 45.788887,
+    "lon": 14.297605,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5123153ac699b72c4059b51379b771e34640f00102f901a657d2240000000092031041706172746d616a69205672646a616e",
+    "lat": 45.776907858008975,
+    "lon": 14.358595079984815,
+    "name": "Apartmaji Vrdjan",
+    "category": "hotel",
+    "website": "http://www.apartmaji-vrdjan.si/slo",
+    "phone": "+38640154380"
+  },
+  {
+    "id": "geo-51759483d904e42c4059527de71725db4640f00103f901a7e6d66d00000000920311446f6d61c48d696a61204b616e64617265",
+    "lat": 45.7120695,
+    "lon": 14.4453495,
+    "name": "Domačija Kandare",
+    "category": "hostel",
+    "website": "www.domacijakandare.com",
+    "phone": "+386 1 7058158"
+  },
+  {
+    "id": "geo-51cceb2d8ac36a2c4059fbad9d2809e34640f00103f90193facd9f010000009203064d414c274341",
+    "lat": 45.773717,
+    "lon": 14.2085231,
+    "name": "MAL'CA",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5128ec472f0f6a2c40595140248d1be34640f00103f90197e2c9640000000092030750726f74657573",
+    "lat": 45.7742783,
+    "lon": 14.2071471,
+    "name": "Proteus",
+    "category": "hostel"
+  },
+  {
+    "id": "geo-51607bf7f8ff6a2c40597a6ac09529e34640f00102f9015a80fe0e0000000092030e50697a7a6572696a6120c48c756b",
+    "lat": 45.774706572487915,
+    "lon": 14.20898416539211,
+    "name": "Pizzerija Čuk",
+    "category": "restaurant",
+    "website": "https://gostilna-cuk.si/",
+    "phone": "+386 5 7201300",
+    "openingHours": "Mo,Th-Su 12:00-22:00"
+  },
+  {
+    "id": "geo-51b1bab36d1e6c2c40591853461f17e34640f00102f901b2fa7b1f00000000",
+    "lat": 45.77414313253229,
+    "lon": 14.211169651212318,
+    "name": "hostel",
+    "category": "hostel"
+  },
+  {
+    "id": "geo-517d38edce7f6c2c4059471c57c801e34640f00103f9014b28922802000000",
+    "lat": 45.7734919,
+    "lon": 14.2119126,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51f7178bf0406e2c40599be040ed5ce34640f00103f90118a67156010000009203074d696e75746b61",
+    "lat": 45.7762734,
+    "lon": 14.2153392,
+    "name": "Minutka",
+    "category": "restaurant",
+    "website": "https://www.facebook.com/pages/Pizzeria-Minutka/202470873235463",
+    "phone": "+386 31 851 371",
+    "openingHours": "Mo-Fr 12:00-15:00,18:00-21:00; Sa 17:00-21:00"
+  },
+  {
+    "id": "geo-5106de8c830a6e2c405924ae6aad50e24640f00102f901704dc018000000009203045475c5a1",
+    "lat": 45.76808707913395,
+    "lon": 14.214923964448655,
+    "name": "Tuš",
+    "category": "supermarket",
+    "website": "https://www.tus.si/odpiralni-cas/poslovalnica/tus-market-postojna",
+    "openingHours": "Mo-Sa 07:00-20:00"
+  },
+  {
+    "id": "geo-5181bee3ca8f6e2c40594043499231e24640f00103f9016653908d0100000092030e526f6f6d73205269626e696b6172",
+    "lat": 45.7671378,
+    "lon": 14.2159408,
+    "name": "Rooms Ribnikar",
+    "category": "hotel",
+    "phone": "+38641304287"
+  },
+  {
+    "id": "geo-512e07961746662c40599e21ec06d6e24640f00102f901b367f7500000000092030c505a4120506f73746f6a6e61",
+    "lat": 45.7721565869317,
+    "lon": 14.199753510536166,
+    "name": "PZA Postojna",
+    "category": "camping",
+    "website": "https://visit-postojna.si/en/where-to-stay/campsites-and-motorhome-parks/camper-stop-postojna/"
+  },
+  {
+    "id": "geo-511dd47bc639722c40596dbb6fb041e44640f00102f9017333ac100000000092031f4d61726368c3a9205261766261726b6f6d616e6461204949202d2045617374",
+    "lat": 45.783254675442414,
+    "lon": 14.223097040763657,
+    "name": "Marché Ravbarkomanda II - East",
+    "category": "restaurant",
+    "phone": "+386 5 720 26 60",
+    "openingHours": "Mo-Th 07:00-21:00; Fr-Su 06:00-22:00"
+  },
+  {
+    "id": "geo-51616067542a5a2c40596644b3fc0ae64640f00103f9016a229d0f03000000",
+    "lat": 45.7972103,
+    "lon": 14.1761042,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-511f1ca2c0f17f2c4059867bc0971dea4640f00103f901b92a8828020000009203094d6c696e6f74657374",
+    "lat": 45.8290281,
+    "lon": 14.2498913,
+    "name": "Mlinotest",
+    "category": "supermarket",
+    "openingHours": "Mo-Fr 07:30-18:30; Sa 08:00-13:00"
+  },
+  {
+    "id": "geo-51d3f0d2f2a8b92c4059a7ddf98f96e54640f00103f901149f165c010000009203204f6b726570c48d6576616c6e6963612056616c76617a6f726a6576204872616d",
+    "lat": 45.7936573,
+    "lon": 14.3626171,
+    "name": "Okrepčevalnica Valvazorjev Hram",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51deb0c80ad9cc2c40595ac5d10b2df44640f00103f9014c8c37e10200000092030d507227204c61c5a16b61726a75",
+    "lat": 45.9076247,
+    "lon": 14.4000934,
+    "name": "Pr' Laškarju",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51e4f6cb272bba2c405985bb0e304ee54640f00103f901c3d6da660000000092030453706172",
+    "lat": 45.7914486,
+    "lon": 14.3636105,
+    "name": "Spar",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-20:00; Su 07:00-12:00"
+  },
+  {
+    "id": "geo-516cf475b36bbb2c4059879f82e72ae54640f00102f901564b471100000000920305486f666572",
+    "lat": 45.79037183645328,
+    "lon": 14.366056068562294,
+    "name": "Hofer",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 08:00-21:00"
+  },
+  {
+    "id": "geo-510b09185ddebc2c40596a053c1f54e54640f00103f901ec867c810100000092030654656c69636f",
+    "lat": 45.7916297,
+    "lon": 14.368884,
+    "name": "Telico",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-516afe762364982c4059af18c314f7e44640f00102f9013772d34f00000000920314486f74656c2052616b6f7620c5a06b6f636a616e",
+    "lat": 45.788790316831516,
+    "lon": 14.29763899638711,
+    "name": "Hotel Rakov Škocjan",
+    "category": "hotel",
+    "phone": "+386 (0)1 729 84 62;+386 (0)31 391 195",
+    "openingHours": "Fr-We 08:00-22:00; Th 10:00-22:00"
+  },
+  {
+    "id": "geo-51ad4e69dcd9b62c4059abb147a7e8e24640f00102f901233e381200000000920311426172204a657a6572736b69204872616d",
+    "lat": 45.77272501946148,
+    "lon": 14.357130897383593,
+    "name": "Bar Jezerski Hram",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-512a070ec3a2412c4059ee8d6b8d52e84640f00103f9016fa4effd0000000092030f476f7374696c6e6120506fc5be6172",
+    "lat": 45.8150193,
+    "lon": 14.1281949,
+    "name": "Gostilna Požar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5177f123230c482c40591f49490f43e94640f00103f9016f87f4590100000092031b46616d61204d61726b65742046656c69c48d652042756b6f766a65",
+    "lat": 45.822359,
+    "lon": 14.1407176,
+    "name": "Fama Market Feliče Bukovje",
+    "category": "supermarket",
+    "website": "https://www.fama.si/nase-prodajalne/fama-market-felice-bukovje/",
+    "phone": "+386 5 721 84 80",
+    "openingHours": "Mo-Fr 08:00-18:00; Sa 08:00–12:00"
+  },
+  {
+    "id": "geo-51993d755199512c4059603711a2a1e74640f00102f90180a7bb0d0000000092030e426172206e612050726570696875",
+    "lat": 45.80962015,
+    "lon": 14.159372849999999,
+    "name": "Bar na Prepihu",
+    "category": "restaurant",
+    "phone": "+386 51 326968",
+    "openingHours": "Mo-Su 10:00-23:00"
+  },
+  {
+    "id": "geo-515312f22068432c4059b9c00eaf86e54640f00102f9019c4d3619000000009203104c6970697a7a616e6572204c6f646765",
+    "lat": 45.79317272396424,
+    "lon": 14.131653813886407,
+    "name": "Lipizzaner Lodge",
+    "category": "hotel",
+    "website": "https://www.lipizzanerlodge.com/",
+    "phone": "+386 40 378 037"
+  },
+  {
+    "id": "geo-51e6ce4c309c472c4059cb01710d22e94640f00103f9017a87f45901000000",
+    "lat": 45.8213517,
+    "lon": 14.1398635,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-517aef210e871a2d40592afd65a207d34640f00102f901b140a02a000000009203084d65726361746f72",
+    "lat": 45.648670482444075,
+    "lon": 14.55181163944484,
+    "name": "Mercator",
+    "category": "supermarket",
+    "website": "https://www.mercator.si/prodajna-mesta/kz-velike-lasce-sp-babno-polje/",
+    "openingHours": "Mo-Fr 07:00-19:00; Sa 07:00 - 12:00"
+  },
+  {
+    "id": "geo-516253420b64192d4059b9d3e7b4b8d24640f00103f90103e4345102000000",
+    "lat": 45.6462618,
+    "lon": 14.5495914,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5128d76f815fea2c4059322317f77abe4640f00103f9016211679a0200000092030854727374656e696b",
+    "lat": 45.4881276,
+    "lon": 14.4577599,
+    "name": "Trstenik",
+    "category": "water"
+  },
+  {
+    "id": "geo-51229c604903212d4059d331e719fbb64640f00103f9011a39b0840100000092031156656c696b6920446f6d20506c6174616b",
+    "lat": 45.429538,
+    "lon": 14.5644782,
+    "name": "Veliki Dom Platak",
+    "category": "restaurant",
+    "website": "https://www.dom-platak.com/hr/"
+  },
+  {
+    "id": "geo-511d75bf09e0212d4059fd13ae5b86b64640f00102f90129082c21000000009203104361666665206261722022536f766122",
+    "lat": 45.42597528457552,
+    "lon": 14.566162399884485,
+    "name": "Caffe bar \"Sova\"",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a99ac530cc222d4059abd0402c9bb64640f00103f901e8eeb52700000000",
+    "lat": 45.4266105,
+    "lon": 14.5679641,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b8921d1b81682d4059c1806fe4cba94640f00103f901ee5168c6020000009203144661737420666f6f64204b616d70696361204949",
+    "lat": 45.3265348,
+    "lon": 14.70411,
+    "name": "Fast food Kampica II",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51325294f0296d2d4059b8cebf5df6a64640f00103f9019fd4ca4d000000009203074269746f72616a",
+    "lat": 45.3043935,
+    "lon": 14.7132106,
+    "name": "Bitoraj",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51e7dc36dc566d2d405956d62abaeea64640f00102f901f058c7150000000092030e4b726f61746973206d61726b6574",
+    "lat": 45.304160376469255,
+    "lon": 14.713553315827495,
+    "name": "Kroatis market",
+    "category": "supermarket",
+    "phone": "+385830238",
+    "openingHours": "Mo-Sa 06:00-20:00; Su 07:00-13:00"
+  },
+  {
+    "id": "geo-51b7578bf4476d2d4059be0a3a6b01a74640f00103f901e860ecd400000000920308496e66696e697479",
+    "lat": 45.3047308,
+    "lon": 14.7134396,
+    "name": "Infinity",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a6a9aff8976e2d4059099ae0e533a74640f00103f901c4da494b01000000920318486f7374656c204675c5be696e6172736b6120486f757365",
+    "lat": 45.3062713,
+    "lon": 14.7160032,
+    "name": "Hostel Fužinarska House",
+    "category": "hostel",
+    "website": "https://hostel-fuzinarska-house.business.site/",
+    "phone": "+38551835857"
+  },
+  {
+    "id": "geo-5155247035fc6c2d40597a724d81cca74640f00103f90102c60e170200000092030f43616665204261722048756e746572",
+    "lat": 45.3109285,
+    "lon": 14.7128617,
+    "name": "Cafe Bar Hunter",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51544c4ae6fd682d40598a4d75125ba94640f00103f901add777830200000092030f43616666652062617220536b792033",
+    "lat": 45.3230918,
+    "lon": 14.7050621,
+    "name": "Caffe bar Sky 3",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5172ed5575a06c2d40593649e29b5ca74640f00103f901e025355002000000",
+    "lat": 45.3075137,
+    "lon": 14.7121617,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-513343f4b5786e2d40590be4237376a64640f00103f901cb0266c6020000009203134c6f7661c48d6b6920646f6d2041726e696b61",
+    "lat": 45.3004898,
+    "lon": 14.7157647,
+    "name": "Lovački dom Arnika",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51f6402b30646d2d405960ec18b215a74640f00103f901651e5b5202000000",
+    "lat": 45.3053496,
+    "lon": 14.713655,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-516ae27899bc6c2d4059524e6a1e76a74640f00103f901236d4ccb0000000092030542616a6572",
+    "lat": 45.3082922,
+    "lon": 14.7123764,
+    "name": "Bajer",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5158b730c15f722d40598676a96cb3a44640f00103f90189a4694102000000",
+    "lat": 45.2867256,
+    "lon": 14.7233868,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-511ea8531edd702d40596766c11fd9a74640f00103f9017f377fd80100000092030a536f6261204572696b61",
+    "lat": 45.3113136,
+    "lon": 14.720437,
+    "name": "Soba Erika",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-512403e55bc4702d4059d7906e3ab8a34640f00103f901ec7aef990100000092030856616c656e74696e",
+    "lat": 45.2790597,
+    "lon": 14.7202481,
+    "name": "Valentin",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-513b675595c7702d40595ed5592db0a34640f00103f901e6b709cc02000000",
+    "lat": 45.278814,
+    "lon": 14.7202727,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-511f31d52714e12d4059fd5fbf7163854640f00103f90187d6012a01000000920310427566666574204b6f6420c4866f6e65",
+    "lat": 45.0420973,
+    "lon": 14.9396069,
+    "name": "Buffet Kod Ćone",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-514c3cfb253dcb2d40593c4aca822e804640f00103f90115be64820100000092031252657374617572616e74204d617274696e61",
+    "lat": 45.0014194,
+    "lon": 14.8969509,
+    "name": "Restaurant Martina",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 08:00-22:00"
+  },
+  {
+    "id": "geo-51279cbb35e6cd2d40595b5835d3097f4640f00102f90192fd210b0000000092030453706172",
+    "lat": 44.992487336203986,
+    "lon": 14.902146987105949,
+    "name": "Spar",
+    "category": "supermarket",
+    "website": "https://www.spar.hr/lokacije/spar-supermarket-senj-53270-d-tomljanovica-gavrana-2b",
+    "openingHours": "Mo-Sa 07:00-21:00"
+  },
+  {
+    "id": "geo-518b451d67e4cd2d4059f2006086107f4640f00103f901e5ce730601000000",
+    "lat": 44.9926918,
+    "lon": 14.9021332,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51fb5de51dc3cc2d405922d5708f4b7f4640f00102f901880ec61a0000000092030b4b616d7020c5a06b766572",
+    "lat": 44.99449341782953,
+    "lon": 14.899926122902789,
+    "name": "Kamp Škver",
+    "category": "camping",
+    "website": "http://www.tz-senj.hr/kamp-skver/"
+  },
+  {
+    "id": "geo-51f2f917f7d5cf2d4059dbeb9392d47e4640f00103f901ad0d7e0a01000000",
+    "lat": 44.9908622,
+    "lon": 14.9059293,
+    "name": "Laura apartmanban",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5184680822e6cd2d4059c7889f5ad87e4640f00103f901eec0175702000000",
+    "lat": 44.9909776,
+    "lon": 14.9021464,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-510fa9b3a4edcd2d405900529b38b97e4640f00103f901da263c99010000009203054b6c617261",
+    "lat": 44.9900275,
+    "lon": 14.9022037,
+    "name": "Klara",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a70b991c68cc2d40598367ba189e7e4640f00102f901c8ca7829000000009203064d6564757a61",
+    "lat": 44.989199725167985,
+    "lon": 14.89923180931312,
+    "name": "Meduza",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5113190c642ccd2d4059f3d36eaaa47e4640f00103f901145a3b990100000092030555736b6f6b",
+    "lat": 44.9894002,
+    "lon": 14.9007293,
+    "name": "Uskok",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5119541b9c88ce2d40592ef87eb4497e4640f00103f901a9351650020000009203144b6f6e6f62612054767264617661204e65686179",
+    "lat": 44.9866243,
+    "lon": 14.903386,
+    "name": "Konoba Tvrdava Nehay",
+    "category": "restaurant",
+    "phone": "+385 53 885244",
+    "openingHours": "Mo-Su 09:00-21:00"
+  },
+  {
+    "id": "geo-5177b8c260a3cd2d40591ac9795ad97f4640f00103f90164f4092003000000",
+    "lat": 44.9988206,
+    "lon": 14.9016371,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51217e6a61bbce2d4059473b6ef8dd7e4640f00102f9015178d11400000000920307506c6f64696e65",
+    "lat": 44.991149,
+    "lon": 14.903773349999996,
+    "name": "Plodine",
+    "category": "supermarket",
+    "website": "https://www.plodine.hr",
+    "phone": "+385 53 652 380",
+    "openingHours": "Mo-Su 07:00-22:00"
+  },
+  {
+    "id": "geo-51f796cd774bcd2d4059183b866cc57e4640f00103f90185842e940100000092030555736b6f6b",
+    "lat": 44.9903999,
+    "lon": 14.9009664,
+    "name": "Uskok",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5127f0f384cacc2d4059ab7d95d7a57e4640f00103f901000020570200000092030f53747564656e6163204d61726b6574",
+    "lat": 44.9894361,
+    "lon": 14.8999826,
+    "name": "Studenac Market",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 06:30-22:00; Su 07:00-22:00"
+  },
+  {
+    "id": "geo-5193c08b63c9cd2d4059615dcb1aab7e4640f00103f901195eaa2502000000",
+    "lat": 44.9895967,
+    "lon": 14.9019271,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51517754ebb3cd2d40592a696a7ea17e4640f00103f901916fc714030000009203084164204173747261",
+    "lat": 44.9893034,
+    "lon": 14.9017633,
+    "name": "Ad Astra",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-516962708390ce2d40593c3833558b7e4640f00103f9014d58f49d02000000",
+    "lat": 44.9886271,
+    "lon": 14.9034463,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-515bb79ca62ad02d405988d459d2f67d4640f00103f901cd9b740601000000",
+    "lat": 44.9840949,
+    "lon": 14.9065754,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51f4cc81d4dcd02d40590dc17119377e4640f00103f901de71f9df0000000092030d42432041706172746d656e7473",
+    "lat": 44.9860565,
+    "lon": 14.9079348,
+    "name": "BC Apartments",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51407331618fcc2d4059d204e511377f4640f00103f90172b0fbc70100000092030d4b6f6e6f62612047616a657461",
+    "lat": 44.9938681,
+    "lon": 14.8995314,
+    "name": "Konoba Gajeta",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 10:00-23:00"
+  },
+  {
+    "id": "geo-51fef2c98ae1ce2d4059aa93d85a047f4640f00103f901554d57a602000000920317686f6c6964617920686f757365204a7572652053656e6a",
+    "lat": 44.9923204,
+    "lon": 14.9040645,
+    "name": "holiday house Jure Senj",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-519aef3be180cd2d4059d1460955c57e4640f00103f9013dbab4860000000092030b47617672616e6f7669c487",
+    "lat": 44.9903971,
+    "lon": 14.9013739,
+    "name": "Gavranović",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 06:30-21:00; Su 07:00-13:00"
+  },
+  {
+    "id": "geo-51053ef5fef5cc2d4059bba8cc83aa7e4640f00103f90140bab4860000000092030a427572612f3435c2b04e",
+    "lat": 44.9895787,
+    "lon": 14.9003143,
+    "name": "Bura/45°N",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5186a3f50192ce2d40595ef7b1dd987e4640f00103f901ede885060100000092030b47617672616e6f7669c487",
+    "lat": 44.9890401,
+    "lon": 14.9034577,
+    "name": "Gavranović",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 06:30-21:00; Su,PH 07:00-13:00"
+  },
+  {
+    "id": "geo-5108443e9e4cea2d40598ca8e4f7917c4640f00103f9016c18a681000000009203114b6f6e6f6261207374726963204c756b61",
+    "lat": 44.9732046,
+    "lon": 14.9576158,
+    "name": "Konoba stric Luka",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51177e030220e92d40594c03d0c6307b4640f00102f901df996f39000000009203144b75c48761207a61206f646d6f72204152494a41",
+    "lat": 44.962426044052876,
+    "lon": 14.95532232563623,
+    "name": "Kuća za odmor ARIJA",
+    "category": "hotel",
+    "website": "https://www.facebook.com/Ku%C4%87a-za-odmor-ARIJA-394796594292581/",
+    "phone": "+385 99 809 1683"
+  },
+  {
+    "id": "geo-51c2c47afe0fd32d4059920953ef047e4640f00103f90136bd28fa0200000092030e41706172746d616e204572696b61",
+    "lat": 44.9845256,
+    "lon": 14.9122314,
+    "name": "Apartman Erika",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-518e48caccbbd42d40598d599b6b3d7e4640f00103f9019a7fccda02000000920308c48c656d70726573",
+    "lat": 44.9862494,
+    "lon": 14.9154953,
+    "name": "Čempres",
+    "category": "restaurant"
+  },
+  {
     "id": "geo-51bfcd870c50972e4059332ceba3f8504640f00103f9016b0a226001000000",
     "lat": 44.6325879,
     "lon": 15.2955326,
     "name": "supermarket",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-5127874f3a91982e4059b70485e6df504640f00103f901330a22600100000092030a4b6f6420546164696a65",
+    "lat": 44.6318329,
+    "lon": 15.297983,
+    "name": "Kod Tadije",
+    "category": "restaurant"
   },
   {
     "id": "geo-51c2ee8513e2bf2e4059ec55bf2db3464640f00103f9012244bdcf020000009203064b6f6e7a756d",
@@ -683,148 +1703,585 @@
     "category": "supermarket"
   },
   {
-    "id": "geo-5108443e9e4cea2d40598ca8e4f7917c4640f00103f9016c18a681000000009203114b6f6e6f6261207374726963204c756b61",
-    "lat": 44.9732046,
-    "lon": 14.9576158,
-    "name": "Konoba stric Luka",
-    "category": "restaurant"
+    "id": "geo-515a7e481022c02e40592b866e76e5454640f00102f901eb029b0d00000000920310486f74656c205374617261204c696b61",
+    "lat": 44.546065143553584,
+    "lon": 15.375259884690582,
+    "name": "Hotel Stara Lika",
+    "category": "hotel"
   },
   {
-    "id": "geo-51279cbb35e6cd2d40595b5835d3097f4640f00102f90192fd210b0000000092030453706172",
-    "lat": 44.992487336203986,
-    "lon": 14.902146987105949,
-    "name": "Spar",
+    "id": "geo-51933a5c06f7c22e4059eba7ffacf9454640f00103f901f0feacd902000000",
+    "lat": 44.546682,
+    "lon": 15.3807909,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-515dcbbff110c12e4059887a0b3554464640f00103f9014781d270000000009203044c69646c",
+    "lat": 44.5494448,
+    "lon": 15.3770824,
+    "name": "Lidl",
     "category": "supermarket",
-    "website": "https://www.spar.hr/lokacije/spar-supermarket-senj-53270-d-tomljanovica-gavrana-2b",
-    "openingHours": "Mo-Sa 07:00-21:00"
+    "openingHours": "Mo-Sa 08:00-21:00, Su 08:00-18:00"
   },
   {
-    "id": "geo-518b451d67e4cd2d4059f2006086107f4640f00103f901e5ce730601000000",
-    "lat": 44.9926918,
-    "lon": 14.9021332,
+    "id": "geo-51bd9af2d71ac02e4059d99596917a464640f00103f901815b222d01000000",
+    "lat": 44.5506155,
+    "lon": 15.3752048,
     "name": "restaurant",
     "category": "restaurant"
   },
   {
-    "id": "geo-51fb5de51dc3cc2d405922d5708f4b7f4640f00102f901880ec61a0000000092030b4b616d7020c5a06b766572",
-    "lat": 44.99449341782953,
-    "lon": 14.899926122902789,
-    "name": "Kamp Škver",
-    "category": "camping",
-    "website": "http://www.tz-senj.hr/kamp-skver/"
+    "id": "geo-51f9d1ba57f7bd2e4059a03c878d0d464640f00103f901276993b40000000092030c436166666520626172204c41",
+    "lat": 44.5472886,
+    "lon": 15.3710277,
+    "name": "Caffe bar LA",
+    "category": "restaurant"
   },
   {
-    "id": "geo-51177e030220e92d40594c03d0c6307b4640f00102f901df996f39000000009203144b75c48761207a61206f646d6f72204152494a41",
-    "lat": 44.962426044052876,
-    "lon": 14.95532232563623,
-    "name": "Kuća za odmor ARIJA",
-    "category": "hotel",
-    "website": "https://www.facebook.com/Ku%C4%87a-za-odmor-ARIJA-394796594292581/",
-    "phone": "+385 99 809 1683"
+    "id": "geo-51aeae54617dbd2e405977b3507cc6454640f00103f9019c37371a0200000092030846726174656c6c69",
+    "lat": 44.5451198,
+    "lon": 15.3700972,
+    "name": "Fratelli",
+    "category": "restaurant"
   },
   {
-    "id": "geo-51f2f917f7d5cf2d4059dbeb9392d47e4640f00103f901ad0d7e0a01000000",
-    "lat": 44.9908622,
-    "lon": 14.9059293,
-    "name": "Laura apartmanban",
-    "category": "hotel"
+    "id": "geo-511aa20a7f86072f40595260014c19384640f00103f901353772100100000092030477656c6c",
+    "lat": 44.438272,
+    "lon": 15.514698,
+    "name": "well",
+    "category": "water"
   },
   {
-    "id": "geo-5184680822e6cd2d4059c7889f5ad87e4640f00103f901eec0175702000000",
-    "lat": 44.9909776,
-    "lon": 14.9021464,
+    "id": "geo-51fa1faa3af5462f4059a3433b02132c4640f00103f90123f964d202000000",
+    "lat": 44.3443301,
+    "lon": 15.6385897,
     "name": "water",
     "category": "water"
   },
   {
-    "id": "geo-510fa9b3a4edcd2d405900529b38b97e4640f00103f901da263c99010000009203054b6c617261",
-    "lat": 44.9900275,
-    "lon": 14.9022037,
-    "name": "Klara",
-    "category": "restaurant"
+    "id": "geo-51e2d1feb8824e2f405992ce8d375f2e4640f00102f9014e12721d00000000920310486f7374656c20537665746920526f6b",
+    "lat": 44.36228079246679,
+    "lon": 15.653341084581317,
+    "name": "Hostel Sveti Rok",
+    "category": "hostel",
+    "website": "https://www.hostelsvetirok.com",
+    "phone": "099 340 2410"
   },
   {
-    "id": "geo-51a70b991c68cc2d40598367ba189e7e4640f00102f901c8ca7829000000009203064d6564757a61",
-    "lat": 44.989199725167985,
-    "lon": 14.89923180931312,
-    "name": "Meduza",
+    "id": "geo-5159a6b81859212f405963d0dd0beb374640f00102f90100adc9500000000092030c56696c6c612053757a616e61",
+    "lat": 44.43686054545176,
+    "lon": 15.565132877865084,
+    "name": "Villa Suzana",
     "category": "hotel"
   },
   {
-    "id": "geo-5113190c642ccd2d4059f3d36eaaa47e4640f00103f901145a3b990100000092030555736b6f6b",
-    "lat": 44.9894002,
-    "lon": 14.9007293,
-    "name": "Uskok",
+    "id": "geo-5148043e9a455f2f4059756671b504324640f00103f90196ba2e6f000000009203074d757374616e67",
+    "lat": 44.3907687,
+    "lon": 15.6860779,
+    "name": "Mustang",
     "category": "restaurant"
   },
   {
-    "id": "geo-51c2c47afe0fd32d4059920953ef047e4640f00103f90136bd28fa0200000092030e41706172746d616e204572696b61",
-    "lat": 44.9845256,
-    "lon": 14.9122314,
-    "name": "Apartman Erika",
-    "category": "hotel"
+    "id": "geo-51b9292f432d5f2f4059c8da954c04324640f00103f9013c56636f000000009203094b7265c5a1696d6972",
+    "lat": 44.3907562,
+    "lon": 15.6858922,
+    "name": "Krešimir",
+    "category": "supermarket"
   },
   {
-    "id": "geo-5119541b9c88ce2d40592ef87eb4497e4640f00103f901a9351650020000009203144b6f6e6f62612054767264617661204e65686179",
-    "lat": 44.9866243,
-    "lon": 14.903386,
-    "name": "Konoba Tvrdava Nehay",
+    "id": "geo-51fbe6feea715f2f40596ced7daa0a324640f00103f9010d22885e02000000",
+    "lat": 44.3909505,
+    "lon": 15.686416,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51af4e84c3c1582f40592ce79ce96f314640f00103f901a5849821010000009203084d65646f20626172",
+    "lat": 44.3862278,
+    "lon": 15.6733533,
+    "name": "Medo bar",
     "category": "restaurant",
-    "phone": "+385 53 885244",
-    "openingHours": "Mo-Su 09:00-21:00"
+    "phone": "+385 99 422 9292",
+    "openingHours": "Mo-Su 09:00-23:30"
   },
   {
-    "id": "geo-5177b8c260a3cd2d40591ac9795ad97f4640f00103f90164f4092003000000",
-    "lat": 44.9988206,
-    "lon": 14.9016371,
-    "name": "hotel",
-    "category": "hotel"
+    "id": "geo-514e1b1f775b232f4059594fadbeba1e4640f00103f901c638b24601000000",
+    "lat": 44.240074,
+    "lon": 15.5690572,
+    "name": "Marché",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 00:00-00:00"
   },
   {
-    "id": "geo-51217e6a61bbce2d4059473b6ef8dd7e4640f00102f9015178d11400000000920307506c6f64696e65",
-    "lat": 44.991149,
-    "lon": 14.903773349999996,
-    "name": "Plodine",
+    "id": "geo-51a955aafa4b152f405919880a7a141c4640f00103f901b333e02701000000920308c5a06b726fc4876f",
+    "lat": 44.2193749,
+    "lon": 15.5415953,
+    "name": "Škroćo",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b01bb62dca142f405978c4d78d2d1c4640f00103f901be3c0e8002000000",
+    "lat": 44.2201402,
+    "lon": 15.540605,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-519bddff6c50142f4059de544909661c4640f00103f901812376000100000092030642616b6d617a",
+    "lat": 44.2218639,
+    "lon": 15.5396761,
+    "name": "Bakmaz",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51c19c8f21b6222f40591267ea1ad21e4640f00103f901c738b24601000000",
+    "lat": 44.2407869,
+    "lon": 15.5677958,
+    "name": "Marché",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 00:00-00:00"
+  },
+  {
+    "id": "geo-51c1c58a1a4c0f2f405916acccef8f1c4640f00103f901ea1e288e010000009203044d6f7374",
+    "lat": 44.2231426,
+    "lon": 15.5298775,
+    "name": "Most",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-516c9b3d2bc4122f40590edeb29eb51c4640f00103f9017d23760001000000920305546f6d6d79",
+    "lat": 44.2242926,
+    "lon": 15.5366529,
+    "name": "Tommy",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-518276e2cd75ed2e40597675221c0e214640f00103f90177eb1e8501000000920311436166666520626172204d6f726e617269",
+    "lat": 44.2582431,
+    "lon": 15.4637894,
+    "name": "Caffe bar Mornari",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5160c2e52069ec2e40595e284d1dae204640f00102f901a4ab413d0000000092030b4b6f6e6f62612050656365",
+    "lat": 44.255313551592494,
+    "lon": 15.461739566847598,
+    "name": "Konoba Pece",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a8d7d248f0e92e40597428e89bd9204640f00102f901788b98430000000092030e53656120537461722056696c6c61",
+    "lat": 44.25664090000001,
+    "lon": 15.456911349999999,
+    "name": "Sea Star Villa",
+    "category": "hotel",
+    "website": "https://conte-adriatic.com/accommodations/villa-sea-star/"
+  },
+  {
+    "id": "geo-51fc87992265ec2e40594b677110be204640f00103f9019e743a3a0200000092030a42757261746f7669c487",
+    "lat": 44.2558003,
+    "lon": 15.4617091,
+    "name": "Buratović",
+    "category": "hotel",
+    "website": "https://www.aparthotel-buratovic.hr/en/hotel.php"
+  },
+  {
+    "id": "geo-51fd6607019eed2e4059bb760e0aef204640f00103f90159ad622d0100000092030853747564656e6163",
+    "lat": 44.2572949,
+    "lon": 15.4640961,
+    "name": "Studenac",
     "category": "supermarket",
-    "website": "https://www.plodine.hr",
-    "phone": "+385 53 652 380",
+    "website": "https://www.studenac.hr/de/stores/1339/t948-vinjerac",
     "openingHours": "Mo-Su 07:00-22:00"
   },
   {
-    "id": "geo-51f796cd774bcd2d4059183b866cc57e4640f00103f90185842e940100000092030555736b6f6b",
-    "lat": 44.9903999,
-    "lon": 14.9009664,
-    "name": "Uskok",
+    "id": "geo-517100249f8bed2e4059dc138372e2204640f00102f9011cc7eb3d0000000092030754616d61726978",
+    "lat": 44.25691062355301,
+    "lon": 15.463955853600256,
+    "name": "Tamarix",
+    "category": "hotel",
+    "website": "https://tamarix.hr/",
+    "phone": "023201010"
+  },
+  {
+    "id": "geo-5106f75ed78a852e40597b6bbb6477294640f00103f9011d5a63890000000092030542656c6c61",
+    "lat": 44.3239561,
+    "lon": 15.2608249,
+    "name": "Bella",
     "category": "restaurant"
   },
   {
-    "id": "geo-5127f0f384cacc2d4059ab7d95d7a57e4640f00103f901000020570200000092030f53747564656e6163204d61726b6574",
-    "lat": 44.9894361,
-    "lon": 14.8999826,
-    "name": "Studenac Market",
+    "id": "geo-51269af68370af2e4059725e526b50244640f00103f9015f315b9e0200000092030f43616d70696e672050756e74696361",
+    "lat": 44.2837042,
+    "lon": 15.3426553,
+    "name": "Camping Puntica",
+    "category": "camping",
+    "website": "https://www.camping-puntica.hr/hr/",
+    "phone": "+385 23 651 230"
+  },
+  {
+    "id": "geo-5162314514ee8c2e4059008ba141af274640f00103f90191169bfc0000000092030567616c6562",
+    "lat": 44.3100359,
+    "lon": 15.2752539,
+    "name": "galeb",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51890edcdcf38f2e40599f1b3ff960274640f00103f90167f46fd20200000092030853747564656e6163",
+    "lat": 44.3076469,
+    "lon": 15.2811574,
+    "name": "Studenac",
     "category": "supermarket",
-    "openingHours": "Mo-Sa 06:30-22:00; Su 07:00-22:00"
+    "website": "https://www.studenac.hr/de/stores/1226/t956-rtina"
   },
   {
-    "id": "geo-5193c08b63c9cd2d4059615dcb1aab7e4640f00103f901195eaa2502000000",
-    "lat": 44.9895967,
-    "lon": 14.9019271,
-    "name": "water",
-    "category": "water"
+    "id": "geo-5183797e07f5932e4059dbbbabc376264640f00103f90171b97787020000009203154f646d6f7265652043616d70202620486f7374656c",
+    "lat": 44.3004994,
+    "lon": 15.2889788,
+    "name": "Odmoree Camp & Hostel",
+    "category": "camping"
   },
   {
-    "id": "geo-51517754ebb3cd2d40592a696a7ea17e4640f00103f901916fc714030000009203084164204173747261",
-    "lat": 44.9893034,
-    "lon": 14.9017633,
-    "name": "Ad Astra",
+    "id": "geo-51bf750f1a0b8c2e40595130630ad6274640f00103f901d354b9a901000000920309417567757374696e6f",
+    "lat": 44.3112195,
+    "lon": 15.2735222,
+    "name": "Augustino",
+    "category": "restaurant",
+    "website": "https://www.pansion-augustino.com/",
+    "phone": "+385997016627"
+  },
+  {
+    "id": "geo-5111776794088d2e4059bc8d8489d6274640f00102f901fdd64d280000000092031550616e73696f6e20526573746f72616e204d617465",
+    "lat": 44.31123465511652,
+    "lon": 15.275456082944887,
+    "name": "Pansion Restoran Mate",
     "category": "restaurant"
   },
   {
-    "id": "geo-516962708390ce2d40593c3833558b7e4640f00103f9014d58f49d02000000",
-    "lat": 44.9886271,
-    "lon": 14.9034463,
+    "id": "geo-51e9f6ed7fdb9a2e40595501adaf64254640f00103f901646418260100000092031043616d70696e67204d696fc48d69c487",
+    "lat": 44.2921352,
+    "lon": 15.3024559,
+    "name": "Camping Miočić",
+    "category": "camping"
+  },
+  {
+    "id": "geo-5150ae84494c9b2e4059e2a8818bba254640f00103f9015969f6320100000092030c546172616361204772696c6c",
+    "lat": 44.2947554,
+    "lon": 15.3033164,
+    "name": "Taraca Grill",
+    "category": "restaurant",
+    "phone": "+385 91 515 7478"
+  },
+  {
+    "id": "geo-514d858bf2dcb02e4059638dc5b2bf234640f00102f901d792734a00000000920305546f6d6d79",
+    "lat": 44.27928766866787,
+    "lon": 15.34543569520124,
+    "name": "Tommy",
+    "category": "supermarket",
+    "website": "https://www.tommy.hr/de-DE/prodavaonice"
+  },
+  {
+    "id": "geo-51eaeb5470faaf2e4059786a578da1234640f00102f901beaa282b0000000092030e43616d70696e6720506c616e696b",
+    "lat": 44.27836767929415,
+    "lon": 15.343707571379088,
+    "name": "Camping Planik",
+    "category": "camping",
+    "website": "https://www.planik.hr/"
+  },
+  {
+    "id": "geo-5183047b0217d42e4059cb2a6c06b81d4640f00102f9018011cf410000000092030b4d61726b65742044616c69",
+    "lat": 44.232178499999996,
+    "lon": 15.41423805,
+    "name": "Market Dali",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-510adf56d526b12e40596f79f6a633244640f00103f901b62d0d29010000009203064d61726b6574",
+    "lat": 44.2828263,
+    "lon": 15.3459994,
+    "name": "Market",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-511cafe53a329b2e405927a5fb94be254640f00103f9015a69f6320100000092030853747564656e6163",
+    "lat": 44.2948786,
+    "lon": 15.3031176,
+    "name": "Studenac",
+    "category": "supermarket",
+    "website": "https://www.studenac.hr/de/stores/591/t709-rtina"
+  },
+  {
+    "id": "geo-5127b38bb333662e4059bc6f2134272d4640f00103f901215b113101000000",
+    "lat": 44.3527589,
+    "lon": 15.1996132,
     "name": "water",
     "category": "water"
+  },
+  {
+    "id": "geo-51600322c4955f2e4059b443577d092e4640f00103f901d76b8637000000009203184175746f206b616d7020506572652044696e6a69c5a16b61",
+    "lat": 44.3596646,
+    "lon": 15.1866895,
+    "name": "Auto kamp Pere Dinjiška",
+    "category": "camping"
+  },
+  {
+    "id": "geo-51b9802cf3fd722e4059d3df66fb5b2b4640f00102f901188c0b0b0000000092030f41706172746d616e69204265616368",
+    "lat": 44.33874456904564,
+    "lon": 15.224593733961557,
+    "name": "Apartmani Beach",
+    "category": "hotel",
+    "website": "http://www.apartmani-beach.com",
+    "phone": "+385 091/7343 712"
+  },
+  {
+    "id": "geo-51a8fb7ef6ff6b2e4059081e713f712c4640f00102f901c520354b0000000092030f4f70672e204469646f762044766f72",
+    "lat": 44.34720604918772,
+    "lon": 15.210937216759547,
+    "name": "Opg. Didov Dvor",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b080f8af62eb2d405918665710b9414640f00103f9016d4ed0900000000092030e4b616d7020537665746920447568",
+    "lat": 44.5134602,
+    "lon": 14.9597373,
+    "name": "Kamp Sveti Duh",
+    "category": "camping"
+  },
+  {
+    "id": "geo-51e952b1c7d7e82d4059bee69c54fd414640f00102f9011712494d0000000092030d4b6f6e6f62612048617270756e",
+    "lat": 44.515543533908826,
+    "lon": 14.954771271129589,
+    "name": "Konoba Harpun",
+    "category": "restaurant",
+    "phone": "+385951974956",
+    "openingHours": "Mo-Su 12:00-20:30"
+  },
+  {
+    "id": "geo-515f9dbef9681c2e405961889cbe9e384640f00103f901eac6589d000000009203074e612054616c65",
+    "lat": 44.4423445,
+    "lon": 15.0554884,
+    "name": "Na Tale",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5159008a0dd21d2e405976aa308b82384640f00102f9015efb0c0b000000009203195472676f7661c48d6b692063656e746172204c6f72656e636f",
+    "lat": 44.441483877909306,
+    "lon": 15.058243201347226,
+    "name": "Trgovački centar Lorenco",
+    "category": "supermarket",
+    "openingHours": "07:00-22:00"
+  },
+  {
+    "id": "geo-511b61f657341e2e405955fc3acb87384640f00103f9014b5b0f33010000009203054775737469",
+    "lat": 44.4416441,
+    "lon": 15.0589931,
+    "name": "Gusti",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51cea623809b1f2e40591c02ec489a384640f00102f9016377361e00000000920307506c6f64696e65",
+    "lat": 44.4422084,
+    "lon": 15.06173325,
+    "name": "Plodine",
+    "category": "supermarket",
+    "website": "https://www.plodine.hr",
+    "phone": "+385 23 221 700",
+    "openingHours": "Mo-Su 07:00-22:00"
+  },
+  {
+    "id": "geo-51a5822ff1ec1b2e40594dd64dcef5384640f00103f901f1b27a270100000092030d4b6f6e6f626120426f64756c6f",
+    "lat": 44.4450014,
+    "lon": 15.0545421,
+    "name": "Konoba Bodulo",
+    "category": "restaurant",
+    "phone": "+385 23 611 989",
+    "openingHours": "Mo-Su 12:00-23:00"
+  },
+  {
+    "id": "geo-519a56afc7e91c2e405915d4a6a091384640f00103f901c1d73b970100000092030a4d616c69204361666665",
+    "lat": 44.4419442,
+    "lon": 15.0564711,
+    "name": "Mali Caffe",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-511202a898391b2e4059fda94c8cc0384640f00103f901dcb060da000000009203054d6172636f",
+    "lat": 44.4433761,
+    "lon": 15.0531738,
+    "name": "Marco",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51812f3b7ab21d2e405972ed5575a0384640f00103f9018d77bdcf020000009203064b6f6e7a756d",
+    "lat": 44.4423968,
+    "lon": 15.0580023,
+    "name": "Konzum",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51cf66d5e76a1b2e40594122122add384640f00103f9011170fb320100000092030755686c696e6163",
+    "lat": 44.4442494,
+    "lon": 15.05355,
+    "name": "Uhlinac",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-514224438ead1b2e40595e45eb4db1384640f00103f901115c0f330100000092030d50697a7a6120526576656c696e",
+    "lat": 44.4429109,
+    "lon": 15.0540585,
+    "name": "Pizza Revelin",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51f96fb9556b182e405958703fe081384640f00103f9015d78225101000000",
+    "lat": 44.4414635,
+    "lon": 15.0476939,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51891e9d5f391b2e4059122741c92e394640f00103f901a903728e000000009203074c6f72656e636f",
+    "lat": 44.4467403,
+    "lon": 15.0531721,
+    "name": "Lorenco",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+  },
+  {
+    "id": "geo-512a21b30ea21c2e4059e5ad049cef384640f00103f90112c9352b0100000092030f54726174746f726961205061647265",
+    "lat": 44.4448123,
+    "lon": 15.0559239,
+    "name": "Trattoria Padre",
+    "category": "restaurant",
+    "phone": "+385 23 299 809"
+  },
+  {
+    "id": "geo-5181e3d7b4f71a2e4059f684db9035394640f00103f901ae6ffb32010000009203104b6f6e6f6261204261726361726f6c61",
+    "lat": 44.4469472,
+    "lon": 15.0526711,
+    "name": "Konoba Barcarola",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51e4d132f7351b2e4059372becb314394640f00103f9014e6ffb320100000092030d4b6f6e6f626120476f6c696a61",
+    "lat": 44.4459443,
+    "lon": 15.0531461,
+    "name": "Konoba Golija",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5146cec29e76142e40594605f3fc0e394640f00103f901bb1428030100000092030e41706172746d656e7473204d6961",
+    "lat": 44.4457699,
+    "lon": 15.0399675,
+    "name": "Apartments Mia",
+    "category": "hotel",
+    "website": "https://www.apartmanimia.com/",
+    "phone": "00385989975097"
+  },
+  {
+    "id": "geo-516306cf296d1a2e4059a46c36fba8384640f00103f901b75bc90d0200000092030d5075702056204d6167617a696e",
+    "lat": 44.4426569,
+    "lon": 15.0516141,
+    "name": "Pup V Magazin",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-518875f409ea192e4059528b77369a384640f00103f901667e21510100000092030a47656e69757320506167",
+    "lat": 44.4422062,
+    "lon": 15.0506137,
+    "name": "Genius Pag",
+    "category": "restaurant",
+    "openingHours": "07:00-01:00"
+  },
+  {
+    "id": "geo-51d066fa66d91a2e40592c181bd168394640f00102f9016e148f2e000000009203055061677573",
+    "lat": 44.44851125548334,
+    "lon": 15.052439897600749,
+    "name": "Pagus",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51cae7cbc122092e405936e0980a963b4640f00103f9010af2de95020000009203104269672059656c6c6f7720486f757365",
+    "lat": 44.4655164,
+    "lon": 15.0178433,
+    "name": "Big Yellow House",
+    "category": "camping"
+  },
+  {
+    "id": "geo-518d35125784152e40590fc70446a8384640f00103f9011c8629800200000092031141706172746d616e6920494e4120506167",
+    "lat": 44.4426353,
+    "lon": 15.0420253,
+    "name": "Apartmani INA Pag",
+    "category": "hotel",
+    "website": "https://apartmani-ina.com.hr/",
+    "phone": "+385 23 611 304"
+  },
+  {
+    "id": "geo-51ef82d261cf142e405948d455cbe7384640f00103f9018c18a3560100000092030b554c54524120536f6e696b",
+    "lat": 44.4445738,
+    "lon": 15.0406447,
+    "name": "ULTRA Sonik",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-22:00; PH,Su 07:00-22:00"
+  },
+  {
+    "id": "geo-514b06dbe3e01d2e40591717a29e99384640f00103f9018c77bdcf0200000092031441706172746d616e69204976616e202d20506167",
+    "lat": 44.4421881,
+    "lon": 15.0583564,
+    "name": "Apartmani Ivan - Pag",
+    "category": "hotel",
+    "website": "http://apartmani-ivan-pag.com",
+    "phone": "+385 23 611 586"
+  },
+  {
+    "id": "geo-51ce273cb2031c2e4059724408d9c3384640f00103f901cb5f798e000000009203064b6f6e7a756d",
+    "lat": 44.4434768,
+    "lon": 15.0547157,
+    "name": "Konzum",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-22:00; Su 07:00-21:00"
+  },
+  {
+    "id": "geo-51e6e555421c1c2e405958ae1287c7384640f00103f9012d4bcc0d02000000920304526f6b6f",
+    "lat": 44.4435891,
+    "lon": 15.0549031,
+    "name": "Roko",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51d89c8367421b2e40591c8ef85ff8384640f00103f901c26aac5102000000920306417474696361",
+    "lat": 44.4450798,
+    "lon": 15.053241,
+    "name": "Attica",
+    "category": "restaurant",
+    "openingHours": "09:00-24:00"
+  },
+  {
+    "id": "geo-5161494e6a941a2e4059d811332686384640f00102f901dfbe97210000000092032322537461726120736f6c616e612220526573746f72616e2d4772696c6c2d50697a7a61",
+    "lat": 44.441593909202936,
+    "lon": 15.051913568550562,
+    "name": "\"Stara solana\" Restoran-Grill-Pizza",
+    "category": "restaurant",
+    "website": "www.facebook.com/stara.solana/",
+    "phone": "+385 23 600 376",
+    "openingHours": "11:00 - 01:00 (summer only)"
+  },
+  {
+    "id": "geo-51a74de6690a1a2e405992cab9b99d384640f00103f9012434738e000000009203064b6f6e7a756d",
+    "lat": 44.4423134,
+    "lon": 15.0508607,
+    "name": "Konzum",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-21:00; PH 07:00-21:00"
+  },
+  {
+    "id": "geo-5120bb664d87012e40590503be912f3d4640f00103f901df0ca45601000000",
+    "lat": 44.4780142,
+    "lon": 15.0029854,
+    "name": "restaurant",
+    "category": "restaurant",
+    "openingHours": "10:00-19:00"
   },
   {
     "id": "geo-51f3e670adf6cc2d4059bf68ead044494640f00103f901f0a7e3a801000000920309426fc5a16b696e6163",
@@ -1058,22 +2515,6 @@
     "category": "restaurant"
   },
   {
-    "id": "geo-51b080f8af62eb2d405918665710b9414640f00103f9016d4ed0900000000092030e4b616d7020537665746920447568",
-    "lat": 44.5134602,
-    "lon": 14.9597373,
-    "name": "Kamp Sveti Duh",
-    "category": "camping"
-  },
-  {
-    "id": "geo-51e952b1c7d7e82d4059bee69c54fd414640f00102f9011712494d0000000092030d4b6f6e6f62612048617270756e",
-    "lat": 44.515543533908826,
-    "lon": 14.954771271129589,
-    "name": "Konoba Harpun",
-    "category": "restaurant",
-    "phone": "+385951974956",
-    "openingHours": "Mo-Su 12:00-20:30"
-  },
-  {
     "id": "geo-51d2110a5bfdc22d405931a2a30ba0464640f00103f901ef4062a8020000009203084c6167616e696e69",
     "lat": 44.5517592,
     "lon": 14.8808392,
@@ -1086,333 +2527,6 @@
     "lon": 14.8834047,
     "name": "Hostel Providenca",
     "category": "hostel"
-  },
-  {
-    "id": "geo-5127b38bb333662e4059bc6f2134272d4640f00103f901215b113101000000",
-    "lat": 44.3527589,
-    "lon": 15.1996132,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51600322c4955f2e4059b443577d092e4640f00103f901d76b8637000000009203184175746f206b616d7020506572652044696e6a69c5a16b61",
-    "lat": 44.3596646,
-    "lon": 15.1866895,
-    "name": "Auto kamp Pere Dinjiška",
-    "category": "camping"
-  },
-  {
-    "id": "geo-515f9dbef9681c2e405961889cbe9e384640f00103f901eac6589d000000009203074e612054616c65",
-    "lat": 44.4423445,
-    "lon": 15.0554884,
-    "name": "Na Tale",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5159008a0dd21d2e405976aa308b82384640f00102f9015efb0c0b000000009203195472676f7661c48d6b692063656e746172204c6f72656e636f",
-    "lat": 44.441483877909306,
-    "lon": 15.058243201347226,
-    "name": "Trgovački centar Lorenco",
-    "category": "supermarket",
-    "openingHours": "07:00-22:00"
-  },
-  {
-    "id": "geo-511b61f657341e2e405955fc3acb87384640f00103f9014b5b0f33010000009203054775737469",
-    "lat": 44.4416441,
-    "lon": 15.0589931,
-    "name": "Gusti",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51cea623809b1f2e40591c02ec489a384640f00102f9016377361e00000000920307506c6f64696e65",
-    "lat": 44.4422084,
-    "lon": 15.06173325,
-    "name": "Plodine",
-    "category": "supermarket",
-    "website": "https://www.plodine.hr",
-    "phone": "+385 23 221 700",
-    "openingHours": "Mo-Su 07:00-22:00"
-  },
-  {
-    "id": "geo-51a5822ff1ec1b2e40594dd64dcef5384640f00103f901f1b27a270100000092030d4b6f6e6f626120426f64756c6f",
-    "lat": 44.4450014,
-    "lon": 15.0545421,
-    "name": "Konoba Bodulo",
-    "category": "restaurant",
-    "phone": "+385 23 611 989",
-    "openingHours": "Mo-Su 12:00-23:00"
-  },
-  {
-    "id": "geo-519a56afc7e91c2e405915d4a6a091384640f00103f901c1d73b970100000092030a4d616c69204361666665",
-    "lat": 44.4419442,
-    "lon": 15.0564711,
-    "name": "Mali Caffe",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-511202a898391b2e4059fda94c8cc0384640f00103f901dcb060da000000009203054d6172636f",
-    "lat": 44.4433761,
-    "lon": 15.0531738,
-    "name": "Marco",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51812f3b7ab21d2e405972ed5575a0384640f00103f9018d77bdcf020000009203064b6f6e7a756d",
-    "lat": 44.4423968,
-    "lon": 15.0580023,
-    "name": "Konzum",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-51cf66d5e76a1b2e40594122122add384640f00103f9011170fb320100000092030755686c696e6163",
-    "lat": 44.4442494,
-    "lon": 15.05355,
-    "name": "Uhlinac",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-514224438ead1b2e40595e45eb4db1384640f00103f901115c0f330100000092030d50697a7a6120526576656c696e",
-    "lat": 44.4429109,
-    "lon": 15.0540585,
-    "name": "Pizza Revelin",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51f96fb9556b182e405958703fe081384640f00103f9015d78225101000000",
-    "lat": 44.4414635,
-    "lon": 15.0476939,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51891e9d5f391b2e4059122741c92e394640f00103f901a903728e000000009203074c6f72656e636f",
-    "lat": 44.4467403,
-    "lon": 15.0531721,
-    "name": "Lorenco",
-    "category": "supermarket",
-    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-  },
-  {
-    "id": "geo-512a21b30ea21c2e4059e5ad049cef384640f00103f90112c9352b0100000092030f54726174746f726961205061647265",
-    "lat": 44.4448123,
-    "lon": 15.0559239,
-    "name": "Trattoria Padre",
-    "category": "restaurant",
-    "phone": "+385 23 299 809"
-  },
-  {
-    "id": "geo-5181e3d7b4f71a2e4059f684db9035394640f00103f901ae6ffb32010000009203104b6f6e6f6261204261726361726f6c61",
-    "lat": 44.4469472,
-    "lon": 15.0526711,
-    "name": "Konoba Barcarola",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51e4d132f7351b2e4059372becb314394640f00103f9014e6ffb320100000092030d4b6f6e6f626120476f6c696a61",
-    "lat": 44.4459443,
-    "lon": 15.0531461,
-    "name": "Konoba Golija",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5146cec29e76142e40594605f3fc0e394640f00103f901bb1428030100000092030e41706172746d656e7473204d6961",
-    "lat": 44.4457699,
-    "lon": 15.0399675,
-    "name": "Apartments Mia",
-    "category": "hotel",
-    "website": "https://www.apartmanimia.com/",
-    "phone": "00385989975097"
-  },
-  {
-    "id": "geo-516306cf296d1a2e4059a46c36fba8384640f00103f901b75bc90d0200000092030d5075702056204d6167617a696e",
-    "lat": 44.4426569,
-    "lon": 15.0516141,
-    "name": "Pup V Magazin",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-518875f409ea192e4059528b77369a384640f00103f901667e21510100000092030a47656e69757320506167",
-    "lat": 44.4422062,
-    "lon": 15.0506137,
-    "name": "Genius Pag",
-    "category": "restaurant",
-    "openingHours": "07:00-01:00"
-  },
-  {
-    "id": "geo-51d066fa66d91a2e40592c181bd168394640f00102f9016e148f2e000000009203055061677573",
-    "lat": 44.44851125548334,
-    "lon": 15.052439897600749,
-    "name": "Pagus",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51cae7cbc122092e405936e0980a963b4640f00103f9010af2de95020000009203104269672059656c6c6f7720486f757365",
-    "lat": 44.4655164,
-    "lon": 15.0178433,
-    "name": "Big Yellow House",
-    "category": "camping"
-  },
-  {
-    "id": "geo-5106f75ed78a852e40597b6bbb6477294640f00103f9011d5a63890000000092030542656c6c61",
-    "lat": 44.3239561,
-    "lon": 15.2608249,
-    "name": "Bella",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51269af68370af2e4059725e526b50244640f00103f9015f315b9e0200000092030f43616d70696e672050756e74696361",
-    "lat": 44.2837042,
-    "lon": 15.3426553,
-    "name": "Camping Puntica",
-    "category": "camping",
-    "website": "https://www.camping-puntica.hr/hr/",
-    "phone": "+385 23 651 230"
-  },
-  {
-    "id": "geo-5162314514ee8c2e4059008ba141af274640f00103f90191169bfc0000000092030567616c6562",
-    "lat": 44.3100359,
-    "lon": 15.2752539,
-    "name": "galeb",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51890edcdcf38f2e40599f1b3ff960274640f00103f90167f46fd20200000092030853747564656e6163",
-    "lat": 44.3076469,
-    "lon": 15.2811574,
-    "name": "Studenac",
-    "category": "supermarket",
-    "website": "https://www.studenac.hr/de/stores/1226/t956-rtina"
-  },
-  {
-    "id": "geo-5183797e07f5932e4059dbbbabc376264640f00103f90171b97787020000009203154f646d6f7265652043616d70202620486f7374656c",
-    "lat": 44.3004994,
-    "lon": 15.2889788,
-    "name": "Odmoree Camp & Hostel",
-    "category": "camping"
-  },
-  {
-    "id": "geo-51bf750f1a0b8c2e40595130630ad6274640f00103f901d354b9a901000000920309417567757374696e6f",
-    "lat": 44.3112195,
-    "lon": 15.2735222,
-    "name": "Augustino",
-    "category": "restaurant",
-    "website": "https://www.pansion-augustino.com/",
-    "phone": "+385997016627"
-  },
-  {
-    "id": "geo-5111776794088d2e4059bc8d8489d6274640f00102f901fdd64d280000000092031550616e73696f6e20526573746f72616e204d617465",
-    "lat": 44.31123465511652,
-    "lon": 15.275456082944887,
-    "name": "Pansion Restoran Mate",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51e9f6ed7fdb9a2e40595501adaf64254640f00103f901646418260100000092031043616d70696e67204d696fc48d69c487",
-    "lat": 44.2921352,
-    "lon": 15.3024559,
-    "name": "Camping Miočić",
-    "category": "camping"
-  },
-  {
-    "id": "geo-5150ae84494c9b2e4059e2a8818bba254640f00103f9015969f6320100000092030c546172616361204772696c6c",
-    "lat": 44.2947554,
-    "lon": 15.3033164,
-    "name": "Taraca Grill",
-    "category": "restaurant",
-    "phone": "+385 91 515 7478"
-  },
-  {
-    "id": "geo-514d858bf2dcb02e4059638dc5b2bf234640f00102f901d792734a00000000920305546f6d6d79",
-    "lat": 44.27928766866787,
-    "lon": 15.34543569520124,
-    "name": "Tommy",
-    "category": "supermarket",
-    "website": "https://www.tommy.hr/de-DE/prodavaonice"
-  },
-  {
-    "id": "geo-51eaeb5470faaf2e4059786a578da1234640f00102f901beaa282b0000000092030e43616d70696e6720506c616e696b",
-    "lat": 44.27836767929415,
-    "lon": 15.343707571379088,
-    "name": "Camping Planik",
-    "category": "camping",
-    "website": "https://www.planik.hr/"
-  },
-  {
-    "id": "geo-518276e2cd75ed2e40597675221c0e214640f00103f90177eb1e8501000000920311436166666520626172204d6f726e617269",
-    "lat": 44.2582431,
-    "lon": 15.4637894,
-    "name": "Caffe bar Mornari",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5160c2e52069ec2e40595e284d1dae204640f00102f901a4ab413d0000000092030b4b6f6e6f62612050656365",
-    "lat": 44.255313551592494,
-    "lon": 15.461739566847598,
-    "name": "Konoba Pece",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51a8d7d248f0e92e40597428e89bd9204640f00102f901788b98430000000092030e53656120537461722056696c6c61",
-    "lat": 44.25664090000001,
-    "lon": 15.456911349999999,
-    "name": "Sea Star Villa",
-    "category": "hotel",
-    "website": "https://conte-adriatic.com/accommodations/villa-sea-star/"
-  },
-  {
-    "id": "geo-51fc87992265ec2e40594b677110be204640f00103f9019e743a3a0200000092030a42757261746f7669c487",
-    "lat": 44.2558003,
-    "lon": 15.4617091,
-    "name": "Buratović",
-    "category": "hotel",
-    "website": "https://www.aparthotel-buratovic.hr/en/hotel.php"
-  },
-  {
-    "id": "geo-51fd6607019eed2e4059bb760e0aef204640f00103f90159ad622d0100000092030853747564656e6163",
-    "lat": 44.2572949,
-    "lon": 15.4640961,
-    "name": "Studenac",
-    "category": "supermarket",
-    "website": "https://www.studenac.hr/de/stores/1339/t948-vinjerac",
-    "openingHours": "Mo-Su 07:00-22:00"
-  },
-  {
-    "id": "geo-517100249f8bed2e4059dc138372e2204640f00102f9011cc7eb3d0000000092030754616d61726978",
-    "lat": 44.25691062355301,
-    "lon": 15.463955853600256,
-    "name": "Tamarix",
-    "category": "hotel",
-    "website": "https://tamarix.hr/",
-    "phone": "023201010"
-  },
-  {
-    "id": "geo-514e1b1f775b232f4059594fadbeba1e4640f00103f901c638b24601000000",
-    "lat": 44.240074,
-    "lon": 15.5690572,
-    "name": "Marché",
-    "category": "restaurant",
-    "openingHours": "Mo-Su 00:00-00:00"
-  },
-  {
-    "id": "geo-51a955aafa4b152f405919880a7a141c4640f00103f901b333e02701000000920308c5a06b726fc4876f",
-    "lat": 44.2193749,
-    "lon": 15.5415953,
-    "name": "Škroćo",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51b01bb62dca142f405978c4d78d2d1c4640f00103f901be3c0e8002000000",
-    "lat": 44.2201402,
-    "lon": 15.540605,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-519bddff6c50142f4059de544909661c4640f00103f901812376000100000092030642616b6d617a",
-    "lat": 44.2218639,
-    "lon": 15.5396761,
-    "name": "Bakmaz",
-    "category": "supermarket"
   },
   {
     "id": "geo-514c3ed1d09abe2d40596c2810d1434d4640f00103f901fb0e0ffb0000000092030c4b6f6e6f626120506f726174",
@@ -1476,6 +2590,145 @@
     "lat": 44.5533299,
     "lon": 14.8846773,
     "name": "Antonio",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51c367ebe060c32d4059ca0688388c474640f00103f901712f313301000000",
+    "lat": 44.5589667,
+    "lon": 14.8815985,
+    "name": "Ristorante Spagho",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-512bd615d808c52d40593fc4060b27474640f00103f9015cdcf3520200000092031653616e746f2052657374617572616e74202620426172",
+    "lat": 44.555879,
+    "lon": 14.8848331,
+    "name": "Santo Restaurant & Bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-517be1293f04c42d4059598b4f0130474640f00103f901438ea732000000009203054c6fc5be61",
+    "lat": 44.5561525,
+    "lon": 14.8828449,
+    "name": "Loža",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-511019fb37d4982d4059727acd61ad5e4640f00103f901f7ef421d00000000920303497661",
+    "lat": 44.7396662,
+    "lon": 14.7984941,
+    "name": "Iva",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51572250fd83982d4059f78f2a2f9e5e4640f00103f90145f08111000000009203064b6f6e7a756d",
+    "lat": 44.7392024,
+    "lon": 14.797882,
+    "name": "Konzum",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-517cd2890453992d4059ee8f9cf1225e4640f00103f90139f081110000000092031152657374617572616e7420426172626174",
+    "lat": 44.7354414,
+    "lon": 14.7994615,
+    "name": "Restaurant Barbat",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5109f945ae409d2d40592e63f9a9e05d4640f00103f9012061e5120100000092030b50616e73696f6e2041636f",
+    "lat": 44.7334187,
+    "lon": 14.8071341,
+    "name": "Pansion Aco",
+    "category": "hotel",
+    "website": "http://www.aco-rab.com"
+  },
+  {
+    "id": "geo-51c78f674fd6a12d4059b79ab54aa85c4640f00102f901236bea400000000092030d4b616d7020576f64656ec48d61",
+    "lat": 44.723885859178544,
+    "lon": 14.816088181869317,
+    "name": "Kamp Wodenča",
+    "category": "camping",
+    "website": "https://www.wodenca.com/hr"
+  },
+  {
+    "id": "geo-5130e35c797fc82d40594ccf053f3b5c4640f00102f9019d47164c00000000",
+    "lat": 44.720558049999994,
+    "lon": 14.89159755,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51439259bdc3992d4059f50df1b4a15e4640f00103f9010861ef310100000092031741706172746d656e747320436173612042617262617261",
+    "lat": 44.7393099,
+    "lon": 14.8003215,
+    "name": "Apartments Casa Barbara",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51ad0d60fa519b2d4059ac50d09a575e4640f00102f9014c8a3723000000009203055065747261",
+    "lat": 44.737048484531755,
+    "lon": 14.803359817719718,
+    "name": "Petra",
+    "category": "supermarket",
+    "openingHours": "Mo-Su 06:00-22:00"
+  },
+  {
+    "id": "geo-517f260c14c2982d4059880fecf82f5e4640f00103f9012984fddc000000009203064d6564757a61",
+    "lat": 44.735839,
+    "lon": 14.7983557,
+    "name": "Meduza",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5153aef02e179d2d4059e3056c62dc5d4640f00103f9013bf081110000000092030f52657374617572616e74204c657574",
+    "lat": 44.7332881,
+    "lon": 14.8068175,
+    "name": "Restaurant Leut",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51bd344580d39f2d40594cd8c8bfe05c4640f00103f901a6e072030100000092030f52657374617572616e74204265706f",
+    "lat": 44.7256088,
+    "lon": 14.8121605,
+    "name": "Restaurant Bepo",
+    "category": "restaurant",
+    "website": "http://bepo-rab.com/restaurant",
+    "phone": "+385 51 721 248"
+  },
+  {
+    "id": "geo-5150dd0143fba92d4059aca2e47a805a4640f00103f901a2a979110000000092030673616e746f73",
+    "lat": 44.7070459,
+    "lon": 14.8319951,
+    "name": "santos",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-517f9b6ad2129c2d405903e9071ad85d4640f00103f9013df081110000000092030b4b6f6e6f6261204d616d61",
+    "lat": 44.7331574,
+    "lon": 14.8048311,
+    "name": "Konoba Mama",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51ba85ee1d099e2d4059c30eea3aa65d4640f00102f901d737e529000000009203064f6c69766572",
+    "lat": 44.73163544109914,
+    "lon": 14.808663306585789,
+    "name": "Oliver",
+    "category": "supermarket",
+    "openingHours": "Mo-Su 07:00-21:00"
+  },
+  {
+    "id": "geo-51a2c96a5fe59d2d4059fe439f34795d4640f00103f9010972f856020000009203054d61726b6f",
+    "lat": 44.7302614,
+    "lon": 14.8083906,
+    "name": "Marko",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51e3c4573b8aef2d4059feb220393e4d4640f00103f9018f051c00010000009203066472696e6b73",
+    "lat": 44.6034614,
+    "lon": 14.9678515,
+    "name": "drinks",
     "category": "restaurant"
   },
   {
@@ -1961,46 +3214,6 @@
     "category": "hotel"
   },
   {
-    "id": "geo-51fbe4cd86a16a2d4059708ad8710d674640f00103f901de31fe1a0000000092030b4c69746f206d61726b6574",
-    "lat": 44.8050978,
-    "lon": 14.7082636,
-    "name": "Lito market",
-    "category": "supermarket",
-    "website": "https://www.studenac.hr/trgovine/800/t815-rab",
-    "openingHours": "Mo-Su 08:00-12:00"
-  },
-  {
-    "id": "geo-51ccd42478436a2d4059e5982cee3f674640f00103f9015926de560200000092030c477265656e20436f726e6572",
-    "lat": 44.8066385,
-    "lon": 14.707546,
-    "name": "Green Corner",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-513a73b44f6c6a2d40590b18135102674640f00103f901e6ddac580200000092030d42697365726b61204c75736963",
-    "lat": 44.8047582,
-    "lon": 14.7078576,
-    "name": "Biserka Lusic",
-    "category": "hotel",
-    "website": "https://www.lusic-apartmanirab.com/"
-  },
-  {
-    "id": "geo-510dd3ad8d67662d405932642b1ecd664640f00103f901cdb4e3af0000000092030e44656469c48720224d6972616c22",
-    "lat": 44.8031347,
-    "lon": 14.7000088,
-    "name": "Dedić \"Miral\"",
-    "category": "hotel",
-    "website": "https://miralapartments.com/"
-  },
-  {
-    "id": "geo-51d5754dedb1652d40592409675cdd664640f00103f90105dd7b020100000092031041706172746d656e747320476f6e6172",
-    "lat": 44.8036304,
-    "lon": 14.6986231,
-    "name": "Apartments Gonar",
-    "category": "hotel",
-    "website": "www.gonar.info"
-  },
-  {
     "id": "geo-5139b302e89c6c2d405957ddd90d91664640f00103f90135ff17fb01000000920311526573746f72616e205072656d696a6572",
     "lat": 44.8013017,
     "lon": 14.7121346,
@@ -2008,36 +3221,6 @@
     "category": "restaurant",
     "website": "https://restoran-premijer.business.site/",
     "phone": "+385-51-776-774"
-  },
-  {
-    "id": "geo-51dde401767f662d40598f780d558c664640f00103f901bd58e170000000009203044d6f7265",
-    "lat": 44.8011576,
-    "lon": 14.7001912,
-    "name": "More",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-517f654a90b6662d405969bf5a5ab2664640f00103f9012b23ae5501000000920305476f6e6172",
-    "lat": 44.8023179,
-    "lon": 14.7006116,
-    "name": "Gonar",
-    "category": "restaurant",
-    "phone": "+385981800417"
-  },
-  {
-    "id": "geo-5172a202cc216a2d4059c3b23e8adf664640f00103f90154a3724c000000009203055069766163",
-    "lat": 44.8036969,
-    "lon": 14.7072891,
-    "name": "Pivac",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5123cd6960f5692d4059a2e826d64e654640f00103f90113d86ab0000000009203064b6f6e7a756d",
-    "lat": 44.7914684,
-    "lon": 14.7069502,
-    "name": "Konzum",
-    "category": "supermarket",
-    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-14:00"
   },
   {
     "id": "geo-51b23ad1b41a6e2d4059636c0088b6664640f00102f901ae96642b0000000092031352657374617572616e742042656c7665646572",
@@ -2049,13 +3232,6 @@
     "phone": "+385 51 776 162"
   },
   {
-    "id": "geo-515f268a90ba692d4059762c00d75f654640f00103f9010a6a46560200000092030a4b6f642042756a6f6c61",
-    "lat": 44.7919873,
-    "lon": 14.7065015,
-    "name": "Kod Bujola",
-    "category": "restaurant"
-  },
-  {
     "id": "geo-5140fc57b1536f2d4059943df83f76664640f00103f901e7be85550200000092030b56696c6c6120526f79616c",
     "lat": 44.8004837,
     "lon": 14.7174354,
@@ -2065,46 +3241,12 @@
     "phone": "+385 51 776 320"
   },
   {
-    "id": "geo-51ddb2fd835f692d40592442ae1576654640f00102f9014d71472b0000000092031141706172746d616e2048616c6f7669c487",
-    "lat": 44.792666158759204,
-    "lon": 14.705806851119116,
-    "name": "Apartman Halović",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51b80d40af08692d40593cfac67b71644640f00102f901f643a0110000000092031c442644204170617274656d656e747320262052657374617572616e74",
-    "lat": 44.78471324172685,
-    "lon": 14.705144383019487,
-    "name": "D&D Apartements & Restaurant",
-    "category": "restaurant",
-    "website": "http://dnd-rab.com/restoran",
-    "phone": "+38591 2776 086"
-  },
-  {
-    "id": "geo-51fb848efd6f692d4059173dad395c644640f00102f9011f3a57410000000092030d4c414e444f20526561736f7274",
-    "lat": 44.78406449278753,
-    "lon": 14.705932544371981,
-    "name": "LANDO Reasort",
-    "category": "camping",
-    "website": "https://lando.hr/kamp/",
-    "phone": "+385 99 645 7000"
-  },
-  {
     "id": "geo-51ff8805bb106b2d4059bcf61f77a0644640f00102f9017424574100000000920306506c616e6b61",
     "lat": 44.786147013289764,
     "lon": 14.709112018991162,
     "name": "Planka",
     "category": "camping",
     "phone": "+385 51 772 477"
-  },
-  {
-    "id": "geo-51f70082dec0692d4059dca1bcea5c644640f00103f9010e3519330000000092030d426561636820426172204d656c",
-    "lat": 44.7840856,
-    "lon": 14.7065496,
-    "name": "Beach Bar Mel",
-    "category": "restaurant",
-    "website": "http://www.beachbarmel.com",
-    "openingHours": "Mo-Su 09:00-24:00"
   },
   {
     "id": "geo-512aea27f796792d4059d6d5d3fd52614640f00103f901426c591a0000000092030e4b6f642047757361726120497665",
@@ -2164,95 +3306,6 @@
     "category": "restaurant",
     "website": "http://www.restaurant-bimbo.com/",
     "phone": "+38551615070"
-  },
-  {
-    "id": "geo-511019fb37d4982d4059727acd61ad5e4640f00103f901f7ef421d00000000920303497661",
-    "lat": 44.7396662,
-    "lon": 14.7984941,
-    "name": "Iva",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51572250fd83982d4059f78f2a2f9e5e4640f00103f90145f08111000000009203064b6f6e7a756d",
-    "lat": 44.7392024,
-    "lon": 14.797882,
-    "name": "Konzum",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-517cd2890453992d4059ee8f9cf1225e4640f00103f90139f081110000000092031152657374617572616e7420426172626174",
-    "lat": 44.7354414,
-    "lon": 14.7994615,
-    "name": "Restaurant Barbat",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5109f945ae409d2d40592e63f9a9e05d4640f00103f9012061e5120100000092030b50616e73696f6e2041636f",
-    "lat": 44.7334187,
-    "lon": 14.8071341,
-    "name": "Pansion Aco",
-    "category": "hotel",
-    "website": "http://www.aco-rab.com"
-  },
-  {
-    "id": "geo-51c78f674fd6a12d4059b79ab54aa85c4640f00102f901236bea400000000092030d4b616d7020576f64656ec48d61",
-    "lat": 44.723885859178544,
-    "lon": 14.816088181869317,
-    "name": "Kamp Wodenča",
-    "category": "camping",
-    "website": "https://www.wodenca.com/hr"
-  },
-  {
-    "id": "geo-5130e35c797fc82d40594ccf053f3b5c4640f00102f9019d47164c00000000",
-    "lat": 44.720558049999994,
-    "lon": 14.89159755,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51439259bdc3992d4059f50df1b4a15e4640f00103f9010861ef310100000092031741706172746d656e747320436173612042617262617261",
-    "lat": 44.7393099,
-    "lon": 14.8003215,
-    "name": "Apartments Casa Barbara",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51ad0d60fa519b2d4059ac50d09a575e4640f00102f9014c8a3723000000009203055065747261",
-    "lat": 44.737048484531755,
-    "lon": 14.803359817719718,
-    "name": "Petra",
-    "category": "supermarket",
-    "openingHours": "Mo-Su 06:00-22:00"
-  },
-  {
-    "id": "geo-517f260c14c2982d4059880fecf82f5e4640f00103f9012984fddc000000009203064d6564757a61",
-    "lat": 44.735839,
-    "lon": 14.7983557,
-    "name": "Meduza",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5153aef02e179d2d4059e3056c62dc5d4640f00103f9013bf081110000000092030f52657374617572616e74204c657574",
-    "lat": 44.7332881,
-    "lon": 14.8068175,
-    "name": "Restaurant Leut",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51bd344580d39f2d40594cd8c8bfe05c4640f00103f901a6e072030100000092030f52657374617572616e74204265706f",
-    "lat": 44.7256088,
-    "lon": 14.8121605,
-    "name": "Restaurant Bepo",
-    "category": "restaurant",
-    "website": "http://bepo-rab.com/restaurant",
-    "phone": "+385 51 721 248"
-  },
-  {
-    "id": "geo-5150dd0143fba92d4059aca2e47a805a4640f00103f901a2a979110000000092030673616e746f73",
-    "lat": 44.7070459,
-    "lon": 14.8319951,
-    "name": "santos",
-    "category": "restaurant"
   },
   {
     "id": "geo-51bb4560ac6f882d40590886bd9a4d614640f00103f90146f08111000000009203055065747261",
@@ -2468,45 +3521,12 @@
     "phone": "+38551776805"
   },
   {
-    "id": "geo-515ada04734f6a2d4059ac4a6c883b674640f00103f901cd31fe1a0000000092030b427566666574204b756b69",
-    "lat": 44.8065043,
-    "lon": 14.7076374,
-    "name": "Buffet Kuki",
-    "category": "restaurant",
-    "website": "http://www.buffet-kuki.com/",
-    "phone": "+38551776119"
-  },
-  {
-    "id": "geo-51d003c4c9a2692d40599ce7e3350a674640f00103f9010af9bd1d00000000",
-    "lat": 44.8049991,
-    "lon": 14.7063201,
-    "name": "hotel",
-    "category": "hotel"
-  },
-  {
     "id": "geo-513aa5632cf56a2d4059e4bbb01332654640f00102f901ab51472b0000000092031150697a7a6572696a6120536b6970706572",
     "lat": 44.79059072618091,
     "lon": 14.708901774562595,
     "name": "Pizzerija Skipper",
     "category": "restaurant",
     "phone": "+38551776432"
-  },
-  {
-    "id": "geo-5126906d7429692d40590c68d8de5d654640f00103f90179b76d5602000000920305447570696e",
-    "lat": 44.7919272,
-    "lon": 14.7053944,
-    "name": "Dupin",
-    "category": "restaurant",
-    "phone": "+38551772061"
-  },
-  {
-    "id": "geo-513106d671fc682d40594161f5ec5e654640f00103f9010174ac14000000009203095261666661656c6c6f",
-    "lat": 44.7919594,
-    "lon": 14.705051,
-    "name": "Raffaello",
-    "category": "hotel",
-    "website": "www.raffaello.com.hr",
-    "phone": "0038551776039"
   },
   {
     "id": "geo-51ffe5cee9f57f2d405993debaf598624640f00102f901e773ea2900000000920305546f6d6d79",
@@ -2540,33 +3560,148 @@
     "openingHours": "10:00-23:00"
   },
   {
-    "id": "geo-517f9b6ad2129c2d405903e9071ad85d4640f00103f9013df081110000000092030b4b6f6e6f6261204d616d61",
-    "lat": 44.7331574,
-    "lon": 14.8048311,
-    "name": "Konoba Mama",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51ba85ee1d099e2d4059c30eea3aa65d4640f00102f901d737e529000000009203064f6c69766572",
-    "lat": 44.73163544109914,
-    "lon": 14.808663306585789,
-    "name": "Oliver",
+    "id": "geo-51fbe4cd86a16a2d4059708ad8710d674640f00103f901de31fe1a0000000092030b4c69746f206d61726b6574",
+    "lat": 44.8050978,
+    "lon": 14.7082636,
+    "name": "Lito market",
     "category": "supermarket",
-    "openingHours": "Mo-Su 07:00-21:00"
+    "website": "https://www.studenac.hr/trgovine/800/t815-rab",
+    "openingHours": "Mo-Su 08:00-12:00"
   },
   {
-    "id": "geo-51a2c96a5fe59d2d4059fe439f34795d4640f00103f9010972f856020000009203054d61726b6f",
-    "lat": 44.7302614,
-    "lon": 14.8083906,
-    "name": "Marko",
+    "id": "geo-51ccd42478436a2d4059e5982cee3f674640f00103f9015926de560200000092030c477265656e20436f726e6572",
+    "lat": 44.8066385,
+    "lon": 14.707546,
+    "name": "Green Corner",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-513a73b44f6c6a2d40590b18135102674640f00103f901e6ddac580200000092030d42697365726b61204c75736963",
+    "lat": 44.8047582,
+    "lon": 14.7078576,
+    "name": "Biserka Lusic",
+    "category": "hotel",
+    "website": "https://www.lusic-apartmanirab.com/"
+  },
+  {
+    "id": "geo-510dd3ad8d67662d405932642b1ecd664640f00103f901cdb4e3af0000000092030e44656469c48720224d6972616c22",
+    "lat": 44.8031347,
+    "lon": 14.7000088,
+    "name": "Dedić \"Miral\"",
+    "category": "hotel",
+    "website": "https://miralapartments.com/"
+  },
+  {
+    "id": "geo-51d5754dedb1652d40592409675cdd664640f00103f90105dd7b020100000092031041706172746d656e747320476f6e6172",
+    "lat": 44.8036304,
+    "lon": 14.6986231,
+    "name": "Apartments Gonar",
+    "category": "hotel",
+    "website": "www.gonar.info"
+  },
+  {
+    "id": "geo-51dde401767f662d40598f780d558c664640f00103f901bd58e170000000009203044d6f7265",
+    "lat": 44.8011576,
+    "lon": 14.7001912,
+    "name": "More",
     "category": "restaurant"
   },
   {
-    "id": "geo-51e3c4573b8aef2d4059feb220393e4d4640f00103f9018f051c00010000009203066472696e6b73",
-    "lat": 44.6034614,
-    "lon": 14.9678515,
-    "name": "drinks",
+    "id": "geo-517f654a90b6662d405969bf5a5ab2664640f00103f9012b23ae5501000000920305476f6e6172",
+    "lat": 44.8023179,
+    "lon": 14.7006116,
+    "name": "Gonar",
+    "category": "restaurant",
+    "phone": "+385981800417"
+  },
+  {
+    "id": "geo-5172a202cc216a2d4059c3b23e8adf664640f00103f90154a3724c000000009203055069766163",
+    "lat": 44.8036969,
+    "lon": 14.7072891,
+    "name": "Pivac",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-5123cd6960f5692d4059a2e826d64e654640f00103f90113d86ab0000000009203064b6f6e7a756d",
+    "lat": 44.7914684,
+    "lon": 14.7069502,
+    "name": "Konzum",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-14:00"
+  },
+  {
+    "id": "geo-515f268a90ba692d4059762c00d75f654640f00103f9010a6a46560200000092030a4b6f642042756a6f6c61",
+    "lat": 44.7919873,
+    "lon": 14.7065015,
+    "name": "Kod Bujola",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51ddb2fd835f692d40592442ae1576654640f00102f9014d71472b0000000092031141706172746d616e2048616c6f7669c487",
+    "lat": 44.792666158759204,
+    "lon": 14.705806851119116,
+    "name": "Apartman Halović",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51b80d40af08692d40593cfac67b71644640f00102f901f643a0110000000092031c442644204170617274656d656e747320262052657374617572616e74",
+    "lat": 44.78471324172685,
+    "lon": 14.705144383019487,
+    "name": "D&D Apartements & Restaurant",
+    "category": "restaurant",
+    "website": "http://dnd-rab.com/restoran",
+    "phone": "+38591 2776 086"
+  },
+  {
+    "id": "geo-51fb848efd6f692d4059173dad395c644640f00102f9011f3a57410000000092030d4c414e444f20526561736f7274",
+    "lat": 44.78406449278753,
+    "lon": 14.705932544371981,
+    "name": "LANDO Reasort",
+    "category": "camping",
+    "website": "https://lando.hr/kamp/",
+    "phone": "+385 99 645 7000"
+  },
+  {
+    "id": "geo-51f70082dec0692d4059dca1bcea5c644640f00103f9010e3519330000000092030d426561636820426172204d656c",
+    "lat": 44.7840856,
+    "lon": 14.7065496,
+    "name": "Beach Bar Mel",
+    "category": "restaurant",
+    "website": "http://www.beachbarmel.com",
+    "openingHours": "Mo-Su 09:00-24:00"
+  },
+  {
+    "id": "geo-515ada04734f6a2d4059ac4a6c883b674640f00103f901cd31fe1a0000000092030b427566666574204b756b69",
+    "lat": 44.8065043,
+    "lon": 14.7076374,
+    "name": "Buffet Kuki",
+    "category": "restaurant",
+    "website": "http://www.buffet-kuki.com/",
+    "phone": "+38551776119"
+  },
+  {
+    "id": "geo-51d003c4c9a2692d40599ce7e3350a674640f00103f9010af9bd1d00000000",
+    "lat": 44.8049991,
+    "lon": 14.7063201,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5126906d7429692d40590c68d8de5d654640f00103f90179b76d5602000000920305447570696e",
+    "lat": 44.7919272,
+    "lon": 14.7053944,
+    "name": "Dupin",
+    "category": "restaurant",
+    "phone": "+38551772061"
+  },
+  {
+    "id": "geo-513106d671fc682d40594161f5ec5e654640f00103f9010174ac14000000009203095261666661656c6c6f",
+    "lat": 44.7919594,
+    "lon": 14.705051,
+    "name": "Raffaello",
+    "category": "hotel",
+    "website": "www.raffaello.com.hr",
+    "phone": "0038551776039"
   },
   {
     "id": "geo-516cabfead09262d405982dab97a5f834640f00103f901819648440200000092030a4d616c6f204d6973746f",
@@ -3336,28 +4471,6 @@
     "openingHours": "Mo-Su 12:00-22:00"
   },
   {
-    "id": "geo-51c50c3d6f145b2d40596d78fdadca894640f00102f901a3cf694e000000009203064b6f6e6f6261",
-    "lat": 45.0764977920197,
-    "lon": 14.677890278055552,
-    "name": "Konoba",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51570d1d96615b2d4059ce7b52dca7894640f00103f9017196d8df010000009203095a677269626e696361",
-    "lat": 45.0754352,
-    "lon": 14.6784789,
-    "name": "Zgribnica",
-    "category": "restaurant",
-    "openingHours": "closed during Cov19 period"
-  },
-  {
-    "id": "geo-515fb87361a45b2d4059f9872d3d9a894640f00103f9014724ac9301000000920308417267656e74756d",
-    "lat": 45.0750195,
-    "lon": 14.6789885,
-    "name": "Argentum",
-    "category": "hotel"
-  },
-  {
     "id": "geo-517698e5a1a5592d4059b372d476b8894640f00103f901848fd8df010000009203054472616761",
     "lat": 45.0759419,
     "lon": 14.6750918,
@@ -3679,311 +4792,6 @@
     "lon": 14.5458949,
     "name": "surf 'n' fries",
     "category": "restaurant"
-  },
-  {
-    "id": "geo-519c56653acf832d4059d8593edc1f7c4640f00103f90134d11f9100000000920305506f706572",
-    "lat": 44.9697223,
-    "lon": 14.7574404,
-    "name": "Poper",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51d19739b8cf812d40598023264d287c4640f00103f901208df8730000000092030744656c66696e6f",
-    "lat": 44.9699799,
-    "lon": 14.7535379,
-    "name": "Delfino",
-    "category": "restaurant",
-    "phone": "+38551860068",
-    "openingHours": "Mo-Su 07:00-00:00"
-  },
-  {
-    "id": "geo-5150dac0c2ee802d405998adabb8277c4640f00103f9014c998932000000009203115472676f76696e61204b726b20502d3430",
-    "lat": 44.9699622,
-    "lon": 14.7518216,
-    "name": "Trgovina Krk P-40",
-    "category": "supermarket",
-    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-12:00"
-  },
-  {
-    "id": "geo-5192d332ada8802d4059629c6450127c4640f00103f9016dc66a860100000092030d4269737472c3b3204d616e676f",
-    "lat": 44.9693089,
-    "lon": 14.7512869,
-    "name": "Bistró Mango",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51a734acf3b9802d40591e5036e50a7c4640f00103f90132f1b4940100000092030b56696c6c61204164726961",
-    "lat": 44.9690825,
-    "lon": 14.7514187,
-    "name": "Villa Adria",
-    "category": "hotel",
-    "website": "https://www.valamar.com/hr/apartmani-baska/villa-adria"
-  },
-  {
-    "id": "geo-5106f357c85c812d4059d5100b6b197c4640f00103f9014a2962740000000092030e47656c6174657269612041696461",
-    "lat": 44.9695257,
-    "lon": 14.752661,
-    "name": "Gelateria Aida",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5122beb8f9eb822d40591706d1ff177c4640f00103f9012b24f17a0100000092030a46726965642066697368",
-    "lat": 44.9694824,
-    "lon": 14.7557066,
-    "name": "Fried fish",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51fe2c9622f9822d4059b61f3a4e1b7c4640f00103f901afb31c0901000000",
-    "lat": 44.9695833,
-    "lon": 14.755807,
-    "name": "hotel",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51c34f77f931812d40597ca9e9c42f7c4640f00103f901ba82fc4302000000",
-    "lat": 44.9702078,
-    "lon": 14.7523344,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-516ba1bf2bdd842d40590d8d2782387c4640f00103f9015955e95c01000000920308c5bd697261666661",
-    "lat": 44.9704745,
-    "lon": 14.7594999,
-    "name": "Žiraffa",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-511acc159458842d40596146c2082b7c4640f00103f9015d2208080300000092030a54756e6120486f757365",
-    "lat": 44.9700633,
-    "lon": 14.7584883,
-    "name": "Tuna House",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51a7446d76ff832d4059b7b82121257c4640f00103f90106743f0e0100000092031941706172746d616e2d53747564696f202246696f72696e6f22",
-    "lat": 44.9698831,
-    "lon": 14.7578084,
-    "name": "Apartman-Studio \"Fiorino\"",
-    "category": "hotel",
-    "website": "https://fiorino.app-booking.com/",
-    "phone": "0038598326914",
-    "openingHours": "Mo-Su 09:00-21:00"
-  },
-  {
-    "id": "geo-518843dbd6bb802d4059700b96ea027c4640f00103f90136d18c4e000000009203064b6f6e7a756d",
-    "lat": 44.968839,
-    "lon": 14.7514331,
-    "name": "Konzum",
-    "category": "supermarket",
-    "website": "https://www.konzum.hr/",
-    "phone": "+385800400000",
-    "openingHours": "Jan-May: Mo-Sa 07:00-19:00; Jun-Sep: Mo-Su 08:00-22:00; Oct-Dec: Mo-Sa 07:00-19:00"
-  },
-  {
-    "id": "geo-51978dcef929862d40598eaf3db3247c4640f00103f9014f998932000000009203074672616e696361",
-    "lat": 44.96987,
-    "lon": 14.762039,
-    "name": "Franica",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51bba99212cc8a2d405984fef801fe7b4640f00103f9013db5325500000000",
-    "lat": 44.9686892,
-    "lon": 14.7710882,
-    "name": "supermarket",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-511338c8da95842d4059be2b27463b7c4640f00103f90118b9fe4302000000",
-    "lat": 44.9705589,
-    "lon": 14.7589558,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51cb3f44b467802d40597b96314ff87b4640f00103f901b5736ada0000000092031741747269756d204261c5a16b61205265736964656e6365",
-    "lat": 44.9685153,
-    "lon": 14.7507912,
-    "name": "Atrium Baška Residence",
-    "category": "hotel",
-    "website": "https://www.valamar.com/hr/apartmani-baska/atrium-baska-residence"
-  },
-  {
-    "id": "geo-51bcf1a43b3e802d4059704793e6ea7b4640f00103f9011f799e730000000092030e42697374726f204b7661726e6572",
-    "lat": 44.9681061,
-    "lon": 14.7504748,
-    "name": "Bistro Kvarner",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-513198bf42e6862d4059240d6e6b0b7c4640f00103f9017c57a6940100000092030c4b6f6e6f626120506972756e",
-    "lat": 44.9690985,
-    "lon": 14.7634755,
-    "name": "Konoba Pirun",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5184c76deaf27c2d40590e1714611e7b4640f00103f901a93532180000000092031050616e73696f6e205a61647261766563",
-    "lat": 44.9618646,
-    "lon": 14.7440408,
-    "name": "Pansion Zadravec",
-    "category": "hotel",
-    "phone": "00385 51 856759"
-  },
-  {
-    "id": "geo-5116acccef8f7e2d40594fcc1f78217b4640f00102f901131ba13a000000009203055a61726f6b",
-    "lat": 44.961958900000006,
-    "lon": 14.7471919,
-    "name": "Zarok",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-513562c1583a7e2d4059d41055f8337b4640f00103f901a2d6c0e50200000092030d4368696c6c2026204772696c6c",
-    "lat": 44.9625235,
-    "lon": 14.7465389,
-    "name": "Chill & Grill",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51050b71f6187e2d4059aa0ab20a407b4640f00103f901bdfc0c550000000092030a4e616a204d61726b6574",
-    "lat": 44.9628919,
-    "lon": 14.7462842,
-    "name": "Naj Market",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-5138482d39937f2d40591b199aa1a77b4640f00103f9014611584e00000000920307416d6164657573",
-    "lat": 44.9660532,
-    "lon": 14.7491701,
-    "name": "Amadeus",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-510e12d65e4f7e2d40597b286cf2a17b4640f00102f9013512b507000000009203044d616c69",
-    "lat": 44.96587972909125,
-    "lon": 14.746699298507362,
-    "name": "Mali",
-    "category": "camping",
-    "website": "https://kamp-mali.hr/",
-    "phone": "+385 51 864 181;+385 51 864 164"
-  },
-  {
-    "id": "geo-511a5e5a1eb57f2d405939414063cb7b4640f00103f901993d3850020000009203054f6c697661",
-    "lat": 44.9671444,
-    "lon": 14.7494287,
-    "name": "Oliva",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51bebda5fae67d2d4059c60d9c088f7b4640f00101f901003a52000000000092031b4261c5a16b612042656163682043616d70696e67205265736f7274",
-    "lat": 44.965302540014406,
-    "lon": 14.745902855617597,
-    "name": "Baška Beach Camping Resort",
-    "category": "camping",
-    "website": "https://www.valamar.com/hr/kamping-baska/baska-beach-camping-resort"
-  },
-  {
-    "id": "geo-5103c29e85867e2d4059f46578d6977b4640f00102f901ef7e9c420000000092030b43656c6a736b6920446f6d",
-    "lat": 44.965571221149645,
-    "lon": 14.747120071057912,
-    "name": "Celjski Dom",
-    "category": "hostel",
-    "website": "https://www.celeia.si/"
-  },
-  {
-    "id": "geo-5156da3dd4117f2d4059b257699c977b4640f00103f901d71eaeab0000000092030954726f676f76696e61",
-    "lat": 44.9655643,
-    "lon": 14.7481829,
-    "name": "Trogovina",
-    "category": "supermarket",
-    "website": "https://trgovina-krk.hr/prodavaonice/prodavaonica-br-211/",
-    "phone": "+385/51/490-482",
-    "openingHours": "Mo,Tu 08:00-15:00; We-Su 08:00-21:00"
-  },
-  {
-    "id": "geo-5114d7e7209e7f2d405944317903cc7b4640f00103f901d0f60c550000000092030e5a766f6e696d69722053756e6e79",
-    "lat": 44.9671635,
-    "lon": 14.7492533,
-    "name": "Zvonimir Sunny",
-    "category": "hotel",
-    "website": "https://www.valamar.com/en/hotels-baska/zvonimir-hotel",
-    "phone": "+385 51 656810"
-  },
-  {
-    "id": "geo-519c0cd81f72742d4059e0a936ee837c4640f00103f901d7eeefd200000000",
-    "lat": 44.9727762,
-    "lon": 14.7274332,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51ecaf0dcb557e2d405906d671fc507c4640f00103f901766f0435000000009203115472676f76696e61204b726b20502d3339",
-    "lat": 44.9712215,
-    "lon": 14.7467483,
-    "name": "Trgovina Krk P-39",
-    "category": "supermarket",
-    "website": "https://trgovina-krk.hr/prodavaonice/prodavaonica-br-39/",
-    "phone": "+38551856427",
-    "openingHours": "Mo-Sa 07:00-20:00; Su 07:00-12:00"
-  },
-  {
-    "id": "geo-51b3333b41517f2d40591904560e2d7c4640f00103f901aa375e550000000092030653616c6f6f6e",
-    "lat": 44.970125,
-    "lon": 14.7486668,
-    "name": "Saloon",
-    "category": "restaurant",
-    "website": "http://www.saloon-baska.com/",
-    "phone": "+38551222879",
-    "openingHours": "Mo-Su 12:00-24:00"
-  },
-  {
-    "id": "geo-51885a8801f7782d405962e7dd8ba37c4640f00102f9014242721f0000000092031052657374617572616e74204d616c696e",
-    "lat": 44.97374103865765,
-    "lon": 14.736259506125194,
-    "name": "Restaurant Malin",
-    "category": "restaurant",
-    "website": "https://bistro-malin-baska.eatbu.hr"
-  },
-  {
-    "id": "geo-5105a8041fde7e2d40598518f906707c4640f00103f901794f15190200000092030549736f6c61",
-    "lat": 44.9721688,
-    "lon": 14.7477884,
-    "name": "Isola",
-    "category": "hotel",
-    "website": "http://www.isola.hr",
-    "phone": "+385 51 856 697;+385 98 578 940;+385 98 9232 440"
-  },
-  {
-    "id": "geo-513862d284927e2d405966eb2aee897c4640f00103f9012c0368e602000000920305427572696e",
-    "lat": 44.9729593,
-    "lon": 14.7472116,
-    "name": "Burin",
-    "category": "restaurant",
-    "website": "https://www.pansionburin.hr/restaurant_burin_deu.html",
-    "phone": "+385 51 856 697"
-  },
-  {
-    "id": "geo-516d58535914722d405991b6f1272a7d4640f00103f901384d665400000000",
-    "lat": 44.977849,
-    "lon": 14.7228115,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51a8e0f08288702d4059950acff00b7f4640f00103f9016a22ef5400000000",
-    "lat": 44.9925519,
-    "lon": 14.7197915,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51a9818bba7b712d4059de8838e7f17e4640f00103f901314da5d502000000920315422642205665736e61204d72616b6f76c48d69c487",
-    "lat": 44.9917573,
-    "lon": 14.7216471,
-    "name": "B&B Vesna Mrakovčić",
-    "category": "hotel"
   },
   {
     "id": "geo-51ca04b28d2efd2c4059b4249b06a08f4640f00103f901a877a9b70000000092030c4b6f6e6f626120506f726174",
@@ -4336,13 +5144,6 @@
     "openingHours": "Mo-Su 12:00-23:00"
   },
   {
-    "id": "geo-519dbcc804fc5a2d40594972af82ce894640f00103f901e737ac9301000000920307476f73706f6a61",
-    "lat": 45.0766147,
-    "lon": 14.677704,
-    "name": "Gospoja",
-    "category": "hotel"
-  },
-  {
     "id": "geo-5162fc8fa740592d405915f18c6c9d894640f00103f901a56f043500000000920305447563616e",
     "lat": 45.0751167,
     "lon": 14.6743214,
@@ -4358,6 +5159,465 @@
     "name": "Shop LUCE",
     "category": "restaurant",
     "website": "https://www.konoba-luce.hr"
+  },
+  {
+    "id": "geo-516254089a85582d40594d2abfb10c934640f00103f901e3e4da9101000000",
+    "lat": 45.1488249,
+    "lon": 14.6728943,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51208c5ac231582d4059fd6d132e07934640f00102f901f04690050000000092030943616d702054696861",
+    "lat": 45.148656615721826,
+    "lon": 14.672254632523675,
+    "name": "Camp Tiha",
+    "category": "camping",
+    "website": "https://malin-krk.com/de/camp-tiha-silo/",
+    "phone": "+385 51 852 120"
+  },
+  {
+    "id": "geo-5108f6a974c1562d4059b1b3322b25934640f00103f9014a87c21e02000000920303546561",
+    "lat": 45.1495718,
+    "lon": 14.6694447,
+    "name": "Tea",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 12:00-21:00"
+  },
+  {
+    "id": "geo-5148d455cbe7562d40597acac57311934640f00103f901727b68440200000092030c52697665726120c5a0696c6f",
+    "lat": 45.1489701,
+    "lon": 14.6697372,
+    "name": "Rivera Šilo",
+    "category": "hotel",
+    "website": "https://pansion-riviera-silo.com/",
+    "phone": "+385 99 430 1621"
+  },
+  {
+    "id": "geo-510d58cdcefd542d4059fa7abe66b9924640f00103f901ddef7fd7020000009203084d656c696f726573",
+    "lat": 45.146283,
+    "lon": 14.6659989,
+    "name": "Meliores",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-512cf93317134a2d40595958cbf852914640f00103f901dacca7df0100000092031354726f676f76696e61204b726b20642e20642e",
+    "lat": 45.1353446,
+    "lon": 14.6446769,
+    "name": "Trogovina Krk d. d.",
+    "category": "supermarket",
+    "website": "https://trgovina-krk.hr/prodavaonice/market-polje/",
+    "phone": "+385/51/852-242",
+    "openingHours": "Mo-Su 07:00-12:00"
+  },
+  {
+    "id": "geo-51cb5bbfaac4322d4059ebd09fec1c944640f00103f90160d8608d0000000092030754616d61726973",
+    "lat": 45.1571327,
+    "lon": 14.5991567,
+    "name": "Tamaris",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 10:00-23:00"
+  },
+  {
+    "id": "geo-51bd40a43a783d2d4059a0ba0386f6934640f00103f901260632aa0000000092030c5472676f76696e61204b726b",
+    "lat": 45.1559608,
+    "lon": 14.6200579,
+    "name": "Trgovina Krk",
+    "category": "supermarket",
+    "website": "https://trgovina-krk.hr/prodavaonice/market-klimno/",
+    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-13:00"
+  },
+  {
+    "id": "geo-518bd9379c9e342d405987f4801e0f934640f00103f901fad9a6430200000092030954726f676f76696e61",
+    "lat": 45.1488989,
+    "lon": 14.6027726,
+    "name": "Trogovina",
+    "category": "supermarket",
+    "website": "https://trgovina-krk.hr/prodavaonice/market-soline/"
+  },
+  {
+    "id": "geo-51a7fd20dcae0d2d40590f71bdb733914640f00103f901b06b64a000000000",
+    "lat": 45.1343908,
+    "lon": 14.5267247,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51cb8c6d08440e2d40590f9bc8cc05904640f00103f901352d3cd70200000092030642656c656361",
+    "lat": 45.125177,
+    "lon": 14.5278628,
+    "name": "Beleca",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51895baa775d142d4059bf9cd9aed0944640f00103f9012eed84dd000000009203064d616d612773",
+    "lat": 45.1626185,
+    "lon": 14.5397756,
+    "name": "Mama's",
+    "category": "restaurant",
+    "openingHours": "Mo-Su 09:00-23:00"
+  },
+  {
+    "id": "geo-518a517c2189172d40590827fd18ce944640f00103f901a8bf16de00000000",
+    "lat": 45.1625396,
+    "lon": 14.5459681,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-513584be4fb0162d4059ef5696e82c954640f00103f901626702550000000092031e56657961204d6172616469736f20486f74656c20627920416d696e657373",
+    "lat": 45.165433,
+    "lon": 14.5443139,
+    "name": "Veya Maradiso Hotel by Aminess",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51b26900ca3a172d4059fd4e93196f954640f00103f901a4aa8e22030000009203173720536561732052657374617572616e74202620426172",
+    "lat": 45.167453,
+    "lon": 14.5453704,
+    "name": "7 Seas Restaurant & Bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b3a492f073162d40596be2d3522f954640f00103f901611cbd980200000092030866726174656c6c69",
+    "lat": 45.1655067,
+    "lon": 14.5438533,
+    "name": "fratelli",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51c50c3d6f145b2d40596d78fdadca894640f00102f901a3cf694e000000009203064b6f6e6f6261",
+    "lat": 45.0764977920197,
+    "lon": 14.677890278055552,
+    "name": "Konoba",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51570d1d96615b2d4059ce7b52dca7894640f00103f9017196d8df010000009203095a677269626e696361",
+    "lat": 45.0754352,
+    "lon": 14.6784789,
+    "name": "Zgribnica",
+    "category": "restaurant",
+    "openingHours": "closed during Cov19 period"
+  },
+  {
+    "id": "geo-515fb87361a45b2d4059f9872d3d9a894640f00103f9014724ac9301000000920308417267656e74756d",
+    "lat": 45.0750195,
+    "lon": 14.6789885,
+    "name": "Argentum",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-519c56653acf832d4059d8593edc1f7c4640f00103f90134d11f9100000000920305506f706572",
+    "lat": 44.9697223,
+    "lon": 14.7574404,
+    "name": "Poper",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51d19739b8cf812d40598023264d287c4640f00103f901208df8730000000092030744656c66696e6f",
+    "lat": 44.9699799,
+    "lon": 14.7535379,
+    "name": "Delfino",
+    "category": "restaurant",
+    "phone": "+38551860068",
+    "openingHours": "Mo-Su 07:00-00:00"
+  },
+  {
+    "id": "geo-5150dac0c2ee802d405998adabb8277c4640f00103f9014c998932000000009203115472676f76696e61204b726b20502d3430",
+    "lat": 44.9699622,
+    "lon": 14.7518216,
+    "name": "Trgovina Krk P-40",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-12:00"
+  },
+  {
+    "id": "geo-5192d332ada8802d4059629c6450127c4640f00103f9016dc66a860100000092030d4269737472c3b3204d616e676f",
+    "lat": 44.9693089,
+    "lon": 14.7512869,
+    "name": "Bistró Mango",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a734acf3b9802d40591e5036e50a7c4640f00103f90132f1b4940100000092030b56696c6c61204164726961",
+    "lat": 44.9690825,
+    "lon": 14.7514187,
+    "name": "Villa Adria",
+    "category": "hotel",
+    "website": "https://www.valamar.com/hr/apartmani-baska/villa-adria"
+  },
+  {
+    "id": "geo-5106f357c85c812d4059d5100b6b197c4640f00103f9014a2962740000000092030e47656c6174657269612041696461",
+    "lat": 44.9695257,
+    "lon": 14.752661,
+    "name": "Gelateria Aida",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5122beb8f9eb822d40591706d1ff177c4640f00103f9012b24f17a0100000092030a46726965642066697368",
+    "lat": 44.9694824,
+    "lon": 14.7557066,
+    "name": "Fried fish",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51fe2c9622f9822d4059b61f3a4e1b7c4640f00103f901afb31c0901000000",
+    "lat": 44.9695833,
+    "lon": 14.755807,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51c34f77f931812d40597ca9e9c42f7c4640f00103f901ba82fc4302000000",
+    "lat": 44.9702078,
+    "lon": 14.7523344,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-516ba1bf2bdd842d40590d8d2782387c4640f00103f9015955e95c01000000920308c5bd697261666661",
+    "lat": 44.9704745,
+    "lon": 14.7594999,
+    "name": "Žiraffa",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-511acc159458842d40596146c2082b7c4640f00103f9015d2208080300000092030a54756e6120486f757365",
+    "lat": 44.9700633,
+    "lon": 14.7584883,
+    "name": "Tuna House",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51a7446d76ff832d4059b7b82121257c4640f00103f90106743f0e0100000092031941706172746d616e2d53747564696f202246696f72696e6f22",
+    "lat": 44.9698831,
+    "lon": 14.7578084,
+    "name": "Apartman-Studio \"Fiorino\"",
+    "category": "hotel",
+    "website": "https://fiorino.app-booking.com/",
+    "phone": "0038598326914",
+    "openingHours": "Mo-Su 09:00-21:00"
+  },
+  {
+    "id": "geo-518843dbd6bb802d4059700b96ea027c4640f00103f90136d18c4e000000009203064b6f6e7a756d",
+    "lat": 44.968839,
+    "lon": 14.7514331,
+    "name": "Konzum",
+    "category": "supermarket",
+    "website": "https://www.konzum.hr/",
+    "phone": "+385800400000",
+    "openingHours": "Jan-May: Mo-Sa 07:00-19:00; Jun-Sep: Mo-Su 08:00-22:00; Oct-Dec: Mo-Sa 07:00-19:00"
+  },
+  {
+    "id": "geo-51978dcef929862d40598eaf3db3247c4640f00103f9014f998932000000009203074672616e696361",
+    "lat": 44.96987,
+    "lon": 14.762039,
+    "name": "Franica",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51bba99212cc8a2d405984fef801fe7b4640f00103f9013db5325500000000",
+    "lat": 44.9686892,
+    "lon": 14.7710882,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-511338c8da95842d4059be2b27463b7c4640f00103f90118b9fe4302000000",
+    "lat": 44.9705589,
+    "lon": 14.7589558,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51cb3f44b467802d40597b96314ff87b4640f00103f901b5736ada0000000092031741747269756d204261c5a16b61205265736964656e6365",
+    "lat": 44.9685153,
+    "lon": 14.7507912,
+    "name": "Atrium Baška Residence",
+    "category": "hotel",
+    "website": "https://www.valamar.com/hr/apartmani-baska/atrium-baska-residence"
+  },
+  {
+    "id": "geo-51bcf1a43b3e802d4059704793e6ea7b4640f00103f9011f799e730000000092030e42697374726f204b7661726e6572",
+    "lat": 44.9681061,
+    "lon": 14.7504748,
+    "name": "Bistro Kvarner",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-513198bf42e6862d4059240d6e6b0b7c4640f00103f9017c57a6940100000092030c4b6f6e6f626120506972756e",
+    "lat": 44.9690985,
+    "lon": 14.7634755,
+    "name": "Konoba Pirun",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5184c76deaf27c2d40590e1714611e7b4640f00103f901a93532180000000092031050616e73696f6e205a61647261766563",
+    "lat": 44.9618646,
+    "lon": 14.7440408,
+    "name": "Pansion Zadravec",
+    "category": "hotel",
+    "phone": "00385 51 856759"
+  },
+  {
+    "id": "geo-5116acccef8f7e2d40594fcc1f78217b4640f00102f901131ba13a000000009203055a61726f6b",
+    "lat": 44.961958900000006,
+    "lon": 14.7471919,
+    "name": "Zarok",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-513562c1583a7e2d4059d41055f8337b4640f00103f901a2d6c0e50200000092030d4368696c6c2026204772696c6c",
+    "lat": 44.9625235,
+    "lon": 14.7465389,
+    "name": "Chill & Grill",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51050b71f6187e2d4059aa0ab20a407b4640f00103f901bdfc0c550000000092030a4e616a204d61726b6574",
+    "lat": 44.9628919,
+    "lon": 14.7462842,
+    "name": "Naj Market",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-5138482d39937f2d40591b199aa1a77b4640f00103f9014611584e00000000920307416d6164657573",
+    "lat": 44.9660532,
+    "lon": 14.7491701,
+    "name": "Amadeus",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-510e12d65e4f7e2d40597b286cf2a17b4640f00102f9013512b507000000009203044d616c69",
+    "lat": 44.96587972909125,
+    "lon": 14.746699298507362,
+    "name": "Mali",
+    "category": "camping",
+    "website": "https://kamp-mali.hr/",
+    "phone": "+385 51 864 181;+385 51 864 164"
+  },
+  {
+    "id": "geo-511a5e5a1eb57f2d405939414063cb7b4640f00103f901993d3850020000009203054f6c697661",
+    "lat": 44.9671444,
+    "lon": 14.7494287,
+    "name": "Oliva",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51bebda5fae67d2d4059c60d9c088f7b4640f00101f901003a52000000000092031b4261c5a16b612042656163682043616d70696e67205265736f7274",
+    "lat": 44.965302540014406,
+    "lon": 14.745902855617597,
+    "name": "Baška Beach Camping Resort",
+    "category": "camping",
+    "website": "https://www.valamar.com/hr/kamping-baska/baska-beach-camping-resort"
+  },
+  {
+    "id": "geo-5103c29e85867e2d4059f46578d6977b4640f00102f901ef7e9c420000000092030b43656c6a736b6920446f6d",
+    "lat": 44.965571221149645,
+    "lon": 14.747120071057912,
+    "name": "Celjski Dom",
+    "category": "hostel",
+    "website": "https://www.celeia.si/"
+  },
+  {
+    "id": "geo-5156da3dd4117f2d4059b257699c977b4640f00103f901d71eaeab0000000092030954726f676f76696e61",
+    "lat": 44.9655643,
+    "lon": 14.7481829,
+    "name": "Trogovina",
+    "category": "supermarket",
+    "website": "https://trgovina-krk.hr/prodavaonice/prodavaonica-br-211/",
+    "phone": "+385/51/490-482",
+    "openingHours": "Mo,Tu 08:00-15:00; We-Su 08:00-21:00"
+  },
+  {
+    "id": "geo-5114d7e7209e7f2d405944317903cc7b4640f00103f901d0f60c550000000092030e5a766f6e696d69722053756e6e79",
+    "lat": 44.9671635,
+    "lon": 14.7492533,
+    "name": "Zvonimir Sunny",
+    "category": "hotel",
+    "website": "https://www.valamar.com/en/hotels-baska/zvonimir-hotel",
+    "phone": "+385 51 656810"
+  },
+  {
+    "id": "geo-519c0cd81f72742d4059e0a936ee837c4640f00103f901d7eeefd200000000",
+    "lat": 44.9727762,
+    "lon": 14.7274332,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51ecaf0dcb557e2d405906d671fc507c4640f00103f901766f0435000000009203115472676f76696e61204b726b20502d3339",
+    "lat": 44.9712215,
+    "lon": 14.7467483,
+    "name": "Trgovina Krk P-39",
+    "category": "supermarket",
+    "website": "https://trgovina-krk.hr/prodavaonice/prodavaonica-br-39/",
+    "phone": "+38551856427",
+    "openingHours": "Mo-Sa 07:00-20:00; Su 07:00-12:00"
+  },
+  {
+    "id": "geo-51b3333b41517f2d40591904560e2d7c4640f00103f901aa375e550000000092030653616c6f6f6e",
+    "lat": 44.970125,
+    "lon": 14.7486668,
+    "name": "Saloon",
+    "category": "restaurant",
+    "website": "http://www.saloon-baska.com/",
+    "phone": "+38551222879",
+    "openingHours": "Mo-Su 12:00-24:00"
+  },
+  {
+    "id": "geo-51885a8801f7782d405962e7dd8ba37c4640f00102f9014242721f0000000092031052657374617572616e74204d616c696e",
+    "lat": 44.97374103865765,
+    "lon": 14.736259506125194,
+    "name": "Restaurant Malin",
+    "category": "restaurant",
+    "website": "https://bistro-malin-baska.eatbu.hr"
+  },
+  {
+    "id": "geo-5105a8041fde7e2d40598518f906707c4640f00103f901794f15190200000092030549736f6c61",
+    "lat": 44.9721688,
+    "lon": 14.7477884,
+    "name": "Isola",
+    "category": "hotel",
+    "website": "http://www.isola.hr",
+    "phone": "+385 51 856 697;+385 98 578 940;+385 98 9232 440"
+  },
+  {
+    "id": "geo-513862d284927e2d405966eb2aee897c4640f00103f9012c0368e602000000920305427572696e",
+    "lat": 44.9729593,
+    "lon": 14.7472116,
+    "name": "Burin",
+    "category": "restaurant",
+    "website": "https://www.pansionburin.hr/restaurant_burin_deu.html",
+    "phone": "+385 51 856 697"
+  },
+  {
+    "id": "geo-516d58535914722d405991b6f1272a7d4640f00103f901384d665400000000",
+    "lat": 44.977849,
+    "lon": 14.7228115,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51a8e0f08288702d4059950acff00b7f4640f00103f9016a22ef5400000000",
+    "lat": 44.9925519,
+    "lon": 14.7197915,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51a9818bba7b712d4059de8838e7f17e4640f00103f901314da5d502000000920315422642205665736e61204d72616b6f76c48d69c487",
+    "lat": 44.9917573,
+    "lon": 14.7216471,
+    "name": "B&B Vesna Mrakovčić",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-519dbcc804fc5a2d40594972af82ce894640f00103f901e737ac9301000000920307476f73706f6a61",
+    "lat": 45.0766147,
+    "lon": 14.677704,
+    "name": "Gospoja",
+    "category": "hotel"
   },
   {
     "id": "geo-5109073186285d2d4059d0019365d2824640f00103f90138fc7c5d00000000920306c5bd616e6163",
@@ -4465,25 +5725,294 @@
     "category": "restaurant"
   },
   {
-    "id": "geo-517fa31d37fc862b40595a97bfe72cd24640f00103f90188cfc8110000000092030b50697a7a61205a656c6967",
-    "lat": 45.6419954,
-    "lon": 13.763643,
-    "name": "Pizza Zelig",
+    "id": "geo-511c5025b9b2762c405985798f334d9a4640f00103f90144f779890200000092031056696c6c61205472616d6f6e74616e61",
+    "lat": 45.205481,
+    "lon": 14.2318323,
+    "name": "Villa Tramontana",
+    "category": "hotel",
+    "website": "https://www.villatramontana.com/"
+  },
+  {
+    "id": "geo-51201b4485b37c2c40591a94003779974640f00102f901c40bf34700000000",
+    "lat": 45.183386683733445,
+    "lon": 14.243557133258548,
+    "name": "restaurant",
     "category": "restaurant"
   },
   {
-    "id": "geo-519eea35e26e8d2b40598ca83fb104d44640f00103f9018077e511000000009203054d6178c3ac",
-    "lat": 45.6563932,
-    "lon": 13.7762366,
-    "name": "Maxì",
+    "id": "geo-514eaa81256b722c4059da783db58d924640f00102f9018a087c140000000092030f4275666665742042726573746f7661",
+    "lat": 45.1449495840222,
+    "lon": 14.223473712995794,
+    "name": "Buffet Brestova",
+    "category": "restaurant",
+    "openingHours": "Mo,Tu 08:30-16:30; We,Th 07:00-18:30; Fr 07:00-19:30; Sa,Su 07:00-18:30"
+  },
+  {
+    "id": "geo-51d00a0c59dd762c40591f14ef5b089b4640f00103f90161d86c6900000000920312526573746f72616e20536c616d6e6a616b69",
+    "lat": 45.2111926,
+    "lon": 14.2321575,
+    "name": "Restoran Slamnjaki",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51ee0d19ea0b782c4059417e3672dd964640f00103f9014bbf94060100000092031272657374617572616e7420426174656c616e",
+    "lat": 45.178633,
+    "lon": 14.2344659,
+    "name": "restaurant Batelan",
+    "category": "restaurant",
+    "openingHours": "Mo 16:00-22:00; Tu off; We-Su 12:00-16:00,18:00-23:00"
+  },
+  {
+    "id": "geo-51b511f4bcc06d2c4059d6d127a897a74640f00103f90129e1870003000000",
+    "lat": 45.3093157,
+    "lon": 14.2143611,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5160aa3efca16e2c4059ca0e3b9d75a74640f00103f901f74f780501000000",
+    "lat": 45.3082768,
+    "lon": 14.2160796,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51396f5287cb642c4059b693d27d4aa34640f00103f90177baad6901000000",
+    "lat": 45.2757108,
+    "lon": 14.1968653,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51846cfe04bc692c4059d302c5d93ea74640f00102f901f491a9190000000092030a446f706f6c61766f726f",
+    "lat": 45.30660554999999,
+    "lon": 14.206512600000003,
+    "name": "Dopolavoro",
+    "category": "restaurant",
+    "website": "https://www.dopolavoro.hr/homed.html",
+    "phone": "+38551299641"
+  },
+  {
+    "id": "geo-5136dfd27b74782c4059f077de7cd9964640f00103f901b690194101000000",
+    "lat": 45.1785122,
+    "lon": 14.2352637,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-519eb12fd978782c40597752ba4fe9964640f00103f901c5d6316a0100000092030f4d696e694d61726b65742053757a79",
+    "lat": 45.1789951,
+    "lon": 14.235297,
+    "name": "MiniMarket Suzy",
+    "category": "supermarket",
+    "openingHours": "07:00-13:00,15:00-20:00"
+  },
+  {
+    "id": "geo-5159f6c9f6c66d2c4059bdb7335d99a74640f00103f9018c8511440200000092030d506c616e696e736b6920626172",
+    "lat": 45.3093678,
+    "lon": 14.2144086,
+    "name": "Planinski bar",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-517fbcfcf3d9622c4059710514eae9a64640f00103f901b21ab74e00000000",
+    "lat": 45.3040135,
+    "lon": 14.1930691,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5112d1f93aba632c4059a736829e17a34640f00103f901d561835100000000",
+    "lat": 45.2741583,
+    "lon": 14.1947802,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-513c180c0973422c40592a02f79738ab4640f00103f9019647270201000000",
+    "lat": 45.3376646,
+    "lon": 14.1297839,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51ee7c3f355e422c40593276c24b70aa4640f00103f90143f96d5b01000000",
+    "lat": 45.331552,
+    "lon": 14.129625,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-511a83f34eaa362c4059f8b7150cf8ac4640f00103f9014dc4248d0200000092030556616c6c79",
+    "lat": 45.3513198,
+    "lon": 14.1067681,
+    "name": "Vally",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51636a0190c9182c405927ecec759cb14640f00103f901133aef49000000009203184b6f6e6f62612056616c746572202d204b6f6c696e617369",
+    "lat": 45.3875873,
+    "lon": 14.0484128,
+    "name": "Konoba Valter - Kolinasi",
+    "category": "restaurant",
+    "website": "http://www.konoba-kolinasi.com/",
+    "phone": "+385 52 666624",
+    "openingHours": "We-Mo 12:00-22:00"
+  },
+  {
+    "id": "geo-519e5104824a162c40592132f66fa8b24640f00103f90185b33d6001000000",
+    "lat": 45.3957653,
+    "lon": 14.0435372,
+    "name": "camping",
+    "category": "camping",
+    "phone": "+385 91 593 8290"
+  },
+  {
+    "id": "geo-5155e12aaad9162c40591840f850a2b24640f00103f901f53d245102000000",
+    "lat": 45.3955785,
+    "lon": 14.0446294,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-518f481d4daf362c4059134ffe5220ad4640f00102f901f1b3480a00000000920306506c616e696b",
+    "lat": 45.352548956083545,
+    "lon": 14.106806192230833,
+    "name": "Planik",
+    "category": "restaurant",
+    "phone": "052 / 685113",
+    "openingHours": "Mo-Sa 08:00-23:00;Su 12:00-23:00"
+  },
+  {
+    "id": "geo-51a33039ffc0362c4059ea0ce7751fad4640f00103f9018862fef0020000009203064d61726b6574",
+    "lat": 45.3525226,
+    "lon": 14.1069412,
+    "name": "Market",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 09:00-20:00"
+  },
+  {
+    "id": "geo-515b807cfaf1192c40593c56b9d090ac4640f00102f901741b85160000000092030d48756d736b61204b6f6e6f6261",
+    "lat": 45.348169413086424,
+    "lon": 14.050674274156497,
+    "name": "Humska Konoba",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51c5e44872ac182c405939496dd0a0b14640f00102f9019eabd91f000000009203084b6f6c696e617369",
+    "lat": 45.3877201589225,
+    "lon": 14.048190661810063,
+    "name": "Kolinasi",
+    "category": "hotel",
+    "phone": "+385 52 666655"
+  },
+  {
+    "id": "geo-5126fdbd141e0c2c40594c778d4c76b44640f00103f9011600522402000000",
+    "lat": 45.4098602,
+    "lon": 14.023667,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51fabda83869d12b405965a1421abac14640f00103f9011847a3fc02000000920314466f6e74616e6120636f6e2070616e6368696e61",
+    "lat": 45.5134919,
+    "lon": 13.9090059,
+    "name": "Fontana con panchina",
+    "category": "water"
+  },
+  {
+    "id": "geo-516c12729472dd2b4059dcb75a272ec04640f00103f901d8fe5d230100000092030c486f7374656c205861786964",
+    "lat": 45.5014085,
+    "lon": 13.9325148,
+    "name": "Hostel Xaxid",
+    "category": "hostel",
+    "website": "https://hostelxaxid.si/"
+  },
+  {
+    "id": "geo-519312cce20fe82b4059ff97c68a75c34640f00103f901bd0dba7000000000",
+    "lat": 45.5270246,
+    "lon": 13.9532462,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5166344d3338dd2b40598e7340b73cc04640f00103f90185a1839902000000",
+    "lat": 45.5018529,
+    "lon": 13.9320694,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5143644799c3dc2b40598c75bba827c04640f00103f90195df3eb201000000",
+    "lat": 45.5012103,
+    "lon": 13.9311798,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51f8783328ecfe2b4059f7d137444eb64640f00102f90145c21f1d0000000092030b526173706164616c696361",
+    "lat": 45.424263503318734,
+    "lon": 13.997895485194462,
+    "name": "Raspadalica",
+    "category": "camping",
+    "website": "http://www.raspadalica.com/"
+  },
+  {
+    "id": "geo-5181a5040eb2362c405933124658f9ac4640f00103f9014ec4248d0200000092030f4d61726b6574204c75706f676c6176",
+    "lat": 45.3513594,
+    "lon": 14.1068272,
+    "name": "Market Lupoglav",
     "category": "supermarket"
   },
   {
-    "id": "geo-511cc2e73d848b2b405907cebe9767d34640f00103f901f100d707010000009203184b6175616920506f6bc3a8202620427562626c6520546561",
-    "lat": 45.6515989,
-    "lon": 13.7724933,
-    "name": "Kauai Pokè & Bubble Tea",
-    "category": "restaurant"
+    "id": "geo-517635d483dd352c4059d54444d63fad4640f00102f901c4a3480a0000000092030853747564656e6163",
+    "lat": 45.35351065000001,
+    "lon": 14.105205649999998,
+    "name": "Studenac",
+    "category": "supermarket",
+    "website": "https://www.studenac.hr/de/stores/511/t541-lupoglav",
+    "openingHours": "Tu-Su 07:00-20:00"
+  },
+  {
+    "id": "geo-5141b566d075162c4059026b30687caf4640f00103f9018a357c020100000092031045434f2056696c6c61204c6174696e69",
+    "lat": 45.3709841,
+    "lon": 14.0438676,
+    "name": "ECO Villa Latini",
+    "category": "hotel",
+    "phone": "+385958795312"
+  },
+  {
+    "id": "geo-519f8796341f142c4059f9d5e116d8b24640f00102f901d2e34d560000000092031256656c61205374696e612043616d70696e67",
+    "lat": 45.397219524642374,
+    "lon": 14.039300578475205,
+    "name": "Vela Stina Camping",
+    "category": "camping",
+    "website": "https://vela-stina.com/",
+    "phone": "+385915080928"
+  },
+  {
+    "id": "geo-51674fb80d59172c40599f16cd1484b24640f00103f901dae381210200000092030d5472676f76696e612053757a69",
+    "lat": 45.3946558,
+    "lon": 14.0456013,
+    "name": "Trgovina Suzi",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 07:00-20:00"
+  },
+  {
+    "id": "geo-51aa6400a8e2162c40596dc5feb27bb24640f00103f901e38a93aa0200000092030e43616666652042617220524fc48c",
+    "lat": 45.3944,
+    "lon": 14.044698,
+    "name": "Caffe Bar ROČ",
+    "category": "restaurant",
+    "website": "https://caffe-bar-roc.business.site/"
+  },
+  {
+    "id": "geo-51c51561d4ff172c4059d046ae9b52b24640f00103f9014449ef490000000092030d526fc48d6b61204b6f6e6f6261",
+    "lat": 45.393146,
+    "lon": 14.0468737,
+    "name": "Ročka Konoba",
+    "category": "restaurant",
+    "phone": "+385 91 7299716"
   },
   {
     "id": "geo-51aa8dfba078cb2b405936a506e45cd04640f00103f9019cf6179a020000009203164368757272617363617269612064752042726173696c",
@@ -4565,183 +6094,6 @@
     "category": "camping"
   },
   {
-    "id": "geo-513b31900cde902b4059be1ea74382d34640f00102f901020fbe3e000000009203074461204c6f6c61",
-    "lat": 45.652412850000005,
-    "lon": 13.7829441,
-    "name": "Da Lola",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5137c714072b912b40591c1252126dd34640f00103f90116e709fd0200000092031b50697a7a65726961205475747461204e276174612053746f726961",
-    "lat": 45.6517661,
-    "lon": 13.7835314,
-    "name": "Pizzeria Tutta N'ata Storia",
-    "category": "restaurant",
-    "phone": "+39 040 064 5639",
-    "openingHours": "We-Sa 12:00-14:00, 18:00-22:00; Su, Tu 18:00-22:00"
-  },
-  {
-    "id": "geo-51e85fdc572f902b4059000e901e75d34640f00103f9012086531501000000920314526973746f72616e74652043696e612043696e61",
-    "lat": 45.6520117,
-    "lon": 13.7816112,
-    "name": "Ristorante Cina Cina",
-    "category": "restaurant",
-    "website": "https://www.ristorantecinesecina-cina.it/",
-    "phone": "+39 040 367388;+39 040 768477",
-    "openingHours": "Tu-Su 12:00-15:00,19:00-24:00"
-  },
-  {
-    "id": "geo-5134b91803eb902b4059a880c52b5ad34640f00103f901bf8cd12402000000920307546172616dc3ac",
-    "lat": 45.6511893,
-    "lon": 13.783043,
-    "name": "Taramì",
-    "category": "supermarket",
-    "website": "https://tarami.it/"
-  },
-  {
-    "id": "geo-51c3f5831502902b4059764364a252d34640f00103f90144f098d80000000092030c5061706127732050697a7a61",
-    "lat": 45.6509593,
-    "lon": 13.7812659,
-    "name": "Papa's Pizza",
-    "category": "restaurant",
-    "phone": "+39 040 470 7356; +39 040 977 7068",
-    "openingHours": "Mo-Su 12:00-14:30,18:00-22:30"
-  },
-  {
-    "id": "geo-51dbf7a8bf5e912b4059a452ec681cd34640f00103f901a9215bc7020000009203134c27616e676f6c6f2044656c2043616666c3a8",
-    "lat": 45.6493045,
-    "lon": 13.783926,
-    "name": "L'angolo Del Caffè",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-510ae4c8b903932b40599c3d867df1d24640f00103f901bcbf42bd0000000092030f50697a7a65726961204d696c616479",
-    "lat": 45.6479947,
-    "lon": 13.7871378,
-    "name": "Pizzeria Milady",
-    "category": "restaurant",
-    "website": "https://www.pizzeriamilady-trieste.it/",
-    "phone": "+39 040 364726",
-    "openingHours": "12:30-23:30; Tu off"
-  },
-  {
-    "id": "geo-51f19b679192932b40598cc45feeeed24640f00103f901bc6678f300000000",
-    "lat": 45.6479166,
-    "lon": 13.7882276,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-515e34bff5bc922b405928806264c9d24640f00103f901d616115d000000009203084575726f73706172",
-    "lat": 45.646771,
-    "lon": 13.7865979,
-    "name": "Eurospar",
-    "category": "supermarket",
-    "website": "http://www.edespar.it/",
-    "phone": "+39 040 3728025",
-    "openingHours": "Mo-Sa 09:00-19:30; Su 09:00-13:00,16:00-19:00"
-  },
-  {
-    "id": "geo-5167ae1dd665922b40590613dacde7d24640f00103f901775e5abf0000000092031554726174746f7269612041692047697261736f6c69",
-    "lat": 45.6476991,
-    "lon": 13.7859332,
-    "name": "Trattoria Ai Girasoli",
-    "category": "restaurant",
-    "phone": "+39 340 4284248"
-  },
-  {
-    "id": "geo-5182ed163724902b4059d89aadbce4d24640f00103f90187b5755401000000",
-    "lat": 45.6476055,
-    "lon": 13.7815263,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51acc8e88024902b40591f4df564fed24640f00103f9012717e6190200000092031250697a7a65726961204c6120526567696e61",
-    "lat": 45.6483885,
-    "lon": 13.7815285,
-    "name": "Pizzeria La Regina",
-    "category": "restaurant",
-    "phone": "+39 040 2463754",
-    "openingHours": "Mo-Su 12:00-14:00,18:00-22:30"
-  },
-  {
-    "id": "geo-515fb8ce1a17912b4059b6ad1c10d7d24640f00103f901ff1e6d6d0000000092031a4f73746572696120416c6c612062656c6c612054726965737465",
-    "lat": 45.6471882,
-    "lon": 13.7833794,
-    "name": "Osteria Alla bella Trieste",
-    "category": "restaurant",
-    "website": "http://www.osteriabellatrieste.com/",
-    "phone": "+39 040 761979",
-    "openingHours": "Mo-Fr 10:00-24:00, Sa 10:00-15:00; Su off"
-  },
-  {
-    "id": "geo-513062444717902b4059eecb3e3498d24640f00103f9010823a30f0000000092031350697a7a657269612053616e2047697573746f",
-    "lat": 45.6452699,
-    "lon": 13.7814276,
-    "name": "Pizzeria San Giusto",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5124d6e25300902b4059635e471cb2d24640f00103f9016593c9110000000092030d426172204761726962616c6469",
-    "lat": 45.6460605,
-    "lon": 13.7812525,
-    "name": "Bar Garibaldi",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-514ac9bc9f64902b40592b27eb81a0d24640f00103f9018ed2a2fd02000000",
-    "lat": 45.6455233,
-    "lon": 13.7820177,
-    "name": "supermarket",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-518eb1135e82932b4059502b966c86d24640f00103f9012e17e6190200000092030d50697a7a612053746174696f6e",
-    "lat": 45.6447273,
-    "lon": 13.788104,
-    "name": "Pizza Station",
-    "category": "restaurant",
-    "phone": "+39 040 2039127",
-    "openingHours": "Mo-Su 12:00-15:00,18:00-23:00"
-  },
-  {
-    "id": "geo-5152d158fb3b932b4059fbe2f7db43d24640f00103f901b8e2c9fd02000000920312496c2050616e652051756f74696469616e6f",
-    "lat": 45.6426959,
-    "lon": 13.787567,
-    "name": "Il Pane Quotidiano",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-510e1a55e12a922b405999b7ea3a54d24640f00103f9012ad4408000000000",
-    "lat": 45.6431955,
-    "lon": 13.7854834,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-5193f8815083922b4059cf2f4ad05fd24640f00103f901f21cf95a020000009203154d612e2e2e2044696121204368652e2e2e20426162",
-    "lat": 45.643549,
-    "lon": 13.7861581,
-    "name": "Ma... Dia! Che... Bab",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-516b93d453f5902b4059b5f8b94670d24640f00103f90177eab2f0020000009203254d6163656c6c65726961206567697a69616e61202d2042425120484f555345204752494c4c",
-    "lat": 45.6440514,
-    "lon": 13.7831217,
-    "name": "Macelleria egiziana - BBQ HOUSE GRILL",
-    "category": "restaurant",
-    "openingHours": "Mo-Sa 12:00-22:00"
-  },
-  {
-    "id": "geo-514925862ef2902b4059590a92883ad24640f00103f9016c17991002000000",
-    "lat": 45.6424113,
-    "lon": 13.7830977,
-    "name": "water",
-    "category": "water"
-  },
-  {
     "id": "geo-51c602ba8a20912b40599f11b6e919d24640f00103f90109b3fa8d02000000",
     "lat": 45.6414158,
     "lon": 13.7834514,
@@ -4813,15 +6165,6 @@
     "lon": 13.7969614,
     "name": "Metà",
     "category": "supermarket"
-  },
-  {
-    "id": "geo-51a1aea4cb519a2b4059f152a00557d24640f00103f9012d17e6190200000092030c50697a7a61204d6174726978",
-    "lat": 45.6432807,
-    "lon": 13.8014053,
-    "name": "Pizza Matrix",
-    "category": "restaurant",
-    "phone": "+39 040 947885",
-    "openingHours": "Tu-Su 18:30-23:00"
   },
   {
     "id": "geo-5115cd5e1157992b4059b205ce63ded14640f00103f90150acb7c20000000092030f43656e74726f20446973636f756e74",
@@ -5131,6 +6474,1119 @@
     "openingHours": "Mo-Sa 09:00-20:30, Su 09:00-19:30"
   },
   {
+    "id": "geo-516e22e9899d8f2b4059abd7e37448d14640f00103f90108ffe49f000000009203114269727265726961205061756c616e6572",
+    "lat": 45.6350237,
+    "lon": 13.7804988,
+    "name": "Birreria Paulaner",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51c4e347a1d18e2b4059d0d2156c23d14640f00103f901583eaf12000000009203044c69646c",
+    "lat": 45.6338935,
+    "lon": 13.7789431,
+    "name": "Lidl",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51d2ae9d83c28f2b40596df47bac2ad24640f00103f9014589fe210100000092031d42657374205765737465726e20486f74656c2053616e2047697573746f",
+    "lat": 45.6419273,
+    "lon": 13.7807809,
+    "name": "Best Western Hotel San Giusto",
+    "category": "hotel",
+    "website": "https://www.hotelsangiusto.it/"
+  },
+  {
+    "id": "geo-51a9f17794ef8e2b40597d53fdef2dd24640f00103f9015b2eca1100000000",
+    "lat": 45.6420269,
+    "lon": 13.7791716,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51e0f835edbd8f2b405969609ad832d24640f00103f9016438216f0100000092030c4261722053706f727469766f",
+    "lat": 45.6421767,
+    "lon": 13.7807459,
+    "name": "Bar Sportivo",
+    "category": "restaurant",
+    "phone": "+39 040 764704"
+  },
+  {
+    "id": "geo-51f123c852358f2b405913acbbc337d24640f00103f90114461dec00000000",
+    "lat": 45.6423268,
+    "lon": 13.7797037,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5187acc9ae0f8e2b4059ea04341136d24640f00103f901ca4cf9e90000000092030f427566666574205465726765737465",
+    "lat": 45.642275,
+    "lon": 13.7774634,
+    "name": "Buffet Tergeste",
+    "category": "restaurant",
+    "openingHours": "Tu-Su"
+  },
+  {
+    "id": "geo-51e80a4c50d69d2b4059c6ceaeff8ecf4640f00102f9018e942b02000000009203084575726f5370696e",
+    "lat": 45.62155147586377,
+    "lon": 13.808275708468003,
+    "name": "EuroSpin",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51a8847181159d2b4059ccadb59cf0cf4640f00103f90133589827020000009203105468652043726f776e204c6f756e6765",
+    "lat": 45.6245304,
+    "lon": 13.8068047,
+    "name": "The Crown Lounge",
+    "category": "restaurant",
+    "phone": "+39 040 3409790",
+    "openingHours": "Mo-Sa 07:30-13:00,15:00-19:30; Su,PH 08:00-13:00,16:00-18:00"
+  },
+  {
+    "id": "geo-5194837e4ba59c2b4059308e80c0b9cf4640f00103f9016782e39000000000",
+    "lat": 45.6228562,
+    "lon": 13.8059486,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-510972ab7bbf9c2b4059105b7a34d5cf4640f00103f9014a8b271000000000",
+    "lat": 45.623694,
+    "lon": 13.8061484,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51e6577380609e2b4059917648d686cf4640f00103f9012f941b100000000092031450697a7a6572696120224c6120546f6c61646122",
+    "lat": 45.6213024,
+    "lon": 13.80933,
+    "name": "Pizzeria \"La Tolada\"",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-510bb6114f76a72b4059e0e64306a8cf4640f00103f901cc5b98860000000092031350697a7a65726961206461204d6f646573746f",
+    "lat": 45.6223152,
+    "lon": 13.8270745,
+    "name": "Pizzeria da Modesto",
+    "category": "restaurant",
+    "phone": "+39 040 812837"
+  },
+  {
+    "id": "geo-517cee04fbafb72b4059369ab745f4cf4640f00103f90177c0aa9001000000",
+    "lat": 45.6246421,
+    "lon": 13.8587645,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-514d7dc5bf74c72b405989d1730b5dcf4640f00103f901ac3ba2110000000092030d4c6f63616e6461204d6172696f",
+    "lat": 45.620027,
+    "lon": 13.8895626,
+    "name": "Locanda Mario",
+    "category": "hotel",
+    "website": "https://www.locandamario.wpeople.it/",
+    "phone": "+39 040 228193"
+  },
+  {
+    "id": "geo-51e31cd02dcfde2b4059b1d760866bca4640f00103f9010b02f972000000009203054272676f64",
+    "lat": 45.5814064,
+    "lon": 13.9351744,
+    "name": "Brgod",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51add4586721de2b4059429369d9ffcd4640f00103f9019fe3294102000000",
+    "lat": 45.6093704,
+    "lon": 13.9338486,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51e50412b985df2b4059a5710399f8cd4640f00103f9015767113e00000000",
+    "lat": 45.6091491,
+    "lon": 13.9365671,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-5125e583879cdd2b40591d5bf052edcd4640f00102f901d259834c0000000092031b5069636572696a6120696e206fc5a1746172696a6120546f6e6361",
+    "lat": 45.60880505310181,
+    "lon": 13.932834849215007,
+    "name": "Picerija in oštarija Tonca",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-514fe042c307c72b405997f9b3c46fcf4640f00103f90181564ed802000000",
+    "lat": 45.6205984,
+    "lon": 13.8887311,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51f1eeb62e28de2b40596c7f200164cd4640f00102f9019959834c0000000092031a5069766f7661726e6120476f7374696c6e61204d61686e69c48d",
+    "lat": 45.60461439215473,
+    "lon": 13.933900317984326,
+    "name": "Pivovarna Gostilna Mahnič",
+    "category": "restaurant",
+    "website": "https://www.mahnic.si",
+    "phone": "+386 5 6800 100",
+    "openingHours": "Mo-Su 11:00-23:00; Dec 25,31: 11:00-17:00"
+  },
+  {
+    "id": "geo-5170a49056f0ce2b4059708767ddadcf4640f00102f901d8a3e8020000000092030b4b6f6d7061732053686f70",
+    "lat": 45.62249343447809,
+    "lon": 13.90417738452581,
+    "name": "Kompas Shop",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 08:00-20:00; Su 09:00-19:00"
+  },
+  {
+    "id": "geo-51ec3ce070d5cf2b4059a00c9fbeafce4640f00103f90105af79360000000092030c50726920c48c756b6f766968",
+    "lat": 45.6147383,
+    "lon": 13.9059253,
+    "name": "Pri Čukovih",
+    "category": "restaurant",
+    "website": "https://pricukovih.si/",
+    "phone": "+386 41 504456",
+    "openingHours": "Sa,Su 10:00-22:00"
+  },
+  {
+    "id": "geo-51949ec91dd9e42b4059915cfa4d86cd4640f00102f901ad2d712200000000920309507220c48c69c48d69",
+    "lat": 45.605661151167745,
+    "lon": 13.946968966352223,
+    "name": "Pr Čiči",
+    "category": "restaurant",
+    "website": "http://www.hrpelje-kozina.si/gostilna-zigante/"
+  },
+  {
+    "id": "geo-51012d0208c4e42b4059149d1b8986cd4640f00103f9014872dafd0200000092031346616d61204d61726b657420487270656c6a65",
+    "lat": 45.6056682,
+    "lon": 13.9468081,
+    "name": "Fama Market Hrpelje",
+    "category": "supermarket",
+    "website": "https://www.fama.si/nase-prodajalne/fama-market-hrpelje/",
+    "phone": "+386 5 6890 390",
+    "openingHours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+  },
+  {
+    "id": "geo-512fe0b53266d12b40597eeabf194dcf4640f00102f9019122470c0000000092030f476f737469c5a1c48d652043696d69",
+    "lat": 45.61954042311571,
+    "lon": 13.908982834531427,
+    "name": "Gostišče Cimi",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5161904f2388de2b40596265d93807ce4640f00103f9013546e684020000009203045475c5a1",
+    "lat": 45.6095954,
+    "lon": 13.9346324,
+    "name": "Tuš",
+    "category": "supermarket",
+    "website": "https://www.tus.si/odpiralni-cas/poslovalnica/tus-supermarket-kozina",
+    "openingHours": "Mo-Sa 08:00-20:00"
+  },
+  {
+    "id": "geo-51b803ba833ade2b4059287f3bace4cd4640f00102f9013de7c71d000000009203084575726f5370696e",
+    "lat": 45.608541039515615,
+    "lon": 13.934040180641986,
+    "name": "EuroSpin",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-512f8338e898dc2b40598147380068cd4640f00102f9015d209e0f000000009203084e61204275726a69",
+    "lat": 45.6047363543321,
+    "lon": 13.930854088686457,
+    "name": "Na Burji",
+    "category": "restaurant",
+    "phone": "+386 70 277277",
+    "openingHours": "Mo-Su 11:00-23:00"
+  },
+  {
+    "id": "geo-512463b5f97fdb2b405986915ed46ecd4640f00102f901bf4d820b0000000092031a506574726f6c202d204b6f7a696e61204163202d20567a686f64",
+    "lat": 45.60494475,
+    "lon": 13.92871075,
+    "name": "Petrol - Kozina Ac - Vzhod",
+    "category": "supermarket",
+    "website": "http://www.petrol.si/bencinski-servisi/podrobno/162",
+    "phone": "+386 5 6800950",
+    "openingHours": "24/7"
+  },
+  {
+    "id": "geo-514ef8003851e62b4059c5ac174339cd4640f00103f90164682a4102000000",
+    "lat": 45.60331,
+    "lon": 13.9498384,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51af0391fd6de32b40592f2d69d76ac44640f00102f901ddfc681c00000000920316476f7374696c6e6120506f6420536c61766e696b6f6d",
+    "lat": 45.53451054225513,
+    "lon": 13.944198535873367,
+    "name": "Gostilna Pod Slavnikom",
+    "category": "restaurant",
+    "phone": "+386 5 687 01 70"
+  },
+  {
+    "id": "geo-517d59d475c9ca2b405973c678a456d04640f00102f901eccbb720000000009203244167726974757269736d6f202f204b6d65c48d6b6920747572697a656d205261636d616e",
+    "lat": 45.62764411828257,
+    "lon": 13.896068269893243,
+    "name": "Agriturismo / Kmečki turizem Racman",
+    "category": "restaurant",
+    "phone": "+39 339 5472388;+39 339 5285442",
+    "openingHours": "Fr 18:00-23:00, Sa-Su 10:00-23:00"
+  },
+  {
+    "id": "geo-51baa0be654ecb2b40597f2ce9cd4dd04640f00103f90118d6535100000000920316486f74656c2052657374617572616e7420506573656b",
+    "lat": 45.6273744,
+    "lon": 13.8970825,
+    "name": "Hotel Restaurant Pesek",
+    "category": "hotel",
+    "website": "http://www.hotelpesek.it/",
+    "phone": "+39 040 226294"
+  },
+  {
+    "id": "geo-5105453d8e30be2b4059fcb7dcaa35d04640f00103f90118a779360000000092032754726174746f72696120416c20506f7a7a6f2064692047757374696e69205069657270616f6c6f",
+    "lat": 45.6266378,
+    "lon": 13.8714642,
+    "name": "Trattoria Al Pozzo di Gustini Pierpaolo",
+    "category": "restaurant",
+    "website": "https://trattoriaalpozzodigustinipierpaolo.eatbu.com",
+    "phone": "+393487926945"
+  },
+  {
+    "id": "geo-51b6c82c3185a92b405903e962d34ad14640f00103f901b1ba25290000000092031254726174746f7269612044612047656c6d6f",
+    "lat": 45.635096,
+    "lon": 13.8310943,
+    "name": "Trattoria Da Gelmo",
+    "category": "restaurant",
+    "website": "https://www.trattoriagelmo.com/",
+    "phone": "+39 040 910749",
+    "openingHours": "Mo-Sa 9:00-23:00"
+  },
+  {
+    "id": "geo-5106dbe3e02da72b4059404f030649d14640f00103f90194421ea0010000009203174c612043616666657474657269612043656e7472616c65",
+    "lat": 45.635041,
+    "lon": 13.8265219,
+    "name": "La Caffetteria Centrale",
+    "category": "restaurant",
+    "phone": "+39 040 912169"
+  },
+  {
+    "id": "geo-511c1da1b0d5a72b405961527c7c42d14640f00103f9010901f0a50200000092030a426172204d6172696e61",
+    "lat": 45.6348415,
+    "lon": 13.8278022,
+    "name": "Bar Marina",
+    "category": "restaurant",
+    "phone": "+39 040 910748",
+    "openingHours": "Mo-Sa 07:00-20:30"
+  },
+  {
+    "id": "geo-51f86c1d1ceca52b4059e6a1a5e14ad14640f00103f901907e99d80000000092030443726169",
+    "lat": 45.6350977,
+    "lon": 13.824067,
+    "name": "Crai",
+    "category": "supermarket",
+    "website": "https://www.crai-supermercati.it/ama/punti-vendita/pdv.php?id=2401",
+    "phone": "+39 04232861",
+    "openingHours": "Mo-Sa 07:00-21:00, Su 08:00-20:00; PH off"
+  },
+  {
+    "id": "geo-51866753bf1c9b2b40597533edac27d24640f00103f901c17d3cf600000000",
+    "lat": 45.6418358,
+    "lon": 13.8029537,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-514e7743bf5b9d2b40590768114020d04640f00103f90128a7616500000000",
+    "lat": 45.6259842,
+    "lon": 13.8073406,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51fa2b64ae0c962b405939d0e8b3a8d04640f00103f9013bc4437400000000",
+    "lat": 45.6301484,
+    "lon": 13.7930655,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51f5e0ba7e04962b4059d2ad332a54d04640f00102f9018e242141000000009203064361646f726f",
+    "lat": 45.627568507417564,
+    "lon": 13.793003044426294,
+    "name": "Cadoro",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-518364a65945942b405923e5dd4724d04640f00103f901563e980d02000000",
+    "lat": 45.6261072,
+    "lon": 13.7895916,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51b24813ef00932b4059be19901898d04640f00103f9012017e6190200000092030a4269672044616e69656c",
+    "lat": 45.6296416,
+    "lon": 13.7871165,
+    "name": "Big Daniel",
+    "category": "restaurant",
+    "phone": "+39 3271352415"
+  },
+  {
+    "id": "geo-5104beece8c9922b4059c257cfa4a8d04640f00103f901c757199100000000",
+    "lat": 45.6301466,
+    "lon": 13.7866967,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-516503441c46902b40598ce4e1f379d14640f00103f901b4ee34fe0200000092030b446172646f20526f73736f",
+    "lat": 45.6365342,
+    "lon": 13.7817849,
+    "name": "Dardo Rosso",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-519d62569680922b40599fd260d572d14640f00102f901d1bef807000000009203084575726f73706172",
+    "lat": 45.636316940571525,
+    "lon": 13.78613729290492,
+    "name": "Eurospar",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 08:00-20:30; Su 08:30-20:00"
+  },
+  {
+    "id": "geo-5123658ba4dd942b4059511ac5cd04d14640f00103f9016af4ddbb0100000092032554726174746f726961204f73746572696120616c6c65205665636368696520476c6f726965",
+    "lat": 45.6329591,
+    "lon": 13.7907535,
+    "name": "Trattoria Osteria alle Vecchie Glorie",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51430477fb07942b4059edfc91d8a4d14640f00103f901ce66317a01000000",
+    "lat": 45.6378432,
+    "lon": 13.7891234,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51d803f74dab922b40593d8276e2cdd14640f00103f901df1724c900000000",
+    "lat": 45.6390956,
+    "lon": 13.7864632,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-514c5c7d2bc8912b405915e46723d7d14640f00103f9016ff0494802000000920306446573706172",
+    "lat": 45.639378,
+    "lon": 13.7847303,
+    "name": "Despar",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51b2e5a617c68f2b40593c5d273ff3d14640f00103f901c3a8bcd5010000009203054d6178c3ac",
+    "lat": 45.6402358,
+    "lon": 13.7808082,
+    "name": "Maxì",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51234bc261458d2b4059c187ee35e0d14640f00102f9011b84a20900000000",
+    "lat": 45.63965486666667,
+    "lon": 13.775919966666669,
+    "name": "camping",
+    "category": "camping"
+  },
+  {
+    "id": "geo-518ce8e802a88f2b4059cd727e2f2ad14640f00103f9018ab27d950100000092030849706572636f6f70",
+    "lat": 45.6340999,
+    "lon": 13.7805787,
+    "name": "Ipercoop",
+    "category": "supermarket",
+    "openingHours": "Mo-Sa 09:00-20:30; Su 10:00-20:30; PH closed"
+  },
+  {
+    "id": "geo-51ff113c74308d2b40592c13d96212d24640f00103f9018781510e01000000",
+    "lat": 45.6411861,
+    "lon": 13.7757603,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-513fa484059c8e2b40598d086b0833d24640f00103f901ae6df9e900000000920305426f73636f",
+    "lat": 45.6421824,
+    "lon": 13.7785341,
+    "name": "Bosco",
+    "category": "supermarket",
+    "openingHours": "08:00-21:00"
+  },
+  {
+    "id": "geo-511db924bd5e9c2b405907db3e9aa0cf4640f00103f901eb8d8d2603000000",
+    "lat": 45.6220887,
+    "lon": 13.8054103,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-511dbd2bcc8c9c2b4059c724c8adeecf4640f00103f901f082414c02000000",
+    "lat": 45.6244714,
+    "lon": 13.8057617,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5124fe9402589f2b405962d9092ce7cf4640f00102f9018f4a9b0900000000",
+    "lat": 45.624242310341984,
+    "lon": 13.811218338668432,
+    "name": "camping",
+    "category": "camping"
+  },
+  {
+    "id": "geo-5107a818d35aa42b4059eceba3b8cbcf4640f00102f9010342ec0700000000920316417265612063616d70657220224c65205069616e6522",
+    "lat": 45.62340457920058,
+    "lon": 13.821005436668214,
+    "name": "Area camper \"Le Piane\"",
+    "category": "camping"
+  },
+  {
+    "id": "geo-5150fbad9d28b92b40596f206e98b2cf4640f00103f90178c0aa9001000000",
+    "lat": 45.6226378,
+    "lon": 13.861638,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-511b3d6d437bcf2b4059264a8caf87cf4640f00102f901daa3e80200000000920307506f726b792773",
+    "lat": 45.6213283,
+    "lon": 13.905237300000001,
+    "name": "Porky's",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-511b69047690de2b40595e166e5402ce4640f00103f9013446e684020000009203056e61206e65",
+    "lat": 45.6094461,
+    "lon": 13.9346959,
+    "name": "na ne",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51da33f04861df2b40597325a71bcdcd4640f00103f9011b68113e00000000920309c5a065276e20626172",
+    "lat": 45.6078219,
+    "lon": 13.9362891,
+    "name": "Še'n bar",
+    "category": "restaurant",
+    "openingHours": "Mo-We 08:00-22:00; Th-Sa 08:00-23:00"
+  },
+  {
+    "id": "geo-51a733411e0bdf2b4059122ee411dccd4640f00103f9014868113e00000000",
+    "lat": 45.6082785,
+    "lon": 13.9356317,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51016bd5ae09dd2b4059a9554f41d9cd4640f00103f9016368113e0000000092031d486f74656c202620436173696e6f205265736f72742041646d6972616c",
+    "lat": 45.6081926,
+    "lon": 13.9317145,
+    "name": "Hotel & Casino Resort Admiral",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51ff52509b82de2b40597304ba4093cd4640f00103f901b4ac284102000000",
+    "lat": 45.6060563,
+    "lon": 13.9345902,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51e81b2cf75de42b4059493d55cf93cd4640f00103f901e95c744f0200000092030f476f7374696c6e6120416d666f7261",
+    "lat": 45.6060733,
+    "lon": 13.9460294,
+    "name": "Gostilna Amfora",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51bdc64aae09e52b4059906d3a9a8ecd4640f00102f901714649410000000092031943616d7065722053746f7020487270656c6a65202d20505a41",
+    "lat": 45.60591438153199,
+    "lon": 13.947339483859986,
+    "name": "Camper Stop Hrpelje - PZA",
+    "category": "camping"
+  },
+  {
+    "id": "geo-51e73004a50de02b40591ef7521d17ce4640f00103f901a268113e00000000",
+    "lat": 45.6100804,
+    "lon": 13.9376041,
+    "name": "hotel",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-512917748c75e72b405981f33d7ecac34640f00103f90181dc3aa801000000",
+    "lat": 45.5296171,
+    "lon": 13.9520687,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-519eea35e26e8d2b40598ca83fb104d44640f00103f9018077e511000000009203054d6178c3ac",
+    "lat": 45.6563932,
+    "lon": 13.7762366,
+    "name": "Maxì",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-513b31900cde902b4059be1ea74382d34640f00102f901020fbe3e000000009203074461204c6f6c61",
+    "lat": 45.652412850000005,
+    "lon": 13.7829441,
+    "name": "Da Lola",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5137c714072b912b40591c1252126dd34640f00103f90116e709fd0200000092031b50697a7a65726961205475747461204e276174612053746f726961",
+    "lat": 45.6517661,
+    "lon": 13.7835314,
+    "name": "Pizzeria Tutta N'ata Storia",
+    "category": "restaurant",
+    "phone": "+39 040 064 5639",
+    "openingHours": "We-Sa 12:00-14:00, 18:00-22:00; Su, Tu 18:00-22:00"
+  },
+  {
+    "id": "geo-51e85fdc572f902b4059000e901e75d34640f00103f9012086531501000000920314526973746f72616e74652043696e612043696e61",
+    "lat": 45.6520117,
+    "lon": 13.7816112,
+    "name": "Ristorante Cina Cina",
+    "category": "restaurant",
+    "website": "https://www.ristorantecinesecina-cina.it/",
+    "phone": "+39 040 367388;+39 040 768477",
+    "openingHours": "Tu-Su 12:00-15:00,19:00-24:00"
+  },
+  {
+    "id": "geo-5134b91803eb902b4059a880c52b5ad34640f00103f901bf8cd12402000000920307546172616dc3ac",
+    "lat": 45.6511893,
+    "lon": 13.783043,
+    "name": "Taramì",
+    "category": "supermarket",
+    "website": "https://tarami.it/"
+  },
+  {
+    "id": "geo-51c3f5831502902b4059764364a252d34640f00103f90144f098d80000000092030c5061706127732050697a7a61",
+    "lat": 45.6509593,
+    "lon": 13.7812659,
+    "name": "Papa's Pizza",
+    "category": "restaurant",
+    "phone": "+39 040 470 7356; +39 040 977 7068",
+    "openingHours": "Mo-Su 12:00-14:30,18:00-22:30"
+  },
+  {
+    "id": "geo-51dbf7a8bf5e912b4059a452ec681cd34640f00103f901a9215bc7020000009203134c27616e676f6c6f2044656c2043616666c3a8",
+    "lat": 45.6493045,
+    "lon": 13.783926,
+    "name": "L'angolo Del Caffè",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-510ae4c8b903932b40599c3d867df1d24640f00103f901bcbf42bd0000000092030f50697a7a65726961204d696c616479",
+    "lat": 45.6479947,
+    "lon": 13.7871378,
+    "name": "Pizzeria Milady",
+    "category": "restaurant",
+    "website": "https://www.pizzeriamilady-trieste.it/",
+    "phone": "+39 040 364726",
+    "openingHours": "12:30-23:30; Tu off"
+  },
+  {
+    "id": "geo-51f19b679192932b40598cc45feeeed24640f00103f901bc6678f300000000",
+    "lat": 45.6479166,
+    "lon": 13.7882276,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-515e34bff5bc922b405928806264c9d24640f00103f901d616115d000000009203084575726f73706172",
+    "lat": 45.646771,
+    "lon": 13.7865979,
+    "name": "Eurospar",
+    "category": "supermarket",
+    "website": "http://www.edespar.it/",
+    "phone": "+39 040 3728025",
+    "openingHours": "Mo-Sa 09:00-19:30; Su 09:00-13:00,16:00-19:00"
+  },
+  {
+    "id": "geo-5167ae1dd665922b40590613dacde7d24640f00103f901775e5abf0000000092031554726174746f7269612041692047697261736f6c69",
+    "lat": 45.6476991,
+    "lon": 13.7859332,
+    "name": "Trattoria Ai Girasoli",
+    "category": "restaurant",
+    "phone": "+39 340 4284248"
+  },
+  {
+    "id": "geo-5182ed163724902b4059d89aadbce4d24640f00103f90187b5755401000000",
+    "lat": 45.6476055,
+    "lon": 13.7815263,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51acc8e88024902b40591f4df564fed24640f00103f9012717e6190200000092031250697a7a65726961204c6120526567696e61",
+    "lat": 45.6483885,
+    "lon": 13.7815285,
+    "name": "Pizzeria La Regina",
+    "category": "restaurant",
+    "phone": "+39 040 2463754",
+    "openingHours": "Mo-Su 12:00-14:00,18:00-22:30"
+  },
+  {
+    "id": "geo-515fb8ce1a17912b4059b6ad1c10d7d24640f00103f901ff1e6d6d0000000092031a4f73746572696120416c6c612062656c6c612054726965737465",
+    "lat": 45.6471882,
+    "lon": 13.7833794,
+    "name": "Osteria Alla bella Trieste",
+    "category": "restaurant",
+    "website": "http://www.osteriabellatrieste.com/",
+    "phone": "+39 040 761979",
+    "openingHours": "Mo-Fr 10:00-24:00, Sa 10:00-15:00; Su off"
+  },
+  {
+    "id": "geo-513062444717902b4059eecb3e3498d24640f00103f9010823a30f0000000092031350697a7a657269612053616e2047697573746f",
+    "lat": 45.6452699,
+    "lon": 13.7814276,
+    "name": "Pizzeria San Giusto",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5124d6e25300902b4059635e471cb2d24640f00103f9016593c9110000000092030d426172204761726962616c6469",
+    "lat": 45.6460605,
+    "lon": 13.7812525,
+    "name": "Bar Garibaldi",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-514ac9bc9f64902b40592b27eb81a0d24640f00103f9018ed2a2fd02000000",
+    "lat": 45.6455233,
+    "lon": 13.7820177,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-518eb1135e82932b4059502b966c86d24640f00103f9012e17e6190200000092030d50697a7a612053746174696f6e",
+    "lat": 45.6447273,
+    "lon": 13.788104,
+    "name": "Pizza Station",
+    "category": "restaurant",
+    "phone": "+39 040 2039127",
+    "openingHours": "Mo-Su 12:00-15:00,18:00-23:00"
+  },
+  {
+    "id": "geo-5152d158fb3b932b4059fbe2f7db43d24640f00103f901b8e2c9fd02000000920312496c2050616e652051756f74696469616e6f",
+    "lat": 45.6426959,
+    "lon": 13.787567,
+    "name": "Il Pane Quotidiano",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-510e1a55e12a922b405999b7ea3a54d24640f00103f9012ad4408000000000",
+    "lat": 45.6431955,
+    "lon": 13.7854834,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-5193f8815083922b4059cf2f4ad05fd24640f00103f901f21cf95a020000009203154d612e2e2e2044696121204368652e2e2e20426162",
+    "lat": 45.643549,
+    "lon": 13.7861581,
+    "name": "Ma... Dia! Che... Bab",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-516b93d453f5902b4059b5f8b94670d24640f00103f90177eab2f0020000009203254d6163656c6c65726961206567697a69616e61202d2042425120484f555345204752494c4c",
+    "lat": 45.6440514,
+    "lon": 13.7831217,
+    "name": "Macelleria egiziana - BBQ HOUSE GRILL",
+    "category": "restaurant",
+    "openingHours": "Mo-Sa 12:00-22:00"
+  },
+  {
+    "id": "geo-514925862ef2902b4059590a92883ad24640f00103f9016c17991002000000",
+    "lat": 45.6424113,
+    "lon": 13.7830977,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51a1aea4cb519a2b4059f152a00557d24640f00103f9012d17e6190200000092030c50697a7a61204d6174726978",
+    "lat": 45.6432807,
+    "lon": 13.8014053,
+    "name": "Pizza Matrix",
+    "category": "restaurant",
+    "phone": "+39 040 947885",
+    "openingHours": "Tu-Su 18:30-23:00"
+  },
+  {
+    "id": "geo-5132b2bf47588f2b40590a641b5d4ad24640f00103f901277a0e850000000092030d426172204772616e2050726978",
+    "lat": 45.6428944,
+    "lon": 13.7799704,
+    "name": "Bar Gran Prix",
+    "category": "restaurant",
+    "phone": "+39 040 2415932"
+  },
+  {
+    "id": "geo-51a60f5d50df8e2b4059ff1543835ed24640f00103f9010825a30f0000000092031c50697a7a65726961204c61204e756f7661204c616e7465726e696e61",
+    "lat": 45.6435093,
+    "lon": 13.7790475,
+    "name": "Pizzeria La Nuova Lanternina",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51cdf055e1858f2b4059cb2e185c73d24640f00103f901da972ff3000000009203184c6120637563696e612064692042656120652042656e6e79",
+    "lat": 45.6441455,
+    "lon": 13.7803183,
+    "name": "La cucina di Bea e Benny",
+    "category": "restaurant",
+    "website": "http://www.lacucinadibeaebenny.it/",
+    "openingHours": "Mo-Su 12:00-14:30,18:00-23:00"
+  },
+  {
+    "id": "geo-51a5654925e18f2b405957d7570d78d24640f00103f9015f70dc0603000000",
+    "lat": 45.6442887,
+    "lon": 13.7810146,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-517d6d4782ba8e2b405911b8bfc469d24640f00103f9017207a96900000000920310526f6d616e696120426f757469717565",
+    "lat": 45.6438528,
+    "lon": 13.7787667,
+    "name": "Romania Boutique",
+    "category": "supermarket",
+    "website": "http://www.romaniaboutique.biz"
+  },
+  {
+    "id": "geo-51e3edf77aad8e2b4059b14d2a1a6bd24640f00103f901e287899200000000",
+    "lat": 45.6438935,
+    "lon": 13.7786673,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-515254ec1e8f8f2b40591d9f7f715fd24640f00103f90135b1731201000000920304436f6f70",
+    "lat": 45.6435377,
+    "lon": 13.7803888,
+    "name": "Coop",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51b2c11d030d8d2b405934e32318bdd24640f00103f9011db7a93c01000000920321416e7469706173746f74656361206469206d61726520416c6c6120566f6c696761",
+    "lat": 45.6463957,
+    "lon": 13.7754899,
+    "name": "Antipastoteca di mare Alla Voliga",
+    "category": "restaurant",
+    "website": "http://www.allavoliga.it/",
+    "phone": "+39 040 309606",
+    "openingHours": "We-Su 12:00-14:00,19:00-22:00"
+  },
+  {
+    "id": "geo-51c4fefc080d8e2b4059fa2587f480d24640f00103f901abd798d80000000092031343616666c3a820616c6c61206665726d617461",
+    "lat": 45.6445604,
+    "lon": 13.7774432,
+    "name": "Caffè alla fermata",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5185741d4f708e2b4059df0bdd369dd24640f00103f9019b93c91100000000",
+    "lat": 45.6454228,
+    "lon": 13.7782006,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51329ef7b5e48f2b40591a2a1087b6d24640f00103f9018da399c00000000092030c4d61782053686f7070696e67",
+    "lat": 45.6461953,
+    "lon": 13.7810418,
+    "name": "Max Shopping",
+    "category": "supermarket",
+    "phone": "+39 040 988 0192",
+    "openingHours": "Mo-Su 08:30-20:00"
+  },
+  {
+    "id": "geo-51edb02e13ea8e2b4059ef2076a6d0d24640f00103f90142b36e8b0000000092030f42726163657269652056656e657465",
+    "lat": 45.6469925,
+    "lon": 13.7791296,
+    "name": "Bracerie Venete",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51d3270351418f2b40599da7959dd9d24640f00103f9014d0f99d800000000920319566963746f72696120486f74656c204c65747465726172696f",
+    "lat": 45.6472661,
+    "lon": 13.7797952,
+    "name": "Victoria Hotel Letterario",
+    "category": "hotel",
+    "website": "https://www.hotelvictoriatrieste.com/",
+    "phone": "+39 040 362415"
+  },
+  {
+    "id": "geo-51bdc05197318e2b405918d6e830bad24640f00103f901f77c45560000000092030752757374696b6f",
+    "lat": 45.6463071,
+    "lon": 13.7777221,
+    "name": "Rustiko",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51807566cc6e8f2b405961832adac1d24640f00103f90191d2a2fd02000000",
+    "lat": 45.6465409,
+    "lon": 13.7801422,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-519488f02f828e2b40592059654bfbd24640f00103f901e7cc19100000000092030b496c204d6163696e696e6f",
+    "lat": 45.6482939,
+    "lon": 13.778337,
+    "name": "Il Macinino",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5120d84c19938d2b40591cb9c903ecd24640f00103f901dc18f51802000000",
+    "lat": 45.6478276,
+    "lon": 13.7765129,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51ba0155922b8f2b4059fb6a589de6d24640f00103f901c574875d000000009203084575726f73706172",
+    "lat": 45.6476628,
+    "lon": 13.7796293,
+    "name": "Eurospar",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-515661d806938f2b4059fed071daf8d24640f00103f901a8302e1d0100000092030e4c6120527565206475204269c3b2",
+    "lat": 45.6482194,
+    "lon": 13.7804186,
+    "name": "La Rue du Biò",
+    "category": "restaurant",
+    "phone": "+39 040 2604753",
+    "openingHours": "Mo-Fr 10:30-15:00,18:30-21:00, Sa 10:30-15:00"
+  },
+  {
+    "id": "geo-5186bd9a4d918d2b4059f349dd8431d34640f00103f901ecc41588000000009203114c27616e676f6c6f2064656c2070616e65",
+    "lat": 45.6499487,
+    "lon": 13.7764992,
+    "name": "L'angolo del pane",
+    "category": "restaurant",
+    "phone": "+39 040 372 1884",
+    "openingHours": "Mo-Sa 07:00-20:00"
+  },
+  {
+    "id": "geo-51b8c4364eaf8d2b4059ac89aa0430d34640f00103f9018674875d0000000092031253757065726d65726361746920426f73636f",
+    "lat": 45.6499029,
+    "lon": 13.7767281,
+    "name": "Supermercati Bosco",
+    "category": "supermarket",
+    "website": "https://www.gruppobosco.it/",
+    "phone": "+39 040 636002",
+    "openingHours": "Mo-Sa 08:00-20:30; Su 09:00-13:30; PH closed"
+  },
+  {
+    "id": "geo-51ca68893a188e2b4059b41ebe4c14d34640f00103f901107bf5fa000000009203185a7564656363686520312042656426427265616b66617374",
+    "lat": 45.649057,
+    "lon": 13.7775286,
+    "name": "Zudecche 1 Bed&Breakfast",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51ddd1ff722d8e2b4059ebe40cc51dd34640f00103f9012a0f95600000000092030e46726174656c6c69204b65626170",
+    "lat": 45.649346,
+    "lon": 13.7776905,
+    "name": "Fratelli Kebap",
+    "category": "restaurant",
+    "phone": "+39 329 9278361"
+  },
+  {
+    "id": "geo-51ccdf7316ac8f2b4059271d9bd31bd34640f00103f90130a52ac100000000",
+    "lat": 45.6492867,
+    "lon": 13.7806098,
+    "name": "water",
+    "category": "water"
+  },
+  {
+    "id": "geo-51028a4798588f2b40592ffb75a73bd34640f00103f9017cd2a2fd0200000092030e426172204d617267686572697461",
+    "lat": 45.650258,
+    "lon": 13.7799728,
+    "name": "Bar Margherita",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-5168a730009e8e2b4059340e9a023ed34640f00103f901783f082e02000000920321416e746963612054726174746f726961206c612056656369612047756172646961",
+    "lat": 45.6503299,
+    "lon": 13.7785492,
+    "name": "Antica Trattoria la Vecia Guardia",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51af44fbb37a8e2b4059a40bfb873ed34640f00103f9012a55170f0100000092030c486f74656c204272696f6e69",
+    "lat": 45.6503458,
+    "lon": 13.7782799,
+    "name": "Hotel Brioni",
+    "category": "hotel",
+    "phone": "+39 040 772942"
+  },
+  {
+    "id": "geo-51d269824d428e2b4059771ecb715dd34640f00103f9011fe331f501000000920315486f6d65202d205361706f72652064692043617361",
+    "lat": 45.6512892,
+    "lon": 13.7778496,
+    "name": "Home - Sapore di Casa",
+    "category": "restaurant",
+    "phone": "+39 040 631780",
+    "openingHours": "Mo-Sa 07:00-22:00"
+  },
+  {
+    "id": "geo-5185a80c2dfc8e2b4059a8fe412443d34640f00103f901fec1082e02000000",
+    "lat": 45.6504865,
+    "lon": 13.7792677,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-5142e66fe7678f2b4059b5c6a01342d34640f00103f901833f3a0f0100000092030b467265652054696d652032",
+    "lat": 45.650454,
+    "lon": 13.7800896,
+    "name": "Free Time 2",
+    "category": "hotel"
+  },
+  {
+    "id": "geo-51f53e9f12218f2b4059b8fc2c3b69d34640f00103f901e9b9b700030000009203075472616e63696f",
+    "lat": 45.6516489,
+    "lon": 13.7795492,
+    "name": "Trancio",
+    "category": "restaurant",
+    "openingHours": "Mo-Sa 11:00-22:30"
+  },
+  {
+    "id": "geo-511be7806e798e2b405906b75acc74d34640f00103f901e9420b0d03000000",
+    "lat": 45.6520019,
+    "lon": 13.7782702,
+    "name": "supermarket",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-51f97a08f4d38d2b40595a208b7e7ed34640f00103f9012ad7ae040200000092030d43617264756363692043616665",
+    "lat": 45.6522978,
+    "lon": 13.7770077,
+    "name": "Carducci Cafe",
+    "category": "restaurant",
+    "openingHours": "Mo-Sa 06:00-23:30; Su 14:00-23:30"
+  },
+  {
+    "id": "geo-519df122b8368d2b40594e7a843f68d34640f00103f901feef6c6d0000000092031554726174746f7269612064612047696f76616e6e69",
+    "lat": 45.6516189,
+    "lon": 13.7758081,
+    "name": "Trattoria da Giovanni",
+    "category": "restaurant",
+    "website": "https://trattoriadagiovanni.com/",
+    "phone": "+39 040 639396",
+    "openingHours": "Mo-Sa 09:00-23:00"
+  },
+  {
+    "id": "geo-512c1103b8b48d2b4059ddbb61365cd34640f00103f9012dd6962c02000000920308457070696e676572",
+    "lat": 45.6512516,
+    "lon": 13.7767694,
+    "name": "Eppinger",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-515b2fdfa9168d2b40596c715e3ebbd34640f00102f901d2712b020000000092030e42617220616c207472616d766169",
+    "lat": 45.6541517220638,
+    "lon": 13.775563534254323,
+    "name": "Bar al tramvai",
+    "category": "restaurant",
+    "phone": "+39 040 3720133"
+  },
+  {
+    "id": "geo-517baccf8bc98d2b4059ab9a7ba3b1d34640f00103f90132e709fd02000000",
+    "lat": 45.6538586,
+    "lon": 13.7769283,
+    "name": "restaurant",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-51b532e197fa8d2b4059eddfab0c99d34640f00103f901c009e16101000000920304416c6469",
+    "lat": 45.6531082,
+    "lon": 13.7773025,
+    "name": "Aldi",
+    "category": "supermarket",
+    "website": "https://www.aldi.it/",
+    "openingHours": "Mo-Sa 07:30-21:00; Su 08:30-20:30"
+  },
+  {
+    "id": "geo-5136a737482d8d2b4059689b768c86d34640f00103f901b2e6b43c020000009203075975204d617274",
+    "lat": 45.6525436,
+    "lon": 13.7757361,
+    "name": "Yu Mart",
+    "category": "supermarket",
+    "website": "https://www.yumart.it/",
+    "phone": "+39 040 2450530",
+    "openingHours": "Mo-Sa 09:00-20:30, Su 09:00-19:30"
+  },
+  {
+    "id": "geo-5150c24cdbbf8e2b4059cb434bc395d34640f00103f9017490c40b03000000920306446573706172",
+    "lat": 45.6530079,
+    "lon": 13.7788075,
+    "name": "Despar",
+    "category": "supermarket"
+  },
+  {
+    "id": "geo-5130b0d870a28f2b40598b3d0f4988d34640f00103f901128f53150100000092031d526973746f72616e74652050697a7a6572696120536375676e697a7a6f",
+    "lat": 45.6525966,
+    "lon": 13.7805362,
+    "name": "Ristorante Pizzeria Scugnizzo",
+    "category": "restaurant",
+    "website": "https://www.ristorantepizzeriascugnizzo.it/"
+  },
+  {
+    "id": "geo-5193832392328f2b4059b8d562a6a3d34640f00103f901c199568d02000000920312506173746963636572696120646520496c79",
+    "lat": 45.6534317,
+    "lon": 13.7796827,
+    "name": "Pasticceria de Ily",
+    "category": "restaurant",
+    "website": "https://www.pasticceriadaily.it/",
+    "phone": "+390403401688",
+    "openingHours": "Tu-Sa 07:30-19:30; Su 08:30-14:00"
+  },
+  {
+    "id": "geo-5173caeda87b8e2b4059a5cf5845c9d34640f00103f9016461f4110000000092030b42617220556c7069616e6f",
+    "lat": 45.6545798,
+    "lon": 13.7782872,
+    "name": "Bar Ulpiano",
+    "category": "restaurant",
+    "phone": "+39 040 638538",
+    "openingHours": "Mo-Fr 06:30-22:00; Sa 06:30-14:30"
+  },
+  {
+    "id": "geo-51cca61254438d2b4059044c2a64f8d34640f00103f90197eeaf8a020000009203205472696573746520343131202d20526f6f6d7320262041706172746d656e7473",
+    "lat": 45.6560178,
+    "lon": 13.7759043,
+    "name": "Trieste 411 - Rooms & Apartments",
+    "category": "hotel",
+    "website": "https://trieste411.it"
+  },
+  {
+    "id": "geo-51bfa3213e0b8d2b40591c1e673ff7d34640f00103f901c6e2c9fd02000000920309426172204b656e7961",
+    "lat": 45.6559829,
+    "lon": 13.7754764,
+    "name": "Bar Kenya",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-517fa31d37fc862b40595a97bfe72cd24640f00103f90188cfc8110000000092030b50697a7a61205a656c6967",
+    "lat": 45.6419954,
+    "lon": 13.763643,
+    "name": "Pizza Zelig",
+    "category": "restaurant"
+  },
+  {
+    "id": "geo-511cc2e73d848b2b405907cebe9767d34640f00103f901f100d707010000009203184b6175616920506f6bc3a8202620427562626c6520546561",
+    "lat": 45.6515989,
+    "lon": 13.7724933,
+    "name": "Kauai Pokè & Bubble Tea",
+    "category": "restaurant"
+  },
+  {
     "id": "geo-51719d352ed28a2b4059cac51858c7d14640f00103f9011e1c9e980200000092031b42617220436f6e74726164612064652043616d706564656c6c6973",
     "lat": 45.638896,
     "lon": 13.7711348,
@@ -5159,20 +7615,6 @@
     "lon": 13.7689113,
     "name": "water",
     "category": "water"
-  },
-  {
-    "id": "geo-516e22e9899d8f2b4059abd7e37448d14640f00103f90108ffe49f000000009203114269727265726961205061756c616e6572",
-    "lat": 45.6350237,
-    "lon": 13.7804988,
-    "name": "Birreria Paulaner",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51c4e347a1d18e2b4059d0d2156c23d14640f00103f901583eaf12000000009203044c69646c",
-    "lat": 45.6338935,
-    "lon": 13.7789431,
-    "name": "Lidl",
-    "category": "supermarket"
   },
   {
     "id": "geo-51fe19941fa7862b405920949cb8c1d14640f00103f9012570f6170100000092030748616363613234",
@@ -5396,195 +7838,11 @@
     "category": "water"
   },
   {
-    "id": "geo-51d2ae9d83c28f2b40596df47bac2ad24640f00103f9014589fe210100000092031d42657374205765737465726e20486f74656c2053616e2047697573746f",
-    "lat": 45.6419273,
-    "lon": 13.7807809,
-    "name": "Best Western Hotel San Giusto",
-    "category": "hotel",
-    "website": "https://www.hotelsangiusto.it/"
-  },
-  {
-    "id": "geo-51a9f17794ef8e2b40597d53fdef2dd24640f00103f9015b2eca1100000000",
-    "lat": 45.6420269,
-    "lon": 13.7791716,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51e0f835edbd8f2b405969609ad832d24640f00103f9016438216f0100000092030c4261722053706f727469766f",
-    "lat": 45.6421767,
-    "lon": 13.7807459,
-    "name": "Bar Sportivo",
-    "category": "restaurant",
-    "phone": "+39 040 764704"
-  },
-  {
-    "id": "geo-51f123c852358f2b405913acbbc337d24640f00103f90114461dec00000000",
-    "lat": 45.6423268,
-    "lon": 13.7797037,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-5132b2bf47588f2b40590a641b5d4ad24640f00103f901277a0e850000000092030d426172204772616e2050726978",
-    "lat": 45.6428944,
-    "lon": 13.7799704,
-    "name": "Bar Gran Prix",
-    "category": "restaurant",
-    "phone": "+39 040 2415932"
-  },
-  {
-    "id": "geo-5187acc9ae0f8e2b4059ea04341136d24640f00103f901ca4cf9e90000000092030f427566666574205465726765737465",
-    "lat": 45.642275,
-    "lon": 13.7774634,
-    "name": "Buffet Tergeste",
-    "category": "restaurant",
-    "openingHours": "Tu-Su"
-  },
-  {
-    "id": "geo-51a60f5d50df8e2b4059ff1543835ed24640f00103f9010825a30f0000000092031c50697a7a65726961204c61204e756f7661204c616e7465726e696e61",
-    "lat": 45.6435093,
-    "lon": 13.7790475,
-    "name": "Pizzeria La Nuova Lanternina",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51cdf055e1858f2b4059cb2e185c73d24640f00103f901da972ff3000000009203184c6120637563696e612064692042656120652042656e6e79",
-    "lat": 45.6441455,
-    "lon": 13.7803183,
-    "name": "La cucina di Bea e Benny",
-    "category": "restaurant",
-    "website": "http://www.lacucinadibeaebenny.it/",
-    "openingHours": "Mo-Su 12:00-14:30,18:00-23:00"
-  },
-  {
-    "id": "geo-51a5654925e18f2b405957d7570d78d24640f00103f9015f70dc0603000000",
-    "lat": 45.6442887,
-    "lon": 13.7810146,
-    "name": "supermarket",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-517d6d4782ba8e2b405911b8bfc469d24640f00103f9017207a96900000000920310526f6d616e696120426f757469717565",
-    "lat": 45.6438528,
-    "lon": 13.7787667,
-    "name": "Romania Boutique",
-    "category": "supermarket",
-    "website": "http://www.romaniaboutique.biz"
-  },
-  {
-    "id": "geo-51e3edf77aad8e2b4059b14d2a1a6bd24640f00103f901e287899200000000",
-    "lat": 45.6438935,
-    "lon": 13.7786673,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-515254ec1e8f8f2b40591d9f7f715fd24640f00103f90135b1731201000000920304436f6f70",
-    "lat": 45.6435377,
-    "lon": 13.7803888,
-    "name": "Coop",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-51b2c11d030d8d2b405934e32318bdd24640f00103f9011db7a93c01000000920321416e7469706173746f74656361206469206d61726520416c6c6120566f6c696761",
-    "lat": 45.6463957,
-    "lon": 13.7754899,
-    "name": "Antipastoteca di mare Alla Voliga",
-    "category": "restaurant",
-    "website": "http://www.allavoliga.it/",
-    "phone": "+39 040 309606",
-    "openingHours": "We-Su 12:00-14:00,19:00-22:00"
-  },
-  {
-    "id": "geo-51c4fefc080d8e2b4059fa2587f480d24640f00103f901abd798d80000000092031343616666c3a820616c6c61206665726d617461",
-    "lat": 45.6445604,
-    "lon": 13.7774432,
-    "name": "Caffè alla fermata",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5185741d4f708e2b4059df0bdd369dd24640f00103f9019b93c91100000000",
-    "lat": 45.6454228,
-    "lon": 13.7782006,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51329ef7b5e48f2b40591a2a1087b6d24640f00103f9018da399c00000000092030c4d61782053686f7070696e67",
-    "lat": 45.6461953,
-    "lon": 13.7810418,
-    "name": "Max Shopping",
-    "category": "supermarket",
-    "phone": "+39 040 988 0192",
-    "openingHours": "Mo-Su 08:30-20:00"
-  },
-  {
-    "id": "geo-51edb02e13ea8e2b4059ef2076a6d0d24640f00103f90142b36e8b0000000092030f42726163657269652056656e657465",
-    "lat": 45.6469925,
-    "lon": 13.7791296,
-    "name": "Bracerie Venete",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51d3270351418f2b40599da7959dd9d24640f00103f9014d0f99d800000000920319566963746f72696120486f74656c204c65747465726172696f",
-    "lat": 45.6472661,
-    "lon": 13.7797952,
-    "name": "Victoria Hotel Letterario",
-    "category": "hotel",
-    "website": "https://www.hotelvictoriatrieste.com/",
-    "phone": "+39 040 362415"
-  },
-  {
-    "id": "geo-51bdc05197318e2b405918d6e830bad24640f00103f901f77c45560000000092030752757374696b6f",
-    "lat": 45.6463071,
-    "lon": 13.7777221,
-    "name": "Rustiko",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51807566cc6e8f2b405961832adac1d24640f00103f90191d2a2fd02000000",
-    "lat": 45.6465409,
-    "lon": 13.7801422,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-519488f02f828e2b40592059654bfbd24640f00103f901e7cc19100000000092030b496c204d6163696e696e6f",
-    "lat": 45.6482939,
-    "lon": 13.778337,
-    "name": "Il Macinino",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5120d84c19938d2b40591cb9c903ecd24640f00103f901dc18f51802000000",
-    "lat": 45.6478276,
-    "lon": 13.7765129,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51ba0155922b8f2b4059fb6a589de6d24640f00103f901c574875d000000009203084575726f73706172",
-    "lat": 45.6476628,
-    "lon": 13.7796293,
-    "name": "Eurospar",
-    "category": "supermarket"
-  },
-  {
     "id": "geo-51a7954220978c2b40599a95ed43ded24640f00103f901088733f300000000",
     "lat": 45.647408,
     "lon": 13.7745905,
     "name": "water",
     "category": "water"
-  },
-  {
-    "id": "geo-515661d806938f2b4059fed071daf8d24640f00103f901a8302e1d0100000092030e4c6120527565206475204269c3b2",
-    "lat": 45.6482194,
-    "lon": 13.7804186,
-    "name": "La Rue du Biò",
-    "category": "restaurant",
-    "phone": "+39 040 2604753",
-    "openingHours": "Mo-Fr 10:30-15:00,18:30-21:00, Sa 10:30-15:00"
   },
   {
     "id": "geo-51b8770dfad28b2b4059143fc6dcb5d24640f00103f9019d7234f300000000",
@@ -5851,132 +8109,6 @@
     "phone": "+39 040 971 2950"
   },
   {
-    "id": "geo-5186bd9a4d918d2b4059f349dd8431d34640f00103f901ecc41588000000009203114c27616e676f6c6f2064656c2070616e65",
-    "lat": 45.6499487,
-    "lon": 13.7764992,
-    "name": "L'angolo del pane",
-    "category": "restaurant",
-    "phone": "+39 040 372 1884",
-    "openingHours": "Mo-Sa 07:00-20:00"
-  },
-  {
-    "id": "geo-51b8c4364eaf8d2b4059ac89aa0430d34640f00103f9018674875d0000000092031253757065726d65726361746920426f73636f",
-    "lat": 45.6499029,
-    "lon": 13.7767281,
-    "name": "Supermercati Bosco",
-    "category": "supermarket",
-    "website": "https://www.gruppobosco.it/",
-    "phone": "+39 040 636002",
-    "openingHours": "Mo-Sa 08:00-20:30; Su 09:00-13:30; PH closed"
-  },
-  {
-    "id": "geo-51ca68893a188e2b4059b41ebe4c14d34640f00103f901107bf5fa000000009203185a7564656363686520312042656426427265616b66617374",
-    "lat": 45.649057,
-    "lon": 13.7775286,
-    "name": "Zudecche 1 Bed&Breakfast",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51ddd1ff722d8e2b4059ebe40cc51dd34640f00103f9012a0f95600000000092030e46726174656c6c69204b65626170",
-    "lat": 45.649346,
-    "lon": 13.7776905,
-    "name": "Fratelli Kebap",
-    "category": "restaurant",
-    "phone": "+39 329 9278361"
-  },
-  {
-    "id": "geo-51ccdf7316ac8f2b4059271d9bd31bd34640f00103f90130a52ac100000000",
-    "lat": 45.6492867,
-    "lon": 13.7806098,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-51028a4798588f2b40592ffb75a73bd34640f00103f9017cd2a2fd0200000092030e426172204d617267686572697461",
-    "lat": 45.650258,
-    "lon": 13.7799728,
-    "name": "Bar Margherita",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-5168a730009e8e2b4059340e9a023ed34640f00103f901783f082e02000000920321416e746963612054726174746f726961206c612056656369612047756172646961",
-    "lat": 45.6503299,
-    "lon": 13.7785492,
-    "name": "Antica Trattoria la Vecia Guardia",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51af44fbb37a8e2b4059a40bfb873ed34640f00103f9012a55170f0100000092030c486f74656c204272696f6e69",
-    "lat": 45.6503458,
-    "lon": 13.7782799,
-    "name": "Hotel Brioni",
-    "category": "hotel",
-    "phone": "+39 040 772942"
-  },
-  {
-    "id": "geo-51d269824d428e2b4059771ecb715dd34640f00103f9011fe331f501000000920315486f6d65202d205361706f72652064692043617361",
-    "lat": 45.6512892,
-    "lon": 13.7778496,
-    "name": "Home - Sapore di Casa",
-    "category": "restaurant",
-    "phone": "+39 040 631780",
-    "openingHours": "Mo-Sa 07:00-22:00"
-  },
-  {
-    "id": "geo-5185a80c2dfc8e2b4059a8fe412443d34640f00103f901fec1082e02000000",
-    "lat": 45.6504865,
-    "lon": 13.7792677,
-    "name": "supermarket",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-5142e66fe7678f2b4059b5c6a01342d34640f00103f901833f3a0f0100000092030b467265652054696d652032",
-    "lat": 45.650454,
-    "lon": 13.7800896,
-    "name": "Free Time 2",
-    "category": "hotel"
-  },
-  {
-    "id": "geo-51f53e9f12218f2b4059b8fc2c3b69d34640f00103f901e9b9b700030000009203075472616e63696f",
-    "lat": 45.6516489,
-    "lon": 13.7795492,
-    "name": "Trancio",
-    "category": "restaurant",
-    "openingHours": "Mo-Sa 11:00-22:30"
-  },
-  {
-    "id": "geo-511be7806e798e2b405906b75acc74d34640f00103f901e9420b0d03000000",
-    "lat": 45.6520019,
-    "lon": 13.7782702,
-    "name": "supermarket",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-51f97a08f4d38d2b40595a208b7e7ed34640f00103f9012ad7ae040200000092030d43617264756363692043616665",
-    "lat": 45.6522978,
-    "lon": 13.7770077,
-    "name": "Carducci Cafe",
-    "category": "restaurant",
-    "openingHours": "Mo-Sa 06:00-23:30; Su 14:00-23:30"
-  },
-  {
-    "id": "geo-519df122b8368d2b40594e7a843f68d34640f00103f901feef6c6d0000000092031554726174746f7269612064612047696f76616e6e69",
-    "lat": 45.6516189,
-    "lon": 13.7758081,
-    "name": "Trattoria da Giovanni",
-    "category": "restaurant",
-    "website": "https://trattoriadagiovanni.com/",
-    "phone": "+39 040 639396",
-    "openingHours": "Mo-Sa 09:00-23:00"
-  },
-  {
-    "id": "geo-512c1103b8b48d2b4059ddbb61365cd34640f00103f9012dd6962c02000000920308457070696e676572",
-    "lat": 45.6512516,
-    "lon": 13.7767694,
-    "name": "Eppinger",
-    "category": "restaurant"
-  },
-  {
     "id": "geo-5127817280058d2b4059e89fe06245d34640f00103f901ad490feb000000009203034c6162",
     "lat": 45.650555,
     "lon": 13.7754326,
@@ -6023,191 +8155,5 @@
     "lon": 13.7747503,
     "name": "hotel",
     "category": "hotel"
-  },
-  {
-    "id": "geo-515b2fdfa9168d2b40596c715e3ebbd34640f00102f901d2712b020000000092030e42617220616c207472616d766169",
-    "lat": 45.6541517220638,
-    "lon": 13.775563534254323,
-    "name": "Bar al tramvai",
-    "category": "restaurant",
-    "phone": "+39 040 3720133"
-  },
-  {
-    "id": "geo-517baccf8bc98d2b4059ab9a7ba3b1d34640f00103f90132e709fd02000000",
-    "lat": 45.6538586,
-    "lon": 13.7769283,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51b532e197fa8d2b4059eddfab0c99d34640f00103f901c009e16101000000920304416c6469",
-    "lat": 45.6531082,
-    "lon": 13.7773025,
-    "name": "Aldi",
-    "category": "supermarket",
-    "website": "https://www.aldi.it/",
-    "openingHours": "Mo-Sa 07:30-21:00; Su 08:30-20:30"
-  },
-  {
-    "id": "geo-5136a737482d8d2b4059689b768c86d34640f00103f901b2e6b43c020000009203075975204d617274",
-    "lat": 45.6525436,
-    "lon": 13.7757361,
-    "name": "Yu Mart",
-    "category": "supermarket",
-    "website": "https://www.yumart.it/",
-    "phone": "+39 040 2450530",
-    "openingHours": "Mo-Sa 09:00-20:30, Su 09:00-19:30"
-  },
-  {
-    "id": "geo-5150c24cdbbf8e2b4059cb434bc395d34640f00103f9017490c40b03000000920306446573706172",
-    "lat": 45.6530079,
-    "lon": 13.7788075,
-    "name": "Despar",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-5130b0d870a28f2b40598b3d0f4988d34640f00103f901128f53150100000092031d526973746f72616e74652050697a7a6572696120536375676e697a7a6f",
-    "lat": 45.6525966,
-    "lon": 13.7805362,
-    "name": "Ristorante Pizzeria Scugnizzo",
-    "category": "restaurant",
-    "website": "https://www.ristorantepizzeriascugnizzo.it/"
-  },
-  {
-    "id": "geo-5193832392328f2b4059b8d562a6a3d34640f00103f901c199568d02000000920312506173746963636572696120646520496c79",
-    "lat": 45.6534317,
-    "lon": 13.7796827,
-    "name": "Pasticceria de Ily",
-    "category": "restaurant",
-    "website": "https://www.pasticceriadaily.it/",
-    "phone": "+390403401688",
-    "openingHours": "Tu-Sa 07:30-19:30; Su 08:30-14:00"
-  },
-  {
-    "id": "geo-5173caeda87b8e2b4059a5cf5845c9d34640f00103f9016461f4110000000092030b42617220556c7069616e6f",
-    "lat": 45.6545798,
-    "lon": 13.7782872,
-    "name": "Bar Ulpiano",
-    "category": "restaurant",
-    "phone": "+39 040 638538",
-    "openingHours": "Mo-Fr 06:30-22:00; Sa 06:30-14:30"
-  },
-  {
-    "id": "geo-51cca61254438d2b4059044c2a64f8d34640f00103f90197eeaf8a020000009203205472696573746520343131202d20526f6f6d7320262041706172746d656e7473",
-    "lat": 45.6560178,
-    "lon": 13.7759043,
-    "name": "Trieste 411 - Rooms & Apartments",
-    "category": "hotel",
-    "website": "https://trieste411.it"
-  },
-  {
-    "id": "geo-51bfa3213e0b8d2b40591c1e673ff7d34640f00103f901c6e2c9fd02000000920309426172204b656e7961",
-    "lat": 45.6559829,
-    "lon": 13.7754764,
-    "name": "Bar Kenya",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51c9772975c98c2b4059b8f0170edfd34640f00103f9015bd2a2fd02000000",
-    "lat": 45.6552446,
-    "lon": 13.7749745,
-    "name": "restaurant",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-514218891a968c2b4059605b9ab6dad34640f00103f901ffb0c5de0000000092030d486f74656c20416262617a6961",
-    "lat": 45.6551121,
-    "lon": 13.7745827,
-    "name": "Hotel Abbazia",
-    "category": "hotel",
-    "phone": "+39 040 369464"
-  },
-  {
-    "id": "geo-51fbbd5eab4e8c2b4059df388485eed34640f00103f901bb6afc0f0000000092030f566f676c69612064692070697a7a61",
-    "lat": 45.6557166,
-    "lon": 13.7740377,
-    "name": "Voglia di pizza",
-    "category": "restaurant",
-    "phone": "+39 040 370459"
-  },
-  {
-    "id": "geo-517720fcd52d8c2b4059e87d2df9e9d34640f00103f901a165ff89010000009203075469676f74c3a0",
-    "lat": 45.6555778,
-    "lon": 13.7737872,
-    "name": "Tigotà",
-    "category": "supermarket"
-  },
-  {
-    "id": "geo-51f9bd4d7ff68b2b4059d4900255edd34640f00103f9010e88ee4f0000000092030a486f74656c20526f6d61",
-    "lat": 45.6556803,
-    "lon": 13.773365,
-    "name": "Hotel Roma",
-    "category": "hotel",
-    "website": "https://www.hotelroma-trieste.it/"
-  },
-  {
-    "id": "geo-5162c55f49a88b2b4059a387eb62e4d34640f00103f90108a3c7500100000092030b696c204d616e67696f6e65",
-    "lat": 45.6554073,
-    "lon": 13.7727683,
-    "name": "il Mangione",
-    "category": "restaurant",
-    "phone": "+39 389 0220077",
-    "openingHours": "Mo-Su 10:00-00:00"
-  },
-  {
-    "id": "geo-51c7cd2a00d88a2b40593526fbf2d5d34640f00102f901944ff21c0000000092030a4e482054726965737465",
-    "lat": 45.65496670973918,
-    "lon": 13.77117920420177,
-    "name": "NH Trieste",
-    "category": "hotel",
-    "website": "https://www.nh-hotels.it/hotel/nh-trieste"
-  },
-  {
-    "id": "geo-514e0efa2d958a2b40594e266e15c4d34640f00103f901db6e9ec00000000092030a426172204361766f7572",
-    "lat": 45.6544215,
-    "lon": 13.7706694,
-    "name": "Bar Cavour",
-    "category": "restaurant",
-    "phone": "+39 040 260 7076"
-  },
-  {
-    "id": "geo-51265a4d32cd8b2b4059e51c86a0b4d34640f00103f9017b67f14b0000000092030c496e2773204d65726361746f",
-    "lat": 45.6539498,
-    "lon": 13.7730499,
-    "name": "In's Mercato",
-    "category": "supermarket",
-    "openingHours": "Mo-Sa 08:30-20:00, Su 09:00-13:00, PH closed"
-  },
-  {
-    "id": "geo-516e7f78a74c8b2b4059d6146d33bad34640f00103f901db6626a0020000009203144261722047656c617465726961204e69636f6c61",
-    "lat": 45.6541199,
-    "lon": 13.7720692,
-    "name": "Bar Gelateria Nicola",
-    "category": "restaurant",
-    "phone": "+39 040 0643074",
-    "openingHours": "Mo-Fr 07:30-20:30, Sa 09:00-20:30"
-  },
-  {
-    "id": "geo-51af2e5d77a98b2b4059780371c394d34640f00103f90145301277020000009203144e756f766f20416c626572676f2043656e74726f",
-    "lat": 45.6529774,
-    "lon": 13.7727773,
-    "name": "Nuovo Albergo Centro",
-    "category": "hotel",
-    "website": "https://www.hotelcentrotrieste.it/"
-  },
-  {
-    "id": "geo-512e910bcee08b2b4059984eeb36a8d34640f00103f901aff332800000000092030f4275666665742064612047696c646f",
-    "lat": 45.653571,
-    "lon": 13.7731995,
-    "name": "Buffet da Gildo",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51c6ac72fcab8a2b40598c94771f91d34640f00103f9014ff179a60000000092030e4465737061722045787072657373",
-    "lat": 45.6528663,
-    "lon": 13.7708434,
-    "name": "Despar Express",
-    "category": "supermarket",
-    "openingHours": "Mo-Sa 08:00-20:00; Su 08:30-19:30"
   }
 ]

@@ -23,7 +23,7 @@ export interface Segment {
   elevationGainM: number;
 }
 
-export type POICategory = 'camping' | 'hostel' | 'hotel' | 'restaurant' | 'supermarket' | 'water';
+export type POICategory = 'camping' | 'hostel' | 'hotel' | 'restaurant' | 'supermarket' | 'water' | 'hut';
 
 export interface POI {
   id: string;
@@ -54,6 +54,7 @@ export interface WeatherDay {
   tempMin: number;
   precipitation: number;
   windspeedMax: number;
+  windDirection: number;
   weatherCode: number;
 }
 
