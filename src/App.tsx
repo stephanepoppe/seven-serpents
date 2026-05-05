@@ -1,13 +1,18 @@
 import { useEffect, useState } from 'react';
 import type { Segment, POI, POICategory, Ferry, SegmentWeather } from './types';
+import type { HoverPoint } from './components/ElevationProfile';
 import { parseGPX, calcDistance, calcElevationGain, downsample, haversineKm } from './utils/gpxParser';
 import { fetchRouteWeather } from './utils/weather';
 import MapView from './components/Map';
 import Sidebar from './components/Sidebar';
+import ElevationProfile from './components/ElevationProfile';
 
 // POI data is pre-fetched via `npm run fetch-pois` and bundled statically.
 import poisJson from './data/pois.json';
 const bundledPOIs = poisJson as POI[];
+
+import surfaceJson from './data/surface.json';
+const surfaceData = surfaceJson as unknown as Record<string, [number, number][]>;
 
 const GPX_SOURCES = [
   { id: 1, name: '7S26.1 — Slovenia',      filename: '7S26_1 - Slovenia.gpx',      color: '#e74c3c' },
@@ -27,14 +32,16 @@ export default function App() {
   const [ferries, setFerries] = useState<Ferry[]>([]);
   const [pois] = useState<POI[]>(bundledPOIs);
   const [visibleCategories, setVisibleCategories] = useState<Set<POICategory>>(
-    new Set(['camping', 'hostel', 'hotel', 'restaurant', 'supermarket', 'water']),
+    new Set(['camping', 'hostel', 'hotel', 'restaurant', 'supermarket', 'water', 'hut']),
   );
   const [weatherData, setWeatherData] = useState<SegmentWeather[]>([]);
   const [loadingWeather, setLoadingWeather] = useState(false);
   const [weatherError, setWeatherError] = useState<string | null>(null);
-  const [raceStartDate, setRaceStartDate] = useState('2026-03-28');
+  const [raceStartDate, setRaceStartDate] = useState(() => new Date().toISOString().split('T')[0]);
   const [daysPerSegment, setDaysPerSegment] = useState(2);
   const [activeTab, setActiveTab] = useState<'segments' | 'pois' | 'ferries' | 'weather'>('segments');
+  const [elevationHover, setElevationHover] = useState<HoverPoint | null>(null);
+  const [routeHover, setRouteHover] = useState<{ lat: number; lon: number } | null>(null);
 
   useEffect(() => {
     Promise.all(
@@ -59,6 +66,29 @@ export default function App() {
       setVisibleSegments(new Set(loaded.map(s => s.id)));
 
       const detected: Ferry[] = [];
+
+      // Intra-segment ferries: consecutive point jumps > 1.0 km (avoids GPS artifacts)
+      const INTRA_FERRY_KM = 1.0;
+      for (const seg of loaded) {
+        const pts = seg.points;
+        for (let i = 1; i < pts.length; i++) {
+          const dist = haversineKm(pts[i - 1], pts[i]);
+          if (dist > INTRA_FERRY_KM) {
+            detected.push({
+              id: `ferry-${seg.id}-${seg.id}-${i}`,
+              fromSegmentId: seg.id,
+              toSegmentId: seg.id,
+              fromName: seg.name,
+              toName: seg.name,
+              fromPoint: pts[i - 1],
+              toPoint: pts[i],
+              distanceKm: dist,
+            });
+          }
+        }
+      }
+
+      // Inter-segment ferries: gap between consecutive segment endpoints
       for (let i = 0; i < loaded.length - 1; i++) {
         const a = loaded[i];
         const b = loaded[i + 1];
@@ -139,12 +169,18 @@ export default function App() {
         activeTab={activeTab}
         onTabChange={setActiveTab}
       />
-      <MapView
-        segments={segments}
-        visibleSegments={visibleSegments}
-        pois={visiblePOIs}
-        ferries={ferries}
-      />
+      <div className="map-column">
+        <MapView
+          segments={segments}
+          visibleSegments={visibleSegments}
+          pois={visiblePOIs}
+          ferries={ferries}
+          elevationHover={elevationHover}
+          surfaceData={surfaceData}
+          onRouteHover={setRouteHover}
+        />
+        <ElevationProfile segments={segments} visibleSegments={visibleSegments} onHover={setElevationHover} externalHover={routeHover} />
+      </div>
     </div>
   );
 }

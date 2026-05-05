@@ -1,0 +1,62 @@
+{
+  "4-4": {
+    "from": "Barbat (Rab)",
+    "to": "Rab Town",
+    "operator": "Brodomehanika Brnabić",
+    "line": "RabLine",
+    "duration": 35,
+    "note": "Seasonal summer service (June–Sept) · 12-person boat · Cash only",
+    "lowSeason": "Not operating",
+    "highSeason": "~10×/day round trips",
+    "passengerFare": "€4",
+    "bikeFare": "Unconfirmed — ask on board"
+  },
+  "3-4": {
+    "from": "Lun (Pag)",
+    "to": "Mišnjak (Rab)",
+    "operator": "Rapska Plovidba",
+    "line": "999",
+    "duration": 30,
+    "note": "Foot passengers & bikes only — no cars",
+    "lowSeason": "Mon/Wed/Fri — 1×/day",
+    "highSeason": "Daily — 3×/day (09:00, 12:00, 17:00)",
+    "passengerFare": "€4.65–€8.64",
+    "bikeFare": "€4.65–€8.63"
+  },
+  "4-5": {
+    "from": "Lopar (Rab)",
+    "to": "Valbiska (Krk)",
+    "operator": "Jadrolinija",
+    "line": "338",
+    "duration": 80,
+    "note": "Reservation required — ticket locks a specific departure",
+    "lowSeason": "2×/day (05:45, 16:00–17:15)",
+    "highSeason": "4×/day (05:45, 09:45, 14:00, 18:30)",
+    "passengerFare": "€4.80–€6.20",
+    "bikeFare": "€4.70–€6.00"
+  },
+  "5-6": {
+    "from": "Valbiska (Krk)",
+    "to": "Merag (Cres)",
+    "operator": "Jadrolinija",
+    "line": "332",
+    "duration": 25,
+    "note": "Ticket valid any departure same day",
+    "lowSeason": "~12×/day (05:00–23:30)",
+    "highSeason": "13×/day (05:00–23:00)",
+    "passengerFare": "€4.40",
+    "bikeFare": "€4.30"
+  },
+  "6-7": {
+    "from": "Porozina (Cres)",
+    "to": "Brestova (mainland)",
+    "operator": "Jadrolinija",
+    "line": "334",
+    "duration": 20,
+    "note": "Ticket valid any departure same day",
+    "lowSeason": "~11×/day (06:00–22:00)",
+    "highSeason": "13×/day (05:00–23:59)",
+    "passengerFare": "€4.40",
+    "bikeFare": "€4.30"
+  }
+}
