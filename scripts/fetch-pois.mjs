@@ -320,7 +320,7 @@ function addPOI(poi, samples) {
 for (const src of GPX_FILES) {
   console.log(`\n[${src.id}/7] ${src.name}`);
 
-  const xml    = readFileSync(join(ROOT, src.file), 'utf8');
+  const xml    = readFileSync(join(ROOT, 'public', 'gpx', src.file), 'utf8');
   const points = parseGPXPoints(xml);
   const samples = samplePoints(points, SAMPLE_KM_FINE);
   console.log(`  ${points.length} track points, ${samples.length} radius-check samples`);

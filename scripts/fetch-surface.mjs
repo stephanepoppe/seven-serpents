@@ -219,7 +219,7 @@ try { result = JSON.parse(readFileSync(outPath, 'utf8')); } catch { /* first run
 for (const src of GPX_FILES) {
   if (onlyIds && !onlyIds.includes(src.id)) continue;
   console.log(`\n[${src.id}/7] ${src.file}`);
-  const xml = readFileSync(join(ROOT, src.file), 'utf8');
+  const xml = readFileSync(join(ROOT, 'public', 'gpx', src.file), 'utf8');
   const pts = parseGPX(xml);
   console.log(`  ${pts.length} track points`);
 
