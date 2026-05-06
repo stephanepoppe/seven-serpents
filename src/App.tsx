@@ -146,6 +146,10 @@ export default function App() {
     });
   }
 
+  function setAllCategories(cats: Set<POICategory>) {
+    setVisibleCategories(cats);
+  }
+
   const visiblePOIs = pois.filter(p => visibleCategories.has(p.category));
 
   return (
@@ -157,6 +161,7 @@ export default function App() {
         pois={pois}
         visibleCategories={visibleCategories}
         onToggleCategory={toggleCategory}
+        onSetAllCategories={setAllCategories}
         ferries={ferries}
         weatherData={weatherData}
         loadingWeather={loadingWeather}

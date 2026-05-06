@@ -43,6 +43,7 @@ interface Props {
   pois: POI[];
   visibleCategories: Set<POICategory>;
   onToggleCategory: (cat: POICategory) => void;
+  onSetAllCategories: (cats: Set<POICategory>) => void;
   ferries: Ferry[];
   weatherData: SegmentWeather[];
   loadingWeather: boolean;
@@ -58,7 +59,7 @@ interface Props {
 
 export default function Sidebar({
   segments, visibleSegments, onToggleSegment,
-  pois, visibleCategories, onToggleCategory,
+  pois, visibleCategories, onToggleCategory, onSetAllCategories,
   ferries,
   weatherData, loadingWeather, weatherError,
   raceStartDate, daysPerSegment,
@@ -150,6 +151,10 @@ export default function Sidebar({
                 Run <code>npm run fetch-pois</code> once to generate it.
               </div>
             )}
+            <div style={{ display: 'flex', gap: 6, marginBottom: 4 }}>
+              <button className="clear-btn" onClick={() => onSetAllCategories(new Set(CATEGORIES.map(c => c.key)))}>All</button>
+              <button className="clear-btn" onClick={() => onSetAllCategories(new Set())}>None</button>
+            </div>
             <div className="category-filters">
               {CATEGORIES.map(({ key, label, emoji }) => {
                 const count = pois.filter(p => p.category === key).length;
