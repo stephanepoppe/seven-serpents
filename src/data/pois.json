@@ -1,5 +1,64 @@
 [
   {
+    "id": "osm-node-4296069740",
+    "lat": 45.757957,
+    "lon": 14.2951309,
+    "name": "Koča Radioklub Proteus",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-9869948288",
+    "lat": 45.7740004,
+    "lon": 14.2072198,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-13146881857",
+    "lat": 45.7972753,
+    "lon": 14.1759251,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-251397426",
+    "lat": 45.4238458,
+    "lon": 14.5673504,
+    "name": "Planinarski dom \"Sušak\"",
+    "category": "hut",
+    "phone": "+385 51 230 908"
+  },
+  {
+    "id": "osm-way-292735170",
+    "lat": 45.5664214,
+    "lon": 14.4996323,
+    "name": "Paravićeva miza",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-308958063",
+    "lat": 45.4295262,
+    "lon": 14.5647247,
+    "name": "Veliki dom \"Platak\"",
+    "category": "hut",
+    "website": "https://www.dom-platak.com/hr/",
+    "phone": "+385 51 230 905"
+  },
+  {
+    "id": "osm-way-453707449",
+    "lat": 45.7770807,
+    "lon": 14.2283488,
+    "name": "Koča Mladika na Pečni rebri",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-673127325",
+    "lat": 45.9252651,
+    "lon": 14.4500668,
+    "name": "Koča na Kavcu",
+    "category": "hut"
+  },
+  {
     "id": "geo-516ef8dd74cb222d4059cece58ea0f044740f00103f901609779530000000092031150697a7a6572696a612048616d2d48616d",
     "lat": 46.0317357,
     "lon": 14.5679585,
@@ -28,6 +87,13 @@
     "name": "MIA Bed & Breakfast",
     "category": "hotel",
     "openingHours": "24/7"
+  },
+  {
+    "id": "geo-51808b040940122d4059e7ff55478e034740f00103f90167bf53c60000000092030e50656b61726e61205275646e696b",
+    "lat": 46.0277795,
+    "lon": 14.5356448,
+    "name": "Pekarna Rudnik",
+    "category": "bakery"
   },
   {
     "id": "geo-51ce3eea0a11032d405985a570f37c054740f00103f901c1b2c1d600000000920314476f7374696c6e61204a616b6f62204672616e63",
@@ -60,6 +126,14 @@
     "website": "https://malaprazarna.si",
     "phone": "+386 41 814 321",
     "openingHours": "Mo-Fr 09:00-15:00; Sa-Su 10:00-16:00"
+  },
+  {
+    "id": "geo-5154c95b0938032d40595c7f0173e3054740f00103f9018992d7bc000000009203074c656769c5a161",
+    "lat": 46.0460037,
+    "lon": 14.5062869,
+    "name": "Legiša",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:00-19:00"
   },
   {
     "id": "geo-515c44ca051d032d4059f4e1b43bff054740f00103f901522d334b0100000092030b4e61c5a161206869c5a161",
@@ -188,6 +262,14 @@
     "category": "water"
   },
   {
+    "id": "geo-510ac3dbdec9062d40595881107f03054740f00103f901b1eb2dc7020000009203154b5255486172696a6520696e2043554b526e696a65",
+    "lat": 46.0391692,
+    "lon": 14.5132589,
+    "name": "KRUHarije in CUKRnije",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:30-17:00"
+  },
+  {
     "id": "geo-5125b3c8a68c092d40595f133da6ea054740f00102f901314a260b000000009203084d65726361746f72",
     "lat": 46.04622343046389,
     "lon": 14.518651210784421,
@@ -238,6 +320,14 @@
     "name": "Pizzerija Garaža",
     "category": "restaurant",
     "phone": "014274509"
+  },
+  {
+    "id": "geo-519c470f8d38122d4059c7855edacb064740f00103f90196688ddd0000000092031150656b61726e61204b6f64656c6a65766f",
+    "lat": 46.0530961,
+    "lon": 14.5355877,
+    "name": "Pekarna Kodeljevo",
+    "category": "bakery",
+    "openingHours": "06:00-22:00"
   },
   {
     "id": "geo-5110a7c16ff9142d4059f41c176f6a064740f00102f901fd93b50e0000000092030e4b617661726e61204b616e6b616e",
@@ -414,6 +504,13 @@
     "openingHours": "Mo-Sa 07:00-20:00"
   },
   {
+    "id": "geo-51c7928323920a2d4059a6594524af064740f00103f901ea8480c6000000009203064d6c696e6172",
+    "lat": 46.0522199,
+    "lon": 14.5206462,
+    "name": "Mlinar",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51f911bf620d0b2d4059c24aaa5be2064740f00103f9011303cf8500000000",
     "lat": 46.0537829,
     "lon": 14.5215865,
@@ -469,6 +566,16 @@
     "lon": 14.515435,
     "name": "Pitnik Prekmurski trg",
     "category": "water"
+  },
+  {
+    "id": "geo-51ad0441367f062d4059d390a79b7a064740f00103f90197b6ec8d0200000092030c42726f742050656b61726e61",
+    "lat": 46.0506167,
+    "lon": 14.5126893,
+    "name": "Brot Pekarna",
+    "category": "bakery",
+    "website": "https://www.brotpekarna.si/",
+    "phone": "+386 69 657-188",
+    "openingHours": "Mo-Fr 08:00-17:00; Sa 08:00-14:00; PH closed"
   },
   {
     "id": "geo-51d4df015427062d4059baa4c5747c064740f00103f9010091770c01000000920305427572656b",
@@ -544,6 +651,13 @@
     "website": "https://www.vodnikov-hram.si/"
   },
   {
+    "id": "geo-51133ccfe9c3042d40599231885979064740f00103f901a926de5602000000920305c5bd69746f",
+    "lat": 46.0505783,
+    "lon": 14.5093072,
+    "name": "Žito",
+    "category": "bakery"
+  },
+  {
     "id": "geo-517dbe1c2c52032d4059e06b63473e064740f00103f9012dba0cdc00000000920312456d6f6e61204c757875727920526f6f6d73",
     "lat": 46.0487756,
     "lon": 14.5064863,
@@ -565,6 +679,16 @@
     "lon": 14.5061349,
     "name": "Pitnik Stari trg ob lokalu Romeo",
     "category": "water"
+  },
+  {
+    "id": "geo-51e1a7604326032d4059327d65941d064740f00103f9019f73c90d030000009203096c6520506f74696361",
+    "lat": 46.0477777,
+    "lon": 14.5061513,
+    "name": "le Potica",
+    "category": "bakery",
+    "website": "https://le-potica.si/",
+    "phone": "+386 69 70 07 16",
+    "openingHours": "Mo-Sa 09:30-19:30; Sa,PH off"
   },
   {
     "id": "geo-5158f50368a5022d4059237dff8b0c064740f00103f901dfe96a7f020000009203054261727261",
@@ -592,6 +716,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51ce44c7c49c022d405989dcc2a9c5054740f00103f901df834bb10000000092031044756e616a736b612070656b61726e61",
+    "lat": 46.0450947,
+    "lon": 14.5051023,
+    "name": "Dunajska pekarna",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:00-24:00; Sa-Su 07:00-24:00"
+  },
+  {
     "id": "geo-5101bad4ad43022d405902db1c42f0054740f00103f901b8918f4a000000009203085368616d62616c61",
     "lat": 46.0463946,
     "lon": 14.5044226,
@@ -600,6 +732,14 @@
     "website": "https://shambala.si",
     "phone": "+386 31 843833",
     "openingHours": "Mo-Fr 12:00-22:30; Sa 22:30; Su,PH off"
+  },
+  {
+    "id": "geo-5117de9b95a3022d4059f0ce90e0fc054740f00103f901ceb5f2a7020000009203055961757961",
+    "lat": 46.0467797,
+    "lon": 14.5051543,
+    "name": "Yauya",
+    "category": "bakery",
+    "openingHours": "Tu 10:00-20:00; We 10:00-20:00; Th 10:00-20:00; Fr 10:00-20:00; Sa 10:00-20:00; Su 10:00-20:00"
   },
   {
     "id": "geo-51b728ab832d022d4059a84d4917a7054740f00102f9017ca1da0a0000000092030a50726920c5a06b6f6675",
@@ -668,6 +808,13 @@
     "openingHours": "Mo-Su 09:00-19:00"
   },
   {
+    "id": "geo-518a479858cf0b2d4059fee8407b9a044740f00103f90143da05b50000000092031453746172612070656b61726e61204b727568656b",
+    "lat": 46.0359644,
+    "lon": 14.5230663,
+    "name": "Stara pekarna Kruhek",
+    "category": "bakery"
+  },
+  {
     "id": "geo-519875b5cb6d152d40592ca688c21d064740f00103f901afa35d1f0000000092030f4d6573746f20486f6e67204b6f6e67",
     "lat": 46.0477832,
     "lon": 14.5418533,
@@ -688,12 +835,35 @@
     "openingHours": "Mo-Fr 10:00-22:00; Sa 11:00-22:00; Su 11:00-20:00"
   },
   {
+    "id": "geo-519290ed2186162d405946e39a4c26064740f00103f901220e04bf000000009203134661737420666f6f6420c5a0746570616e2763",
+    "lat": 46.0480438,
+    "lon": 14.5439921,
+    "name": "Fast food Štepan'c",
+    "category": "bakery",
+    "openingHours": "Mo-Su 08:00-22:00"
+  },
+  {
+    "id": "geo-5127a5a0db4b0e2d405940cc142983064740f00103f9017b13e1b60000000092031150656b61726e6120446f6e612047657361",
+    "lat": 46.0508777,
+    "lon": 14.5279225,
+    "name": "Pekarna Dona Gesa",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51e856be1d97072d4059a070766b99064740f00103f901879614100300000092030c47726173686b612044656c69",
     "lat": 46.051557,
     "lon": 14.5148248,
     "name": "Grashka Deli",
     "category": "restaurant",
     "openingHours": "Mo-Tu 09:00-18:00; We-Fr 09:00-21:00; Sa 09:00-18:00"
+  },
+  {
+    "id": "geo-514363dcc314072d40595df0b3db78064740f00103f901eacb93fd00000000920307506f6c6a616e65",
+    "lat": 46.0505633,
+    "lon": 14.5138303,
+    "name": "Poljane",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"
   },
   {
     "id": "geo-5100338408dd062d4059bc26ffee78064740f00103f9013eb410c900000000920309486f7374656c203234",
@@ -753,6 +923,13 @@
     "openingHours": "Mo-Sa 12:00-21:00"
   },
   {
+    "id": "geo-51559ade0f896c2c4059359bc76130e34640f00103f9015bdffa2a0200000092030f4272696fc5a120642e206f2e206f2e",
+    "lat": 45.774914,
+    "lon": 14.2119832,
+    "name": "Brioš d. o. o.",
+    "category": "bakery"
+  },
+  {
     "id": "geo-519e51a9c8d76c2c40597305251642e34640f00103f90118ca866500000000920328506f73746f6a6e61204361766520526f6f6d7320262041706172746d656e74732050726f74657573",
     "lat": 45.7754543,
     "lon": 14.2125838,
@@ -760,6 +937,14 @@
     "category": "hotel",
     "website": "https://www.postojnska-jama.eu/",
     "phone": "+386 81 610300"
+  },
+  {
+    "id": "geo-519ea4afd63f6e2c4059ad6818e368e34640f00103f90198facd9f0100000092031350656b61726e61204e6fc48d20696e2044616e",
+    "lat": 45.7766384,
+    "lon": 14.2153308,
+    "name": "Pekarna Noč in Dan",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-22:00"
   },
   {
     "id": "geo-514f029b73f06c2c405938256ab3fbe24640f00103f90195facd9f0100000092031f4b415641524e41205349455354412c205065747261204772616820732e702e",
@@ -806,11 +991,25 @@
     "category": "camping"
   },
   {
+    "id": "geo-5127a089b0e16d2c405932c62c2059e24640f00103f901d05ec3350100000092030c4869c5a16120646f62726f74",
+    "lat": 45.7683449,
+    "lon": 14.2146125,
+    "name": "Hiša dobrot",
+    "category": "bakery"
+  },
+  {
     "id": "geo-5177238cc606692c4059a4648b5ce9e24640f00102f901d429db1600000000",
     "lat": 45.77274662786775,
     "lon": 14.205129818541293,
     "name": "hotel",
     "category": "hotel"
+  },
+  {
+    "id": "geo-5148197101686c2c4059c81121640fe34640f00103f901e59cfd310100000092030e536c61646b6120c5a0746f726a61",
+    "lat": 45.7739072,
+    "lon": 14.211731,
+    "name": "Sladka Štorja",
+    "category": "bakery"
   },
   {
     "id": "geo-51154e7743bf672c40596e57433dd8e24640f00103f9013196db20020000009203084d65726361746f72",
@@ -949,6 +1148,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-519b174d92eebb2c4059ad9b26195de54640f00102f901194bc1120000000092031250656b61726e6120456c69202620456c6479",
+    "lat": 45.791903632976165,
+    "lon": 14.36705453101222,
+    "name": "Pekarna Eli & Eldy",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 05:30-22:00; Su 06:00-22:00"
+  },
+  {
     "id": "geo-5119f90670c4b82c4059473767e9afe54640f00103f901e3350ba8010000009203084d65726361746f72",
     "lat": 45.7944309,
     "lon": 14.3608737,
@@ -1050,6 +1257,14 @@
     "openingHours": "Mo,Th-Su 12:00-22:00"
   },
   {
+    "id": "geo-51a8357282db6b2c4059d7d4c3e116e34640f00103f90117cbff310100000092031350656b61726e61206e6fc48d20696e2064616e",
+    "lat": 45.7741358,
+    "lon": 14.2106591,
+    "name": "Pekarna noč in dan",
+    "category": "bakery",
+    "openingHours": "Mo-Su,PH 06:00-22:00"
+  },
+  {
     "id": "geo-51b1bab36d1e6c2c40591853461f17e34640f00102f901b2fa7b1f00000000",
     "lat": 45.77414313253229,
     "lon": 14.211169651212318,
@@ -1062,6 +1277,14 @@
     "lon": 14.2119126,
     "name": "water",
     "category": "water"
+  },
+  {
+    "id": "geo-519f9a81806b6d2c40595c6d6a4540e34640f00103f901a736fe31010000009203084272696c6a616e74",
+    "lat": 45.7753989,
+    "lon": 14.2137108,
+    "name": "Briljant",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-22:00"
   },
   {
     "id": "geo-51f7178bf0406e2c40599be040ed5ce34640f00103f90118a67156010000009203074d696e75746b61",
@@ -1263,6 +1486,13 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51cadde7f8686d2d405967d718cffba64640f00103f901af22dbcf0200000092030c4d697669742050656b617261",
+    "lat": 45.3045596,
+    "lon": 14.7136915,
+    "name": "Mivit Pekara",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51b8921d1b81682d4059c1806fe4cba94640f00103f901ee5168c6020000009203144661737420666f6f64204b616d70696361204949",
     "lat": 45.3265348,
     "lon": 14.70411,
@@ -1425,6 +1655,14 @@
     "category": "water"
   },
   {
+    "id": "geo-511f7ea3c27dcd2d405903c9e0cdbf7e4640f00103f9011f452f94010000009203054d69766974",
+    "lat": 44.9902284,
+    "lon": 14.9013501,
+    "name": "Mivit",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:00-14:00; Sa 07:00-14:00; Su 07:00-13:00"
+  },
+  {
     "id": "geo-510fa9b3a4edcd2d405900529b38b97e4640f00103f901da263c99010000009203054b6c617261",
     "lat": 44.9900275,
     "lon": 14.9022037,
@@ -1501,6 +1739,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-5190df36aedacc2d40590adcba9ba77e4640f00103f901755a2f94010000009203054d69766974",
+    "lat": 44.98949,
+    "lon": 14.9001059,
+    "name": "Mivit",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:00-21:00; Su 07:00-21:00"
+  },
+  {
     "id": "geo-516962708390ce2d40593c3833558b7e4640f00103f9014d58f49d02000000",
     "lat": 44.9886271,
     "lon": 14.9034463,
@@ -1558,6 +1804,34 @@
     "name": "Gavranović",
     "category": "supermarket",
     "openingHours": "Mo-Sa 06:30-21:00; Su,PH 07:00-13:00"
+  },
+  {
+    "id": "osm-node-498426302",
+    "lat": 44.8735507,
+    "lon": 14.9843242,
+    "name": "Kuća Oltari",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-10243296659",
+    "lat": 44.527975,
+    "lon": 15.3753091,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-319409251",
+    "lat": 44.8145713,
+    "lon": 14.9755113,
+    "name": "Dom Zavižan",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-496471655",
+    "lat": 44.7790655,
+    "lon": 15.0144578,
+    "name": "Veliki lom",
+    "category": "hut"
   },
   {
     "id": "geo-5108443e9e4cea2d40598ca8e4f7917c4640f00103f9016c18a681000000009203114b6f6e6f6261207374726963204c756b61",
@@ -1680,6 +1954,13 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-51654282983abe2e4059e24e33ee17464640f00103f901be21065e02000000",
+    "lat": 44.5476053,
+    "lon": 15.3715408,
+    "name": "bakery",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51ef91cd55f3bc2e40590ddefc2bd0454640f00103f90171bbc0c8020000009203114b6f6e6f62612053746172612044616d61",
     "lat": 44.5454154,
     "lon": 15.369044,
@@ -1687,6 +1968,13 @@
     "category": "restaurant",
     "phone": "+385989644914",
     "openingHours": "Mo-Sa 07:00-23:00; Su off"
+  },
+  {
+    "id": "geo-519714692cabbe2e40592618ce35cc454640f00103f9017fc482110200000092030950656b61726e696361",
+    "lat": 44.5452945,
+    "lon": 15.3723997,
+    "name": "Pekarnica",
+    "category": "bakery"
   },
   {
     "id": "geo-5122c495b377be2e4059bff38b12f4454640f00103f9011102f4130100000092031454686520486967686c616e646572277320707562",
@@ -1804,6 +2092,13 @@
     "category": "restaurant",
     "phone": "+385 99 422 9292",
     "openingHours": "Mo-Su 09:00-23:30"
+  },
+  {
+    "id": "osm-node-10129794962",
+    "lat": 44.4736856,
+    "lon": 15.0097274,
+    "name": "Mountain hut",
+    "category": "hut"
   },
   {
     "id": "geo-514e1b1f775b232f4059594fadbeba1e4640f00103f901c638b24601000000",
@@ -1943,6 +2238,13 @@
     "category": "camping"
   },
   {
+    "id": "geo-51cc82e4f8fc8f2e4059dc59057b5d274640f00103f90168f46fd20200000092030b50656b6172612056656c69",
+    "lat": 44.3075403,
+    "lon": 15.2812269,
+    "name": "Pekara Veli",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51bf750f1a0b8c2e40595130630ad6274640f00103f901d354b9a901000000920309417567757374696e6f",
     "lat": 44.3112195,
     "lon": 15.2735222,
@@ -1995,6 +2297,14 @@
     "lon": 15.41423805,
     "name": "Market Dali",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-51200835e8f0b12e4059fd474b8a34244640f00103f901eaab488f0100000092030f50656b617261205261c5be616e6163",
+    "lat": 44.2828534,
+    "lon": 15.3475411,
+    "name": "Pekara Ražanac",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-21:00"
   },
   {
     "id": "geo-510adf56d526b12e40596f79f6a633244640f00103f901b62d0d29010000009203064d61726b6574",
@@ -2063,6 +2373,13 @@
     "lon": 15.0554884,
     "name": "Na Tale",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-51e71c3c139a1c2e4059f5cb71b8a0384640f00103f901e3300b330100000092031550656b6172696e75636120566f6469636520506167",
+    "lat": 44.4424048,
+    "lon": 15.055863,
+    "name": "Pekarinuca Vodice Pag",
+    "category": "bakery"
   },
   {
     "id": "geo-5159008a0dd21d2e405976aa308b82384640f00102f9015efb0c0b000000009203195472676f7661c48d6b692063656e746172204c6f72656e636f",
@@ -2134,6 +2451,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-517e552e54fe192e4059b251312999384640f00103f9012334738e0000000092030d50656b61726e612041726f6d61",
+    "lat": 44.4421741,
+    "lon": 15.0507685,
+    "name": "Pekarna Aroma",
+    "category": "bakery",
+    "openingHours": "06:00-23:00"
+  },
+  {
     "id": "geo-51f96fb9556b182e405958703fe081384640f00103f9015d78225101000000",
     "lat": 44.4414635,
     "lon": 15.0476939,
@@ -2171,6 +2496,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-516a61bb20c71b2e405970ab6a93d4384640f00103f901f83f798e0000000092031050656b61726e6963612043656e746172",
+    "lat": 44.4439873,
+    "lon": 15.0542536,
+    "name": "Pekarnica Centar",
+    "category": "bakery",
+    "openingHours": "06:00-21:00"
+  },
+  {
     "id": "geo-5146cec29e76142e40594605f3fc0e394640f00103f901bb1428030100000092030e41706172746d656e7473204d6961",
     "lat": 44.4457699,
     "lon": 15.0399675,
@@ -2200,6 +2533,13 @@
     "lon": 15.052439897600749,
     "name": "Pagus",
     "category": "hotel"
+  },
+  {
+    "id": "geo-51db7a979c241b2e4059b642a21a40394640f00103f9014444685701000000920306566f64696365",
+    "lat": 44.4472688,
+    "lon": 15.0530137,
+    "name": "Vodice",
+    "category": "bakery"
   },
   {
     "id": "geo-51cae7cbc122092e405936e0980a963b4640f00103f9010af2de95020000009203104269672059656c6c6f7720486f757365",
@@ -2274,6 +2614,14 @@
     "name": "Konzum",
     "category": "supermarket",
     "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-21:00; PH 07:00-21:00"
+  },
+  {
+    "id": "geo-51ee8b95e2f4132e40590f37f11f1c394640f00103f9012d3ba3560100000092030541726f6d61",
+    "lat": 44.4461708,
+    "lon": 15.0389777,
+    "name": "Aroma",
+    "category": "bakery",
+    "openingHours": "06:00-23:00"
   },
   {
     "id": "geo-5120bb664d87012e40590503be912f3d4640f00103f901df0ca45601000000",
@@ -2366,6 +2714,13 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-5121a68e9fd7c52d40591db4b2d8814a4640f00103f90113de83590200000092031150656b61726e696361204e6f76616c6a61",
+    "lat": 44.5820876,
+    "lon": 14.8864107,
+    "name": "Pekarnica Novalja",
+    "category": "bakery"
+  },
+  {
     "id": "geo-513aae4676a5c52d40590f12fd35b4464640f00103f901fb7df75202000000920307506c6f64696e65",
     "lat": 44.5523746,
     "lon": 14.886028,
@@ -2374,6 +2729,14 @@
     "website": "https://www.plodine.hr",
     "phone": "+385 53 652 360",
     "openingHours": "Mo-Su 07:00-22:00"
+  },
+  {
+    "id": "geo-51e4f0ee6d9fc62d40591da4f1553c4a4640f00103f901565986d900000000",
+    "lat": 44.5799663,
+    "lon": 14.8879351,
+    "name": "bakery",
+    "category": "bakery",
+    "openingHours": "07:00-13:00"
   },
   {
     "id": "geo-51080a174dc2c42d405967727b93f0464640f00103f901f04062a802000000",
@@ -2418,11 +2781,26 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51ad83280417c42d4059dce56c4b2e474640f00103f901a5b28a270100000092030f50656b61726e61204b617374656c6f",
+    "lat": 44.5561003,
+    "lon": 14.8829881,
+    "name": "Pekarna Kastelo",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-22:00"
+  },
+  {
     "id": "geo-51074bd0baa1c42d405986d4a35f11474640f00103f9018e9d29330100000092030c4b6f6e6f62612054696d756e",
     "lat": 44.5552177,
     "lon": 14.8840464,
     "name": "Konoba Timun",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-5145189a46eec42d40597d35519500474640f00103f90172d64e310000000092031150656b61726e696361204e6f76616c6a61",
+    "lat": 44.5547053,
+    "lon": 14.8846304,
+    "name": "Pekarnica Novalja",
+    "category": "bakery"
   },
   {
     "id": "geo-51badae006fec82d40598b1c63c6b2464640f00102f9011d5f2c41000000009203044f6c6561",
@@ -2607,11 +2985,25 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51127bb2ac45c52d4059f459547a5c474640f00103f9013f34793100000000",
+    "lat": 44.5575097,
+    "lon": 14.8852972,
+    "name": "bakery",
+    "category": "bakery"
+  },
+  {
     "id": "geo-517be1293f04c42d4059598b4f0130474640f00103f901438ea732000000009203054c6fc5be61",
     "lat": 44.5561525,
     "lon": 14.8828449,
     "name": "Loža",
     "category": "hotel"
+  },
+  {
+    "id": "osm-node-12386347788",
+    "lat": 44.7133745,
+    "lon": 14.9181282,
+    "name": "Mountain hut",
+    "category": "hut"
   },
   {
     "id": "geo-511019fb37d4982d4059727acd61ad5e4640f00103f901f7ef421d00000000920303497661",
@@ -2656,6 +3048,13 @@
     "lon": 14.89159755,
     "name": "restaurant",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-51b79a75c6f7992d4059ea5a7b9faa5e4640f00103f9010de441dc0000000092030d70656b61726120626172626174",
+    "lat": 44.739582,
+    "lon": 14.8007185,
+    "name": "pekara barbat",
+    "category": "bakery"
   },
   {
     "id": "geo-51439259bdc3992d4059f50df1b4a15e4640f00103f9010861ef310100000092031741706172746d656e747320436173612042617262617261",
@@ -2740,6 +3139,14 @@
     "website": "https://www.plodine.hr",
     "phone": "+385 51 669 520",
     "openingHours": "Mo-Su 07:00-22:00"
+  },
+  {
+    "id": "geo-51f3114251ea882d4059c040102043614640f00103f9019248675e0100000092030556696c6d61",
+    "lat": 44.759861,
+    "lon": 14.7674127,
+    "name": "Vilma",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 08:00-21:00"
   },
   {
     "id": "geo-517a0a6fc5b48d2d4059a5ebd33b26604640f00103f901c18ebe5e01000000920315566963746f726961206d6f62696c6520686f6d6573",
@@ -2831,6 +3238,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-5160e5d022db852d40599e4b27c8be604640f00103f9011f9b096e00000000920305c5bd69746f",
+    "lat": 44.7558222,
+    "lon": 14.7614375,
+    "name": "Žito",
+    "category": "bakery",
+    "openingHours": "06:30-21:00"
+  },
+  {
     "id": "geo-514e379a6db8852d4059a862748a9f604640f00103f90176aeff6d00000000920312546170617320626172204b616d70616e656c",
     "lat": 44.7548688,
     "lon": 14.7611727,
@@ -2886,6 +3301,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-5107978e39cf842d4059841bdfcd09614640f00103f9011417d4320000000092030a5a6c61746e6920526162",
+    "lat": 44.7581117,
+    "lon": 14.7593935,
+    "name": "Zlatni Rab",
+    "category": "bakery",
+    "openingHours": "07:00-24:00"
+  },
+  {
     "id": "geo-5100c5c89239862d4059e933565172614640f00103f901d5f3560f0300000092030853747564656e6163",
     "lat": 44.7613012,
     "lon": 14.762158,
@@ -2906,6 +3329,14 @@
     "lon": 14.7604075,
     "name": "Vanilla",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-514acbed0335852d4059a05802846a614640f00103f90177c83d0f03000000920306466172696e61",
+    "lat": 44.7610631,
+    "lon": 14.7601701,
+    "name": "Farina",
+    "category": "bakery",
+    "openingHours": "06:30-22:00"
   },
   {
     "id": "geo-514f6331a0cd842d40592c723e2b1f614640f00103f901feb59ecf020000009203064b6f6e7a756d",
@@ -2930,6 +3361,14 @@
     "category": "restaurant",
     "phone": "+38551704458",
     "openingHours": "Mo-Su 08:00-23:00"
+  },
+  {
+    "id": "geo-514c69a2748e862d405949efc0a508614640f00103f9012644248901000000920309466172696e61204956",
+    "lat": 44.7580764,
+    "lon": 14.7628056,
+    "name": "Farina IV",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:30-15:00"
   },
   {
     "id": "geo-51abc31be3d4842d4059402f8100be614640f00103f901c6fdc493000000009203064b6f6e7a756d",
@@ -3021,6 +3460,14 @@
     "lon": 14.730565751775266,
     "name": "Rajka",
     "category": "hotel"
+  },
+  {
+    "id": "geo-512f596e9e84772d4059272aef6b186a4640f00102f901803e06160000000092031150656b61726e69636120224c6f70617222",
+    "lat": 44.828870288638704,
+    "lon": 14.733433676691304,
+    "name": "Pekarnica \"Lopar\"",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-22:00"
   },
   {
     "id": "geo-5100bd7e6596742d40590a8fd2faae6a4640f00102f90130f4b31900000000",
@@ -3122,6 +3569,13 @@
     "category": "hotel"
   },
   {
+    "id": "geo-5118456a357f732d4059069156c6d06a4640f00103f901c869960201000000",
+    "lat": 44.8344963,
+    "lon": 14.7255799,
+    "name": "bakery",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51e9afa1e58a742d40593e1d3460356b4640f00103f901eacc371b0300000092031041706172746d616e6920536b75c5a161",
     "lat": 44.8375664,
     "lon": 14.7276222,
@@ -3177,6 +3631,15 @@
     "lon": 14.7364979,
     "name": "restaurant",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-51a27f828b15792d4059af15230159694640f00103f90182e610b2000000009203074b69666c69c487",
+    "lat": 44.8230287,
+    "lon": 14.7364925,
+    "name": "Kiflić",
+    "category": "bakery",
+    "website": "https://www.kiflic.hr/",
+    "openingHours": "06:30-22:00"
   },
   {
     "id": "geo-512cb2423635792d4059dd79e2395b694640f00103f90111e810b2000000009203064b6f6e7a756d",
@@ -3332,6 +3795,13 @@
     "name": "Perla",
     "category": "restaurant",
     "openingHours": "Mo-Su 11:00-14:00, 17:00-00:00"
+  },
+  {
+    "id": "geo-51469feaeb548c2d40599481a8a047604640f00103f90161cf841e02000000",
+    "lat": 44.7521859,
+    "lon": 14.7740854,
+    "name": "bakery",
+    "category": "bakery"
   },
   {
     "id": "geo-51ee04c06a318c2d405965dfb35448604640f00102f9012ae24223000000009203134175746f6b616d70205061646f766120494949",
@@ -3497,6 +3967,14 @@
     "openingHours": "07:00-22:00"
   },
   {
+    "id": "geo-511b9df3531c7b2d4059f4ab94f9a2694640f00103f901bdb3c2000200000092030f50656b61726e696361204c6f706172",
+    "lat": 44.8252861,
+    "lon": 14.7404505,
+    "name": "Pekarnica Lopar",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-21:00"
+  },
+  {
     "id": "geo-512970575469742d4059317898f6cd664640f00103f901efacf93e0100000092030547616c6562",
     "lat": 44.8031605,
     "lon": 14.7273661,
@@ -3519,6 +3997,14 @@
     "category": "restaurant",
     "website": "https://www.vojko.hr/",
     "phone": "+38551776805"
+  },
+  {
+    "id": "geo-51791edc9db5732d405965cae259dd664640f00103f901380b45040100000092030c50656b61726120c5bd69746f",
+    "lat": 44.8036301,
+    "lon": 14.725995,
+    "name": "Pekara Žito",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-22:00"
   },
   {
     "id": "geo-513aa5632cf56a2d4059e4bbb01332654640f00102f901ab51472b0000000092031150697a7a6572696a6120536b6970706572",
@@ -3630,6 +4116,13 @@
     "openingHours": "Mo-Sa 07:00-21:00; Su 07:00-14:00"
   },
   {
+    "id": "geo-51d8f6d104e5692d4059ccf10a444f654640f00103f901220fa6f701000000",
+    "lat": 44.7914815,
+    "lon": 14.7068254,
+    "name": "bakery",
+    "category": "bakery"
+  },
+  {
     "id": "geo-515f268a90ba692d4059762c00d75f654640f00103f9010a6a46560200000092030a4b6f642042756a6f6c61",
     "lat": 44.7919873,
     "lon": 14.7065015,
@@ -3704,6 +4197,62 @@
     "phone": "0038551776039"
   },
   {
+    "id": "osm-node-1369345682",
+    "lat": 44.9781276,
+    "lon": 14.7226156,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-3542132737",
+    "lat": 44.9712018,
+    "lon": 14.7300013,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-3551762527",
+    "lat": 44.9947789,
+    "lon": 14.7453479,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-3789185242",
+    "lat": 45.029215,
+    "lon": 14.5744461,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-9713343779",
+    "lat": 45.0486594,
+    "lon": 14.4930622,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-10102809770",
+    "lat": 45.0242657,
+    "lon": 14.5852867,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-12379143650",
+    "lat": 45.1625114,
+    "lon": 14.5423018,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-13183926312",
+    "lat": 44.9783269,
+    "lon": 14.7338931,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
     "id": "geo-516cabfead09262d405982dab97a5f834640f00103f901819648440200000092030a4d616c6f204d6973746f",
     "lat": 45.0263513,
     "lon": 14.5742926,
@@ -3757,6 +4306,14 @@
     "name": "Gostiona Sidro",
     "category": "restaurant",
     "openingHours": "\"Restaurant open  for hotel guests only - Hotel Villas Vista & Maria\""
+  },
+  {
+    "id": "geo-513309cd64eefc2c4059bb01b04b9e8f4640f00103f901a977a9b70000000092030d50656b617261205672626e696b",
+    "lat": 45.1220183,
+    "lon": 14.4940063,
+    "name": "Pekara Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:30-13:30; Su 07:00-13:00"
   },
   {
     "id": "geo-51a9667b99cdfc2c405900f1a952698f4640f00103f9014f08aa510200000092030c5472676f76696e61204b726b",
@@ -3859,6 +4416,13 @@
     "category": "hotel"
   },
   {
+    "id": "geo-515dae34df772e2d4059e55d9ac706834640f00103f901232c175801000000",
+    "lat": 45.0236444,
+    "lon": 14.5907583,
+    "name": "bakery",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51362ed27aae252d4059a3efc91efc824640f00103f901c02543e100000000",
     "lat": 45.0233191,
     "lon": 14.5735968,
@@ -3894,6 +4458,13 @@
     "name": "Camp Amar",
     "category": "camping",
     "phone": "+385 51 863 029"
+  },
+  {
+    "id": "geo-519b768c86e7242d4059e670523d3e834640f00103f901bb7c29610000000092031d536c61737469c48d61726e6120436173612064656c20706164726f6e65",
+    "lat": 45.0253369,
+    "lon": 14.5720789,
+    "name": "Slastičarna Casa del padrone",
+    "category": "bakery"
   },
   {
     "id": "geo-518900f1040cfc2c4059d7b672405c864640f00103f90111ceb402010000009203125472676f76696e61204b726b202d20323033",
@@ -3986,6 +4557,13 @@
     "openingHours": "Mo-Sa 07:00-14:00"
   },
   {
+    "id": "geo-512be1647671222d40591d7cbcebc7834640f00103f901f97d06a9020000009203064d696d6f7a61",
+    "lat": 45.0295386,
+    "lon": 14.5672719,
+    "name": "Mimoza",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51c3c9479c5f2a2d4059b42a78c02b834640f00103f901e36910530200000092030b476f6c64656e20526f7365",
     "lat": 45.0247727,
     "lon": 14.5827607,
@@ -4045,6 +4623,13 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51cb34f515ff222d40594ab8904770824640f00103f9011759d8120300000092030d50656b617261205672626e696b",
+    "lat": 45.0190515,
+    "lon": 14.5683524,
+    "name": "Pekara Vrbnik",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51c466367e973c2d40594ec81869f3844640f00103f9018e935f010100000092031a42656163682042617220436173612064656c20506164726f6e65",
     "lat": 45.0386783,
     "lon": 14.6183433,
@@ -4098,12 +4683,28 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51c68be0dae4232d405901d072ea14834640f00103f9012ef6ab220200000092030e50656b61726961205672626e696b",
+    "lat": 45.0240758,
+    "lon": 14.5701054,
+    "name": "Pekaria Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:30-19:00; Sa 06:30-13:30; Su 07:00-13:00"
+  },
+  {
     "id": "geo-514d5997642e262d4059a8fe412443834640f00103f9010bf001040300000092031043617361204d65646974657272616e61",
     "lat": 45.0254865,
     "lon": 14.5745727,
     "name": "Casa Mediterrana",
     "category": "supermarket",
     "openingHours": "Mo-Su 09:30-22:30"
+  },
+  {
+    "id": "geo-515d07bdedf8392d405953ae9575a4854640f00103f901d64502350000000092030e50656b61726120496c6972696a61",
+    "lat": 45.0440814,
+    "lon": 14.6132273,
+    "name": "Pekara Ilirija",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-14:00"
   },
   {
     "id": "geo-5196e82cb308252d4059da77a0a932834640f00103f9015d2551b40000000092031a43616666652042617220436173612064656c20506164726f6e65",
@@ -4355,6 +4956,13 @@
     "website": "https://www.instagram.com/thekitchen.malinska/?hl=cs"
   },
   {
+    "id": "geo-51db55a3b2bc0e2d40599c734b06db8f4640f00103f901b82ce5f1020000009203064d6c696e6172",
+    "lat": 45.1238716,
+    "lon": 14.5287834,
+    "name": "Mlinar",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51ef3e5f6c9c0c2d4059056ba05a6d8f4640f00102f901d6c58e4e0000000092030e4175746f6b616d70204472616761",
     "lat": 45.12052471955216,
     "lon": 14.524630915285767,
@@ -4515,6 +5123,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51b7aa36493d552d4059639813b4c9924640f00103f9012725771b0200000092030650656b617261",
+    "lat": 45.1467805,
+    "lon": 14.6664832,
+    "name": "Pekara",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-14:00"
+  },
+  {
     "id": "geo-513c8963b895552d40597baccf8bc9924640f00103f901cb9e307600000000920306416e6b6f7261",
     "lat": 45.1467757,
     "lon": 14.6671579,
@@ -4541,6 +5157,14 @@
     "lon": 14.6200694,
     "name": "Oleander",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-518eba8c518d3d2d4059571fb4c304944640f00103f90100035fca0200000092030d50656b617261205672626e696b",
+    "lat": 45.1563954,
+    "lon": 14.6202188,
+    "name": "Pekara Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 07:00-14:00; Su 07:00-13:00"
   },
   {
     "id": "geo-5106f7031e183c2d40598bae66f8aa934640f00103f901003ffd5302000000920306536c616d6e69",
@@ -4650,6 +5274,13 @@
     "phone": "+385 51 846 168"
   },
   {
+    "id": "geo-514962eeff88172d4059f82fb54a55954640f00103f901a7bf16de0000000092031270656b61726e6120426172626120546f6e79",
+    "lat": 45.1666654,
+    "lon": 14.5459671,
+    "name": "pekarna Barba Tony",
+    "category": "bakery"
+  },
+  {
     "id": "geo-511442621635172d40591e0c868439954640f00103f901e3bbf02b01000000",
     "lat": 45.1658178,
     "lon": 14.5453269,
@@ -4722,6 +5353,14 @@
     "phone": "+385 51 853 169;+385 98 982 8157"
   },
   {
+    "id": "geo-512eed2f16e1312d405981f4030dec934640f00103f901573805950100000092030d50656b6172612042616b657279",
+    "lat": 45.1556412,
+    "lon": 14.5974204,
+    "name": "Pekara Bakery",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-21:00"
+  },
+  {
     "id": "geo-5156d5cbef34292d4059faf02c4146934640f00103f9017abde1df01000000",
     "lat": 45.1505815,
     "lon": 14.580482,
@@ -4792,6 +5431,14 @@
     "lon": 14.5458949,
     "name": "surf 'n' fries",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-5156139f967a152d40598aaa04300a954640f00103f901576702550000000092031150656b61726120426172626120546f6e79",
+    "lat": 45.1643734,
+    "lon": 14.5419509,
+    "name": "Pekara Barba Tony",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-21:00"
   },
   {
     "id": "geo-51ca04b28d2efd2c4059b4249b06a08f4640f00103f901a877a9b70000000092030c4b6f6e6f626120506f726174",
@@ -4968,6 +5615,14 @@
     "openingHours": "only Season"
   },
   {
+    "id": "geo-51eac836154e272d4059145d177e70834640f00103f901429c15e1000000009203066d6c696e6172",
+    "lat": 45.0268705,
+    "lon": 14.5767676,
+    "name": "mlinar",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-22:00"
+  },
+  {
     "id": "geo-516d414a4794252d40593d66fbeb70834640f00103f901875ade92010000009203124772696c6c20262042757267657220426172",
     "lat": 45.0268836,
     "lon": 14.5733969,
@@ -4980,6 +5635,14 @@
     "lon": 14.5729322,
     "name": "Studenac",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-517de882fa96252d40592187d2286e834640f00103f901891cde9201000000920307466f7274756e61",
+    "lat": 45.0267993,
+    "lon": 14.5734175,
+    "name": "Fortuna",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:30-21:00"
   },
   {
     "id": "geo-51997917940e232d4059142c6920f1834640f00103f901ab9edbfd000000009203174d61726b6574206d65736e69636120c5bd75c5be69c487",
@@ -5045,6 +5708,13 @@
     "phone": "+385 99 330 5565"
   },
   {
+    "id": "geo-515b05d61643022d40595b5029c0c18e4640f00103f901753ecd920100000092030a426172626120546f6e79",
+    "lat": 45.1152878,
+    "lon": 14.5044181,
+    "name": "Barba Tony",
+    "category": "bakery"
+  },
+  {
     "id": "geo-518001ce9c3f032d40596562049ec58e4640f00103f9018a6c96060300000092030b56696c6c612050616c6d61",
     "lat": 45.1154058,
     "lon": 14.5063447,
@@ -5068,6 +5738,14 @@
     "openingHours": "Tu-Su 07:00-21:00; Mo 07:00-14:00"
   },
   {
+    "id": "geo-5184b7ac67ad0d2d405966b8a6e5ac8f4640f00103f901358e6a94010000009203065672626e696b",
+    "lat": 45.1224639,
+    "lon": 14.5267136,
+    "name": "Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Fr 06:30-20:00; Sa 06:30-13:30; Su 07:00-13:00"
+  },
+  {
     "id": "geo-510c9f63f6680c2d405997d2e92faa8f4640f00103f9018edab19201000000920307506f727469c487",
     "lat": 45.1223812,
     "lon": 14.5242383,
@@ -5088,6 +5766,13 @@
     "lon": 14.528455974835271,
     "name": "Pension",
     "category": "hotel"
+  },
+  {
+    "id": "geo-515f0ce544bb0e2d40596fe12f1cbe8f4640f00103f9019b83bf920100000092030356414c",
+    "lat": 45.1229892,
+    "lon": 14.5287725,
+    "name": "VAL",
+    "category": "bakery"
   },
   {
     "id": "geo-51b96fb54e5c0e2d4059de358d92fc8f4640f00103f90140853cd7020000009203054164726961",
@@ -5142,6 +5827,14 @@
     "category": "restaurant",
     "website": "http://www.intrada-malinska.com",
     "openingHours": "Mo-Su 12:00-23:00"
+  },
+  {
+    "id": "geo-51d93972497a592d405911c248d4b0894640f00103f901c1e200550000000092030d50656b617261205672626e696b",
+    "lat": 45.0757089,
+    "lon": 14.6747611,
+    "name": "Pekara Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:30-13:00,17:00-21:00; Su 07:00-13:00"
   },
   {
     "id": "geo-5162fc8fa740592d405915f18c6c9d894640f00103f901a56f043500000000920305447563616e",
@@ -5201,6 +5894,14 @@
     "category": "hotel"
   },
   {
+    "id": "geo-515e30ec4572542d4059e5b836c8c6924640f00102f901f4c7c814000000009203065672626e696b",
+    "lat": 45.14669134780869,
+    "lon": 14.664934334832818,
+    "name": "Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 07:00-14:00; Su 07:00-13:00"
+  },
+  {
     "id": "geo-512cf93317134a2d40595958cbf852914640f00103f901dacca7df0100000092031354726f676f76696e61204b726b20642e20642e",
     "lat": 45.1353446,
     "lon": 14.6446769,
@@ -5250,6 +5951,13 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-519e8da6c4bf152d40599142fe3e88944640f00103f90104d5bd350000000092030a426172626120546f6e79",
+    "lat": 45.1604079,
+    "lon": 14.5424787,
+    "name": "Barba Tony",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51895baa775d142d4059bf9cd9aed0944640f00103f9012eed84dd000000009203064d616d612773",
     "lat": 45.1626185,
     "lon": 14.5397756,
@@ -5270,20 +5978,6 @@
     "lon": 14.5443139,
     "name": "Veya Maradiso Hotel by Aminess",
     "category": "hotel"
-  },
-  {
-    "id": "geo-51b26900ca3a172d4059fd4e93196f954640f00103f901a4aa8e22030000009203173720536561732052657374617572616e74202620426172",
-    "lat": 45.167453,
-    "lon": 14.5453704,
-    "name": "7 Seas Restaurant & Bar",
-    "category": "restaurant"
-  },
-  {
-    "id": "geo-51b3a492f073162d40596be2d3522f954640f00103f901611cbd980200000092030866726174656c6c69",
-    "lat": 45.1655067,
-    "lon": 14.5438533,
-    "name": "fratelli",
-    "category": "restaurant"
   },
   {
     "id": "geo-51c50c3d6f145b2d40596d78fdadca894640f00102f901a3cf694e000000009203064b6f6e6f6261",
@@ -5313,6 +6007,13 @@
     "lon": 14.7574404,
     "name": "Poper",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-510257c38f7b802d4059220b8794557c4640f00103f901cdf60c55000000009203054c656b616a",
+    "lat": 44.9713617,
+    "lon": 14.7509427,
+    "name": "Lekaj",
+    "category": "bakery"
   },
   {
     "id": "geo-51d19739b8cf812d40598023264d287c4640f00103f901208df8730000000092030744656c66696e6f",
@@ -5382,6 +6083,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-51664925e1e7802d4059771ac4622f7c4640f00103f9015e11584e0000000092030d50656b617261205672626e696b",
+    "lat": 44.9701961,
+    "lon": 14.7517691,
+    "name": "Pekara Vrbnik",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:30-13:30; Su 07:00-13:00"
+  },
+  {
     "id": "geo-511acc159458842d40596146c2082b7c4640f00103f9015d2208080300000092030a54756e6120486f757365",
     "lat": 44.9700633,
     "lon": 14.7584883,
@@ -5399,6 +6108,13 @@
     "openingHours": "Mo-Su 09:00-21:00"
   },
   {
+    "id": "geo-516067f9707f802d405965b1039dff7b4640f00103f901cff60c550000000092030950616e69666963696f",
+    "lat": 44.9687382,
+    "lon": 14.7509723,
+    "name": "Panificio",
+    "category": "bakery"
+  },
+  {
     "id": "geo-518843dbd6bb802d4059700b96ea027c4640f00103f90136d18c4e000000009203064b6f6e7a756d",
     "lat": 44.968839,
     "lon": 14.7514331,
@@ -5409,11 +6125,26 @@
     "openingHours": "Jan-May: Mo-Sa 07:00-19:00; Jun-Sep: Mo-Su 08:00-22:00; Oct-Dec: Mo-Sa 07:00-19:00"
   },
   {
+    "id": "geo-5199709ea003812d4059950acff00b7c4640f00103f901eb2aa694010000009203066d6c696e6172",
+    "lat": 44.9691144,
+    "lon": 14.7519808,
+    "name": "mlinar",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51978dcef929862d40598eaf3db3247c4640f00103f9014f998932000000009203074672616e696361",
     "lat": 44.96987,
     "lon": 14.762039,
     "name": "Franica",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-510341800c1d832d40596656a5e3207c4640f00103f901cf4a8c4e000000009203054261736b61",
+    "lat": 44.9697537,
+    "lon": 14.756081,
+    "name": "Baska",
+    "category": "bakery",
+    "openingHours": "Mo-Su 07:00-15:00"
   },
   {
     "id": "geo-51bba99212cc8a2d405984fef801fe7b4640f00103f9013db5325500000000",
@@ -5481,6 +6212,14 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-51da50d6146d7f2d4059c6e0bc93aa7b4640f00103f9015211584e00000000920303415253",
+    "lat": 44.9661431,
+    "lon": 14.7488791,
+    "name": "ARS",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-24:00"
+  },
+  {
     "id": "geo-5138482d39937f2d40591b199aa1a77b4640f00103f9014611584e00000000920307416d6164657573",
     "lat": 44.9660532,
     "lon": 14.7491701,
@@ -5502,6 +6241,13 @@
     "lon": 14.7494287,
     "name": "Oliva",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-51b7f1272a1b7e2d40595818c7ed3c7b4640f00103f901d725e7dd00000000",
+    "lat": 44.9627969,
+    "lon": 14.746301,
+    "name": "bakery",
+    "category": "bakery"
   },
   {
     "id": "geo-51bebda5fae67d2d4059c60d9c088f7b4640f00101f901003a52000000000092031b4261c5a16b612042656163682043616d70696e67205265736f7274",
@@ -5723,6 +6469,79 @@
     "lon": 14.449519274935012,
     "name": "restaurant",
     "category": "restaurant"
+  },
+  {
+    "id": "osm-node-1287019409",
+    "lat": 45.2374423,
+    "lon": 14.2039184,
+    "name": "Lovačka kuća Perun",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-6550779700",
+    "lat": 45.2861874,
+    "lon": 14.2174932,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-11027910983",
+    "lat": 45.2244949,
+    "lon": 14.206539,
+    "name": "Planinarsko sklonište Kremenjak 847m",
+    "category": "hut",
+    "website": "https://www.hps.hr/info/planinarske-kuce/planinarsko-skloniste-kremenjak/"
+  },
+  {
+    "id": "osm-node-11492211977",
+    "lat": 45.4354574,
+    "lon": 13.9668845,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-12228633327",
+    "lat": 45.6315956,
+    "lon": 13.791596,
+    "name": "Via Salata",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-12841463095",
+    "lat": 45.4457097,
+    "lon": 13.9716012,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-node-13103743715",
+    "lat": 45.6550161,
+    "lon": 13.775102,
+    "name": "Mountain hut",
+    "category": "hut"
+  },
+  {
+    "id": "osm-way-36416673",
+    "lat": 45.6193603,
+    "lon": 13.8658422,
+    "name": "Rifugio Mario Premuda",
+    "category": "hut",
+    "phone": "+39 040 2037027"
+  },
+  {
+    "id": "osm-way-399179363",
+    "lat": 45.5338375,
+    "lon": 13.9753777,
+    "name": "Tumova koča na Slavniku",
+    "category": "hut",
+    "phone": "+386 5 6870134"
+  },
+  {
+    "id": "osm-way-440562808",
+    "lat": 45.3084386,
+    "lon": 14.2157066,
+    "name": "Planinarski dom Poklon",
+    "category": "hut"
   },
   {
     "id": "geo-511c5025b9b2762c405985798f334d9a4640f00103f90144f779890200000092031056696c6c61205472616d6f6e74616e61",
@@ -6071,6 +6890,14 @@
     "website": "https://www.hotellafontana.it/"
   },
   {
+    "id": "geo-51d6ad9e93dea72b4059cc36813342d14640f00103f9012ab9d0230000000092030e466f6e74616e6f7420506965726f",
+    "lat": 45.6348328,
+    "lon": 13.82787,
+    "name": "Fontanot Piero",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 06:00-12:30"
+  },
+  {
     "id": "geo-51f04e3e3db6a52b4059981e03684ad14640f00103f9019137ca110000000092031950697a7a657269612054726174746f72696120537065746963",
     "lat": 45.6350832,
     "lon": 13.823656,
@@ -6092,6 +6919,13 @@
     "lon": 13.812810505730663,
     "name": "camping",
     "category": "camping"
+  },
+  {
+    "id": "geo-5116f9f5436c902b4059ae580dd308d24640f00103f901afe2c9fd0200000092030a416c20426f6e2050616e",
+    "lat": 45.6408943,
+    "lon": 13.782076,
+    "name": "Al Bon Pan",
+    "category": "bakery"
   },
   {
     "id": "geo-51c602ba8a20912b40599f11b6e919d24640f00103f90109b3fa8d02000000",
@@ -6165,6 +6999,13 @@
     "lon": 13.7969614,
     "name": "Metà",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-5106d671fc50992b40595f06088b2fd24640f00103f901c8dcc2fd02000000920307496e6e65737361",
+    "lat": 45.6420759,
+    "lon": 13.799446,
+    "name": "Innessa",
+    "category": "bakery"
   },
   {
     "id": "geo-5115cd5e1157992b4059b205ce63ded14640f00103f90150acb7c20000000092030f43656e74726f20446973636f756e74",
@@ -6307,6 +7148,15 @@
     "lon": 13.7875495,
     "name": "water",
     "category": "water"
+  },
+  {
+    "id": "geo-51def24707da932b40595d595826b2d04640f00103f901cc9a99d80000000092031250616e69666963696f205669657a7a6f6c69",
+    "lat": 45.6304367,
+    "lon": 13.7887728,
+    "name": "Panificio Viezzoli",
+    "category": "bakery",
+    "phone": "+39 040 816366",
+    "openingHours": "Mo-Sa 07:00-19:30"
   },
   {
     "id": "geo-5165f8f47ddd922b405968fba1e3b4d04640f00103f9013d944f1900000000920314496c204d6f6e646f2064656c6c612050697a7a61",
@@ -6533,13 +7383,11 @@
     "category": "supermarket"
   },
   {
-    "id": "geo-51a8847181159d2b4059ccadb59cf0cf4640f00103f90133589827020000009203105468652043726f776e204c6f756e6765",
-    "lat": 45.6245304,
-    "lon": 13.8068047,
-    "name": "The Crown Lounge",
-    "category": "restaurant",
-    "phone": "+39 040 3409790",
-    "openingHours": "Mo-Sa 07:30-13:00,15:00-19:30; Su,PH 08:00-13:00,16:00-18:00"
+    "id": "geo-5157ebc4e5789d2b40599f83786eebcf4640f00103f901c639992702000000",
+    "lat": 45.6243723,
+    "lon": 13.807563,
+    "name": "bakery",
+    "category": "bakery"
   },
   {
     "id": "geo-5194837e4ba59c2b4059308e80c0b9cf4640f00103f9016782e39000000000",
@@ -6569,6 +7417,13 @@
     "name": "Pizzeria da Modesto",
     "category": "restaurant",
     "phone": "+39 040 812837"
+  },
+  {
+    "id": "geo-510f1d4cd41ca62b4059d8b4f74e71cf4640f00103f901099260be010000009203085669657a7a6f6c69",
+    "lat": 45.6206454,
+    "lon": 13.8244387,
+    "name": "Viezzoli",
+    "category": "bakery"
   },
   {
     "id": "geo-517cee04fbafb72b4059369ab745f4cf4640f00103f90177c0aa9001000000",
@@ -6708,6 +7563,22 @@
     "website": "http://www.petrol.si/bencinski-servisi/podrobno/162",
     "phone": "+386 5 6800950",
     "openingHours": "24/7"
+  },
+  {
+    "id": "geo-5123224619bbe22b405987f5ebf3bdcd4640f00103f901d12e744f0200000092030750656b61726e61",
+    "lat": 45.6073594,
+    "lon": 13.9428337,
+    "name": "Pekarna",
+    "category": "bakery",
+    "openingHours": "Mo-Sa 07:00-18:00; Su 07:00-12:00"
+  },
+  {
+    "id": "geo-512f6b6281afe42b40596cdcac0b89cd4640f00103f9017a45744f0200000092030750656b61726e61",
+    "lat": 45.6057448,
+    "lon": 13.9466515,
+    "name": "Pekarna",
+    "category": "bakery",
+    "openingHours": "Mo-Su 06:00-22:00"
   },
   {
     "id": "geo-514ef8003851e62b4059c5ac174339cd4640f00103f90164682a4102000000",
@@ -6880,6 +7751,13 @@
     "lon": 13.7847303,
     "name": "Despar",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-513942ab387a912b40591e38c2fddbd14640f00103f901cb83cc1100000000",
+    "lat": 45.6395261,
+    "lon": 13.7841356,
+    "name": "bakery",
+    "category": "bakery"
   },
   {
     "id": "geo-51b2e5a617c68f2b40593c5d273ff3d14640f00103f901c3a8bcd5010000009203054d6178c3ac",
@@ -7164,6 +8042,14 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-514f7fac962a932b40598ed20039bcd24640f00103f90150ceb820010000009203145061737469636365726961204c61205065726c61",
+    "lat": 45.6463691,
+    "lon": 13.7874343,
+    "name": "Pasticceria La Perla",
+    "category": "bakery",
+    "phone": "+39 040 2451772"
+  },
+  {
     "id": "geo-518eb1135e82932b4059502b966c86d24640f00103f9012e17e6190200000092030d50697a7a612053746174696f6e",
     "lat": 45.6447273,
     "lon": 13.788104,
@@ -7209,6 +8095,20 @@
     "category": "water"
   },
   {
+    "id": "geo-5121f6532d33922b4059007d11233ad24640f00103f901b3dcc2fd020000009203125061737469636365726961204d69676e6f6e",
+    "lat": 45.6423992,
+    "lon": 13.7855467,
+    "name": "Pasticceria Mignon",
+    "category": "bakery"
+  },
+  {
+    "id": "geo-5103c875f810952b4059d7a7774c38d24640f00103f901c1dcc2fd0200000092031250616e65747465726961204465766964c3a8",
+    "lat": 45.6423431,
+    "lon": 13.7911451,
+    "name": "Panetteria Devidè",
+    "category": "bakery"
+  },
+  {
     "id": "geo-51a1aea4cb519a2b4059f152a00557d24640f00103f9012d17e6190200000092030c50697a7a61204d6174726978",
     "lat": 45.6432807,
     "lon": 13.8014053,
@@ -7218,12 +8118,27 @@
     "openingHours": "Tu-Su 18:30-23:00"
   },
   {
+    "id": "geo-512eb594e2998e2b405999130f8354d24640f00103f9015a2fca110000000092032250616e657474657269612070617374696363657269612053616e20476961636f6d6f",
+    "lat": 45.6432041,
+    "lon": 13.7785178,
+    "name": "Panetteria pasticceria San Giacomo",
+    "category": "bakery",
+    "phone": "+39 040 363421"
+  },
+  {
     "id": "geo-5132b2bf47588f2b40590a641b5d4ad24640f00103f901277a0e850000000092030d426172204772616e2050726978",
     "lat": 45.6428944,
     "lon": 13.7799704,
     "name": "Bar Gran Prix",
     "category": "restaurant",
     "phone": "+39 040 2415932"
+  },
+  {
+    "id": "geo-512fa8ca52468f2b40592b8ab2124ed24640f00103f90114ec3c850000000092030e50616e69666963696f2041726961",
+    "lat": 45.6430076,
+    "lon": 13.7798334,
+    "name": "Panificio Aria",
+    "category": "bakery"
   },
   {
     "id": "geo-51a60f5d50df8e2b4059ff1543835ed24640f00103f9010825a30f0000000092031c50697a7a65726961204c61204e756f7661204c616e7465726e696e61",
@@ -7355,6 +8270,15 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-51a25b5430cf8f2b405957e828acf9d24640f00103f901f21e6d6d0000000092030853697263656c6c69",
+    "lat": 45.6482444,
+    "lon": 13.7808776,
+    "name": "Sircelli",
+    "category": "bakery",
+    "phone": "+39 040 638563",
+    "openingHours": "Mo-Sa 07:00-20:00"
+  },
+  {
     "id": "geo-515661d806938f2b4059fed071daf8d24640f00103f901a8302e1d0100000092030e4c6120527565206475204269c3b2",
     "lat": 45.6482194,
     "lon": 13.7804186,
@@ -7368,7 +8292,7 @@
     "lat": 45.6499487,
     "lon": 13.7764992,
     "name": "L'angolo del pane",
-    "category": "restaurant",
+    "category": "bakery",
     "phone": "+39 040 372 1884",
     "openingHours": "Mo-Sa 07:00-20:00"
   },
@@ -7383,19 +8307,29 @@
     "openingHours": "Mo-Sa 08:00-20:30; Su 09:00-13:30; PH closed"
   },
   {
+    "id": "geo-5119b78773c38d2b405943ba8e2738d34640f00103f9017dcd19100000000092030f4c6120646567757374617a696f6e65",
+    "lat": 45.6501512,
+    "lon": 13.7768818,
+    "name": "La degustazione",
+    "category": "restaurant",
+    "phone": "+39 040 636555"
+  },
+  {
+    "id": "geo-51f598edafc38d2b4059e5b10bab1dd34640f00103f9012d0f95600000000092030a4d63446f6e616c642773",
+    "lat": 45.6493429,
+    "lon": 13.7768836,
+    "name": "McDonald's",
+    "category": "restaurant",
+    "website": "https://www.mcdonalds.it/ristorante/514",
+    "phone": "+39 040 4612714",
+    "openingHours": "08:00-00:00"
+  },
+  {
     "id": "geo-51ca68893a188e2b4059b41ebe4c14d34640f00103f901107bf5fa000000009203185a7564656363686520312042656426427265616b66617374",
     "lat": 45.649057,
     "lon": 13.7775286,
     "name": "Zudecche 1 Bed&Breakfast",
     "category": "hotel"
-  },
-  {
-    "id": "geo-51ddd1ff722d8e2b4059ebe40cc51dd34640f00103f9012a0f95600000000092030e46726174656c6c69204b65626170",
-    "lat": 45.649346,
-    "lon": 13.7776905,
-    "name": "Fratelli Kebap",
-    "category": "restaurant",
-    "phone": "+39 329 9278361"
   },
   {
     "id": "geo-51ccdf7316ac8f2b4059271d9bd31bd34640f00103f90130a52ac100000000",
@@ -7443,11 +8377,29 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-5127028bb26d8f2b40598e06f01648d34640f00103f901815bee0e01000000920309436861726c6f747465",
+    "lat": 45.6506375,
+    "lon": 13.7801338,
+    "name": "Charlotte",
+    "category": "bakery",
+    "phone": "+39 040 064 3874",
+    "openingHours": "Tu-Su 07:00-13:00"
+  },
+  {
     "id": "geo-5142e66fe7678f2b4059b5c6a01342d34640f00103f901833f3a0f0100000092030b467265652054696d652032",
     "lat": 45.650454,
     "lon": 13.7800896,
     "name": "Free Time 2",
     "category": "hotel"
+  },
+  {
+    "id": "geo-5130b2ae1b008f2b4059c56867e267d34640f00103f9017559e01a01000000920312696c2050616e652051756f74696469616e6f",
+    "lat": 45.6516078,
+    "lon": 13.7792977,
+    "name": "il Pane Quotidiano",
+    "category": "bakery",
+    "website": "https://www.ilpanequotidiano.com/",
+    "openingHours": "Mo-Sa 06:00-21:00; Su 07:00-21:30"
   },
   {
     "id": "geo-51f53e9f12218f2b4059b8fc2c3b69d34640f00103f901e9b9b700030000009203075472616e63696f",
@@ -7463,6 +8415,14 @@
     "lon": 13.7782702,
     "name": "supermarket",
     "category": "supermarket"
+  },
+  {
+    "id": "geo-51b0a07ab5ed8d2b4059e2e0777874d34640f00103f901d9fd1d120000000092031c50616e69666963696f2d70617374696363657269612047696f726769",
+    "lat": 45.6519919,
+    "lon": 13.7772042,
+    "name": "Panificio-pasticceria Giorgi",
+    "category": "bakery",
+    "phone": "+39 040 7606013"
   },
   {
     "id": "geo-51f97a08f4d38d2b40595a208b7e7ed34640f00103f9012ad7ae040200000092030d43617264756363692043616665",
@@ -7481,6 +8441,13 @@
     "website": "https://trattoriadagiovanni.com/",
     "phone": "+39 040 639396",
     "openingHours": "Mo-Sa 09:00-23:00"
+  },
+  {
+    "id": "geo-5114252191b68d2b40590122b3695bd34640f00103f901bd8e84ca0000000092030d48656964692065205065746572",
+    "lat": 45.6512272,
+    "lon": 13.7767835,
+    "name": "Heidi e Peter",
+    "category": "bakery"
   },
   {
     "id": "geo-512c1103b8b48d2b4059ddbb61365cd34640f00103f9012dd6962c02000000920308457070696e676572",
@@ -7571,6 +8538,13 @@
     "lon": 13.7754764,
     "name": "Bar Kenya",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-5157adf13e338d2b4059dcd039e40bd44640f00103f901b108dd6001000000920308436164656e61726f",
+    "lat": 45.6566129,
+    "lon": 13.7757816,
+    "name": "Cadenaro",
+    "category": "bakery"
   },
   {
     "id": "geo-517fa31d37fc862b40595a97bfe72cd24640f00103f90188cfc8110000000092030b50697a7a61205a656c6967",
@@ -7699,6 +8673,16 @@
     "phone": "+39040303899"
   },
   {
+    "id": "geo-511f57d92db8852b40598b5242b0aad24640f00103f901f589b7460200000092030c5370616363696f2070616e69",
+    "lat": 45.645834,
+    "lon": 13.7611708,
+    "name": "Spaccio pani",
+    "category": "bakery",
+    "website": "https://spacciopani.it/",
+    "phone": "+39 040 3408630",
+    "openingHours": "Mo-Fr 08:00-15:00, Th-Fr 17:30-20:00; PH off"
+  },
+  {
     "id": "geo-514f0fc0bcb6852b40599f909db7b1d24640f00103f901b630141303000000920316536f7068696120426f75746971756520537569746573",
     "lat": 45.6460485,
     "lon": 13.7611598,
@@ -7786,6 +8770,14 @@
     "openingHours": "We 19:00-22:00, Th-Sa 12:00-14:00,19:00-22:00, Su 12:00-14:00"
   },
   {
+    "id": "geo-51ceb6e402e1842b40594ded56e075d24640f00103f9011d8868270300000092030954686520466c616b65",
+    "lat": 45.6442223,
+    "lon": 13.7595292,
+    "name": "The Flake",
+    "category": "bakery",
+    "openingHours": "Tu-Sa 08:00-16:00"
+  },
+  {
     "id": "geo-516dacc43c2b852b4059eac42f0620d24640f00103f901e143584e0000000092031250697a7a65726961204d6172676172697461",
     "lat": 45.6416023,
     "lon": 13.7600955,
@@ -7869,6 +8861,13 @@
     "category": "water"
   },
   {
+    "id": "geo-51c0b8af5ea08b2b4059a301614c9fd24640f00103f90180500b920200000092030747696f76696e69",
+    "lat": 45.6454864,
+    "lon": 13.7727079,
+    "name": "Giovini",
+    "category": "bakery"
+  },
+  {
     "id": "geo-510863fa14b6892b4059ab9a7ba3b1d24640f00103f901ebcd6af400000000",
     "lat": 45.6460461,
     "lon": 13.7689673,
@@ -7941,6 +8940,13 @@
     "category": "supermarket"
   },
   {
+    "id": "geo-51dfabb1df6e882b4059dea2dd32f1d24640f00103f901726a6f8c020000009203085669657a7a6f6c69",
+    "lat": 45.6479858,
+    "lon": 13.7664709,
+    "name": "Viezzoli",
+    "category": "bakery"
+  },
+  {
     "id": "geo-510c1de0ee51882b4059d1950854ffd24640f00103f9010b8047d502000000920313416e7469636120476869616363657265747461",
     "lat": 45.648417,
     "lon": 13.7662501,
@@ -7994,6 +9000,16 @@
     "lon": 13.7693067,
     "name": "Stuzzicheria Bibiez",
     "category": "restaurant"
+  },
+  {
+    "id": "geo-511cd36e4feb892b40595fed28ce51d34640f00103f901cae16418020000009203145061737469636365726961204d61726974616e69",
+    "lat": 45.650934,
+    "lon": 13.7693734,
+    "name": "Pasticceria Maritani",
+    "category": "bakery",
+    "website": "http://www.maritani.it/",
+    "phone": "+39 040 23334834",
+    "openingHours": "Mo-Fr 07:30-20:30; Sa,Su 08:00-20:30"
   },
   {
     "id": "geo-513332c85d84892b405953e68b625ed34640f00103f90112f9154d020000009203105065702773204669736820486f757365",
@@ -8083,6 +9099,14 @@
     "category": "restaurant"
   },
   {
+    "id": "geo-5185611b4c1e8a2b4059273a819f27d34640f00103f901d3073e2e0200000092030f492056697a6920646920426163636f",
+    "lat": 45.6496467,
+    "lon": 13.7697624,
+    "name": "I Vizi di Bacco",
+    "category": "bakery",
+    "website": "https://www.vizidibaccolab.it/"
+  },
+  {
     "id": "geo-51d1967329ae8a2b40597b9faa4203d34640f00103f90194bd34f300000000",
     "lat": 45.648537,
     "lon": 13.77086,
@@ -8116,44 +9140,5 @@
     "category": "restaurant",
     "phone": "+39 040 362493",
     "openingHours": "Mo-Sa 08:00-21:00"
-  },
-  {
-    "id": "geo-51ab0da9fd318c2b405974e151746ed34640f00103f9013df56e6701000000",
-    "lat": 45.6518083,
-    "lon": 13.7738189,
-    "name": "water",
-    "category": "water"
-  },
-  {
-    "id": "geo-513370404b578c2b405957f9afbd60d34640f00103f901c0b0ba920000000092031443616666c3a8205374656c6c6120506f6c617265",
-    "lat": 45.6513898,
-    "lon": 13.7741035,
-    "name": "Caffè Stella Polare",
-    "category": "restaurant",
-    "phone": "+39 040 233 1929",
-    "openingHours": "Mo-Su 07:00-22:00; PH closed"
-  },
-  {
-    "id": "geo-513604c765dc8c2b40596e98b21d9dd34640f00103f9018b05681e030000009203134e65726f2043616666c3a8264269737472c3b2",
-    "lat": 45.6532323,
-    "lon": 13.775119,
-    "name": "Nero Caffè&Bistrò",
-    "category": "restaurant",
-    "phone": "+39 040 2452533"
-  },
-  {
-    "id": "geo-5114ae47e17a8c2b4059c1f231699dd34640f00103f901e65699d80000000092030e466f72766d20426f757469717565",
-    "lat": 45.6532413,
-    "lon": 13.774375,
-    "name": "Forvm Boutique",
-    "category": "hotel",
-    "website": "https://www.forvmboutiquehotel.it"
-  },
-  {
-    "id": "geo-51e3214212ac8c2b4059dabffc5fbfd34640f00103f90135e709fd02000000",
-    "lat": 45.6542778,
-    "lon": 13.7747503,
-    "name": "hotel",
-    "category": "hotel"
   }
 ]

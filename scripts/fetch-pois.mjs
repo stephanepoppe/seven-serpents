@@ -174,7 +174,7 @@ const GEOAPIFY_CATEGORIES = [
   'catering.restaurant',
   'catering.fast_food',
   'catering.cafe',
-  'catering.bakery',
+  'commercial.food_and_drink.bakery',
   'commercial.supermarket',
   'commercial.convenience',
   'amenity.drinking_water',
@@ -186,7 +186,7 @@ function geoapifyCategory(cats) {
   if (c.includes('camping'))        return 'camping';
   if (c.includes('hostel'))         return 'hostel';
   if (c.includes('hotel') || c.includes('guest_house')) return 'hotel';
-  if (c.includes('bakery'))           return 'bakery';
+  if (c.includes('food_and_drink.bakery') || c.includes('food_and_drink.pastry')) return 'bakery';
   if (c.includes('restaurant') || c.includes('fast_food') || c.includes('cafe')) return 'restaurant';
   if (c.includes('supermarket') || c.includes('convenience')) return 'supermarket';
   if (c.includes('drinking_water')) return 'water';
