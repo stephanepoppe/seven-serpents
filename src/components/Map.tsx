@@ -20,6 +20,7 @@ const POI_EMOJIS: Record<POICategory, string> = {
   supermarket:'🛒',
   water:      '💧',
   hut:        '🛖',
+  bakery:     '🥐',
 };
 
 function poiIcon(category: POICategory) {

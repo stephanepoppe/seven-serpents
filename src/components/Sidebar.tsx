@@ -33,6 +33,7 @@ const CATEGORIES: { key: POICategory; label: string; emoji: string }[] = [
   { key: 'supermarket',label: 'Supermarket',  emoji: '🛒' },
   { key: 'water',      label: 'Water source', emoji: '💧' },
   { key: 'hut',        label: 'Mountain hut', emoji: '🛖' },
+  { key: 'bakery',     label: 'Bakery',       emoji: '🥐' },
 ];
 
 interface Props {

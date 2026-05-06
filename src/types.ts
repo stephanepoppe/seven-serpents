@@ -23,7 +23,7 @@ export interface Segment {
   elevationGainM: number;
 }
 
-export type POICategory = 'camping' | 'hostel' | 'hotel' | 'restaurant' | 'supermarket' | 'water' | 'hut';
+export type POICategory = 'camping' | 'hostel' | 'hotel' | 'restaurant' | 'supermarket' | 'water' | 'hut' | 'bakery';
 
 export interface POI {
   id: string;

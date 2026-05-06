@@ -32,7 +32,7 @@ export default function App() {
   const [ferries, setFerries] = useState<Ferry[]>([]);
   const [pois] = useState<POI[]>(bundledPOIs);
   const [visibleCategories, setVisibleCategories] = useState<Set<POICategory>>(
-    new Set(['camping', 'hostel', 'hotel', 'restaurant', 'supermarket', 'water', 'hut']),
+    new Set(['camping', 'hostel', 'hotel', 'restaurant', 'supermarket', 'water', 'hut', 'bakery']),
   );
   const [weatherData, setWeatherData] = useState<SegmentWeather[]>([]);
   const [loadingWeather, setLoadingWeather] = useState(false);

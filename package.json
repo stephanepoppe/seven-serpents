@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "fetch-pois": "node scripts/fetch-pois.mjs"
+    "fetch-pois": "node --env-file=.env scripts/fetch-pois.mjs",
+    "fetch-surface": "node --env-file=.env scripts/fetch-surface.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
