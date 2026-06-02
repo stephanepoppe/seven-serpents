@@ -2,6 +2,9 @@ import { useEffect, useRef, useMemo, useCallback, useState } from 'react';
 import ferryData from '../data/ferries.json';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import 'leaflet.markercluster/dist/MarkerCluster.css';
+import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
+import 'leaflet.markercluster';
 import type { Segment, POI, POICategory, Ferry, TrackPoint } from '../types';
 import { haversineKm } from '../utils/gpxParser';
 
@@ -106,7 +109,12 @@ export default function MapView({ segments, visibleSegments, pois, ferries, elev
 
     routeLayerRef.current = L.layerGroup().addTo(map);
     distLayerRef.current = L.layerGroup().addTo(map);
-    poiLayerRef.current = L.layerGroup().addTo(map);
+    poiLayerRef.current = (L as unknown as { markerClusterGroup: (opts: object) => L.LayerGroup }).markerClusterGroup({
+      maxClusterRadius: 40,
+      disableClusteringAtZoom: 14,
+      spiderfyOnMaxZoom: true,
+      showCoverageOnHover: false,
+    }).addTo(map);
     ferryLayerRef.current = L.layerGroup().addTo(map);
 
     // Compass — static north-up (CartoDB Positron never rotates)
