@@ -150,7 +150,12 @@ export default function App() {
     setVisibleCategories(cats);
   }
 
-  const visiblePOIs = pois.filter(p => visibleCategories.has(p.category));
+  const routeStart = segments[0]?.points[0];
+  const visiblePOIs = pois.filter(p => {
+    if (!visibleCategories.has(p.category)) return false;
+    if (routeStart && haversineKm(routeStart, p) < 5) return false;
+    return true;
+  });
 
   return (
     <div className="app">
